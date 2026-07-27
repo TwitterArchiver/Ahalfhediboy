@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2079467465935876168",
+    "created_at": "2026-07-21T07:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079467485774897246"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079467485774897246",
+    "in_reply_to_user_id": "1853967550381445127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079467465935876168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简单是好的 但事实上 你必须经历这一切 \n所以 所谓迷失 是抵达的唯一路径"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2079467465935876168",
+        "created_at": "2026-07-21T07:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079467485774897246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079467485774897246",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079467465935876168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简单是好的 但事实上 你必须经历这一切 \n所以 所谓迷失 是抵达的唯一路径"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2079467465935876168",
+        "created_at": "2026-07-21T07:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079467465935876168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079467465935876168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人认为 你应该珍惜你已经拥有的东西￼ 但令人痛苦的真相是￼ 你没有办法实现珍惜你已有的东西￼￼ 你只能等他丢失 然后被重新寻回￼￼￼ 才有可能真正拥有它 中间的丢失是必经之路 ￼无法绕开 任何试图劝你现在就￼￼停下来不要追了的人￼ 都没有理解本意 ￼它们隐含了一个价值判断 复杂是不好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 468,
+          "like_count": 6482,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1838
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

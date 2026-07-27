@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2079080959526260845",
+    "created_at": "2026-07-20T05:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079080959526260845"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079080959526260845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【真理是主观的】\n对我而言的真理\n对于一个 活生生的 有限的 终有一死的人来说 客观真理永远无法解决人生最根本的问题￼ 比如如何面对死亡 如何获得意义 一个命题是否是真理 取决于个体是否愿意以最强烈的激情去践行他￼它 就是为什么人们必然经历迷失的原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2079080959526260845",
+        "created_at": "2026-07-20T05:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079080959526260845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079080959526260845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【真理是主观的】\n对我而言的真理\n对于一个 活生生的 有限的 终有一死的人来说 客观真理永远无法解决人生最根本的问题￼ 比如如何面对死亡 如何获得意义 一个命题是否是真理 取决于个体是否愿意以最强烈的激情去践行他￼它 就是为什么人们必然经历迷失的原因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 468,
+          "like_count": 6492,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}
