@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2054398847799959712",
+    "created_at": "2026-06-09T03:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064195495950496214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1841910776778354689",
+          "start": 0,
+          "username": "YsbmAilu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064195495950496214",
+    "in_reply_to_user_id": "1841910776778354689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054398847799959712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YsbmAilu 老头也干了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2054398847799959712",
+        "created_at": "2026-06-09T03:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064195495950496214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1841910776778354689",
+              "start": 0,
+              "username": "YsbmAilu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064195495950496214",
+        "in_reply_to_user_id": "1841910776778354689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054398847799959712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YsbmAilu 老头也干了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841910776778354689",
+        "conversation_id": "2054398847799959712",
+        "created_at": "2026-05-13T03:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054398847799959712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054398847799959712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4647,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被一个老头害惨了 我暑假要花四千刀重修一门初阶水课 谁赔我点钱吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 473,
+          "like_count": 6406,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 1780
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T18:38:51.000Z",
+        "description": "ny上学🇺🇸 | #switch #bi #4i | 认识我要钱 | 备用小号@maomao_OvO1 | 互关可申请: @whyutastesogood",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "switch"
+              },
+              {
+                "end": 20,
+                "start": 17,
+                "tag": "bi"
+              },
+              {
+                "end": 24,
+                "start": 21,
+                "tag": "4i"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "maomao_OvO1"
+              },
+              {
+                "end": 77,
+                "start": 61,
+                "username": "whyutastesogood"
+              }
+            ]
+          }
+        },
+        "id": "1841910776778354689",
+        "location": "🚪200$",
+        "name": "猫猫O.o",
+        "pinned_tweet_id": "2041047557732786370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031524356233281536/FN7aaVxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 134,
+          "like_count": 4471,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 1976
+        },
+        "username": "YsbmAilu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2062119104283332868",
+    "created_at": "2026-06-03T14:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062174988178804835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1961746336195411968",
+          "start": 0,
+          "username": "jelly114139"
+        },
+        {
+          "end": 24,
+          "id": "2007600959850217472",
+          "start": 13,
+          "username": "Echoand522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062174988178804835",
+    "in_reply_to_user_id": "1961746336195411968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062148258592706998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jelly114139 @Echoand522 稍微吃快点就会很累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2062119104283332868",
+        "created_at": "2026-06-03T14:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062174988178804835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1961746336195411968",
+              "start": 0,
+              "username": "jelly114139"
+            },
+            {
+              "end": 24,
+              "id": "2007600959850217472",
+              "start": 13,
+              "username": "Echoand522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062174988178804835",
+        "in_reply_to_user_id": "1961746336195411968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062148258592706998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jelly114139 @Echoand522 稍微吃快点就会很累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961746336195411968",
+        "conversation_id": "2062119104283332868",
+        "created_at": "2026-06-03T12:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062148258592706998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007600959850217472",
+              "start": 0,
+              "username": "Echoand522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062148258592706998",
+        "in_reply_to_user_id": "2007600959850217472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062119104283332868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Echoand522 我特别羡慕瘦子吃一点点就会说“好累”“吃累了不想吃了”的这种感觉。。。我不撑死绝不这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 477,
+          "like_count": 6286,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 1757
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T11:02:37.000Z",
+        "description": "恐惧",
+        "id": "1961746336195411968",
+        "name": "兔子",
+        "pinned_tweet_id": "1989377199389249703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061716454593155072/Kvv03Ukp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4655,
+          "following_count": 44,
+          "like_count": 812,
+          "listed_count": 11,
+          "media_count": 37,
+          "tweet_count": 223
+        },
+        "username": "jelly114139",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T23:53:09.000Z",
+        "description": "来自农村，小学学历，没出过省，家境贫寒，没有工作，没有眼界，请不要为难穷人，给我一丝溫暖，让我隐入尘世，谢谢。",
+        "id": "2007600959850217472",
+        "name": "522",
+        "pinned_tweet_id": "2019746499425427492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017994216128102401/AORSRTRV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6516,
+          "following_count": 62,
+          "like_count": 2623,
+          "listed_count": 13,
+          "media_count": 77,
+          "tweet_count": 791
+        },
+        "username": "Echoand522",
+        "verified": false
+      }
+    ]
+  }
+}

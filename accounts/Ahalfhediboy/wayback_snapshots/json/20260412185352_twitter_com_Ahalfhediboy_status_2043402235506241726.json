@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2043301596210336144",
+    "created_at": "2026-04-12T18:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043402235506241726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1578395243891855362",
+          "start": 0,
+          "username": "hate_0811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043402235506241726",
+    "in_reply_to_user_id": "1578395243891855362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043301596210336144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hate_0811 小喷菇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043301567466774528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtD8yHbIAAibUO.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2043301596210336144",
+        "created_at": "2026-04-12T18:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043402235506241726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1578395243891855362",
+              "start": 0,
+              "username": "hate_0811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043402235506241726",
+        "in_reply_to_user_id": "1578395243891855362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043301596210336144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hate_0811 小喷菇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043301567466774528"
+          ]
+        },
+        "author_id": "1578395243891855362",
+        "conversation_id": "2043301596210336144",
+        "created_at": "2026-04-12T12:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043301596210336144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kv5EpSj6zo",
+              "end": 38,
+              "expanded_url": "https://x.com/hate_0811/status/2043301596210336144/photo/1",
+              "media_key": "3_2043301567466774528",
+              "start": 15,
+              "url": "https://t.co/Kv5EpSj6zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043301596210336144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1441,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小的笑的我肚子痛（有🐔慎点） https://t.co/Kv5EpSj6zo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "The people with no name",
+        "pinned_tweet_id": "2034330382888259996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 204,
+          "like_count": 2803,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T14:42:16.000Z",
+        "description": "防失联小号喵@Tiesa1234",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Tiesa1234"
+              }
+            ]
+          }
+        },
+        "id": "1578395243891855362",
+        "location": "🚪128",
+        "name": "讨厌你的好",
+        "pinned_tweet_id": "1990474102017306720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041769231306649600/9VNYjxZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3063,
+          "following_count": 235,
+          "like_count": 8229,
+          "listed_count": 5,
+          "media_count": 809,
+          "tweet_count": 7202
+        },
+        "username": "hate_0811",
+        "verified": false
+      }
+    ]
+  }
+}

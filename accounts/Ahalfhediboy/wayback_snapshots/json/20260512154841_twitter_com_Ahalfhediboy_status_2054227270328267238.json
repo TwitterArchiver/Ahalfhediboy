@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2054064322838429984",
+    "created_at": "2026-05-12T15:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054227270328267238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048799265271750656",
+          "start": 0,
+          "username": "qsjwcjjlhqlrmws"
+        },
+        {
+          "end": 32,
+          "id": "2029965929116024832",
+          "start": 17,
+          "username": "Eeetoile126518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054227270328267238",
+    "in_reply_to_user_id": "2048799265271750656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054226577710567536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qsjwcjjlhqlrmws @Eeetoile126518 我182可以报185吗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2054064322838429984",
+        "created_at": "2026-05-12T15:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054227270328267238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048799265271750656",
+              "start": 0,
+              "username": "qsjwcjjlhqlrmws"
+            },
+            {
+              "end": 32,
+              "id": "2029965929116024832",
+              "start": 17,
+              "username": "Eeetoile126518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054227270328267238",
+        "in_reply_to_user_id": "2048799265271750656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054226577710567536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qsjwcjjlhqlrmws @Eeetoile126518 我182可以报185吗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048799265271750656",
+        "conversation_id": "2054064322838429984",
+        "created_at": "2026-05-12T15:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054226577710567536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029965929116024832",
+              "start": 0,
+              "username": "Eeetoile126518"
+            },
+            {
+              "end": 29,
+              "id": "1853967550381445127",
+              "start": 16,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054226577710567536",
+        "in_reply_to_user_id": "2029965929116024832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054173837085069450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eeetoile126518 @Ahalfhediboy 其实你173已经可以报175了，男的173都敢报180"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 450,
+          "like_count": 5028,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T16:20:59.000Z",
+        "description": "天下第一热爱做爱之人",
+        "id": "2048799265271750656",
+        "name": "call me",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048800252057321477/zAO1r32N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 75,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 51
+        },
+        "username": "qsjwcjjlhqlrmws",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T17:03:21.000Z",
+        "description": "bi🏳️‍🌈 此处为本人存放涩涩言论和吐槽现生的小号  回关随机 关取随意 ：）",
+        "id": "2029965929116024832",
+        "name": "Eeetoile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030156983635222528/89lYYInt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 10,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 111
+        },
+        "username": "Eeetoile126518",
+        "verified": false
+      }
+    ]
+  }
+}

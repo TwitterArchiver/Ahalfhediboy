@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2062013343083495647",
+    "created_at": "2026-06-03T16:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062213773767688252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1542846414421512193",
+          "start": 0,
+          "username": "Tunan7170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062213773767688252",
+    "in_reply_to_user_id": "1542846414421512193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062013343083495647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tunan7170 其实我是这样的 但我不是爱上别人了 我只是不喜欢玩手机。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062013336955633664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2-NHdbwAAzzNR.jpg",
+        "width": 845
+      },
+      {
+        "height": 1948,
+        "media_key": "3_2062013337135976448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2-NIIbkAA4lI9.jpg",
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2062013343083495647",
+        "created_at": "2026-06-03T16:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062213773767688252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1542846414421512193",
+              "start": 0,
+              "username": "Tunan7170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062213773767688252",
+        "in_reply_to_user_id": "1542846414421512193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062013343083495647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tunan7170 其实我是这样的 但我不是爱上别人了 我只是不喜欢玩手机。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062013336955633664",
+            "3_2062013337135976448"
+          ]
+        },
+        "author_id": "1542846414421512193",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062013343083495647",
+        "created_at": "2026-06-03T03:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062013343083495647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dZG6B4s6M",
+              "end": 41,
+              "expanded_url": "https://x.com/Tunan7170/status/2062013343083495647/photo/1",
+              "media_key": "3_2062013336955633664",
+              "start": 18,
+              "url": "https://t.co/9dZG6B4s6M"
+            },
+            {
+              "display_url": "pic.x.com/9dZG6B4s6M",
+              "end": 41,
+              "expanded_url": "https://x.com/Tunan7170/status/2062013343083495647/photo/1",
+              "media_key": "3_2062013337135976448",
+              "start": 18,
+              "url": "https://t.co/9dZG6B4s6M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062013343083495647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 248267,
+          "like_count": 312,
+          "quote_count": 3,
+          "reply_count": 290,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "为啥人能变得这么快。才过一个月呢。 https://t.co/9dZG6B4s6M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 479,
+          "like_count": 6295,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 1758
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T12:23:52.000Z",
+        "description": "Pansexuality｜精神肉体都阳痿｜只是欣赏身材｜发牢骚用的",
+        "id": "1542846414421512193",
+        "name": "again",
+        "pinned_tweet_id": "2061219972295303616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051409485219172352/s02DHap8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 9,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 73
+        },
+        "username": "Tunan7170",
+        "verified": false
+      }
+    ]
+  }
+}

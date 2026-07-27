@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2049839692468871514",
+    "created_at": "2026-05-01T02:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T03:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050036457394290952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1834612380023595008",
+          "start": 0,
+          "username": "sakanako1108"
+        },
+        {
+          "end": 24,
+          "id": "1695108682605080576",
+          "start": 14,
+          "username": "ccnanoQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050036457394290952",
+    "in_reply_to_user_id": "1834612380023595008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049920934547706193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakanako1108 @ccnanoQAQ 套用一句最经典的话，顾客都是上帝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2049839692468871514",
+        "created_at": "2026-05-01T02:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050036457394290952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1834612380023595008",
+              "start": 0,
+              "username": "sakanako1108"
+            },
+            {
+              "end": 24,
+              "id": "1695108682605080576",
+              "start": 14,
+              "username": "ccnanoQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050036457394290952",
+        "in_reply_to_user_id": "1834612380023595008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049920934547706193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakanako1108 @ccnanoQAQ 套用一句最经典的话，顾客都是上帝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834612380023595008",
+        "conversation_id": "2049839692468871514",
+        "created_at": "2026-04-30T18:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049920934547706193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1695108682605080576",
+              "start": 0,
+              "username": "ccnanoQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049920934547706193",
+        "in_reply_to_user_id": "1695108682605080576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 612,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049839692468871514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccnanoQAQ 技术在人家手上，你有本事可以不找人家，一个愿打一个愿挨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 336,
+          "like_count": 4029,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1157
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T15:17:43.000Z",
+        "description": "我是咸鱼成精\nB站：咸之鱼sakana",
+        "id": "1834612380023595008",
+        "location": "罗德岛",
+        "name": "咸鱼bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796488474222594/vniTEz2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 103,
+          "like_count": 1272,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1224
+        },
+        "username": "sakanako1108",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T16:20:04.000Z",
+        "description": "INTJ丨一个在码头搬运薯条的日常推（人生はお疲れ様でした~",
+        "id": "1695108682605080576",
+        "location": "浙江。",
+        "name": "ccnano🇫🇷 （废萌版）",
+        "pinned_tweet_id": "1779609957475680724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759962566225481728/ktAnhzqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3170,
+          "following_count": 985,
+          "like_count": 70119,
+          "listed_count": 2,
+          "media_count": 1911,
+          "tweet_count": 15417
+        },
+        "username": "ccnanoQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

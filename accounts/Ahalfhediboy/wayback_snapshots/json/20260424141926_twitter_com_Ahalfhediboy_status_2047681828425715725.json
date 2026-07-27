@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2046658682235015454",
+    "created_at": "2026-04-24T14:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047681828425715725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1795809659237879808",
+          "start": 0,
+          "username": "x1aoyu_TvT"
+        },
+        {
+          "end": 24,
+          "id": "1873709058831810560",
+          "start": 12,
+          "username": "bi_zhi17141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047681828425715725",
+    "in_reply_to_user_id": "1795809659237879808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046869216867786946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x1aoyu_TvT @bi_zhi17141 左脑：骚支勾引谁呢😂右脑：妈妈求互fo📷😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2046658682235015454",
+        "created_at": "2026-04-24T14:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047681828425715725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795809659237879808",
+              "start": 0,
+              "username": "x1aoyu_TvT"
+            },
+            {
+              "end": 24,
+              "id": "1873709058831810560",
+              "start": 12,
+              "username": "bi_zhi17141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047681828425715725",
+        "in_reply_to_user_id": "1795809659237879808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046869216867786946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x1aoyu_TvT @bi_zhi17141 左脑：骚支勾引谁呢😂右脑：妈妈求互fo📷😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795809659237879808",
+        "conversation_id": "2046658682235015454",
+        "created_at": "2026-04-22T08:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046869216867786946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1873709058831810560",
+              "start": 0,
+              "username": "bi_zhi17141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046869216867786946",
+        "in_reply_to_user_id": "1873709058831810560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046718176378138650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bi_zhi17141 勾引刁大大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 302,
+          "like_count": 3598,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1053
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T13:35:46.000Z",
+        "description": "EN/DE/FR/CN｜📍德國 ｜叫我xiaoyu｜pink网左激女男权出门左拐｜随缘接盒｜歡迎互fo^^",
+        "id": "1795809659237879808",
+        "location": "下北沢",
+        "name": "你抱著我掉眼淚說這世界太複雜",
+        "pinned_tweet_id": "2030418351139209420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952848575194353664/t7Ku58Fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 206,
+          "like_count": 1731,
+          "listed_count": 5,
+          "media_count": 192,
+          "tweet_count": 1223
+        },
+        "username": "x1aoyu_TvT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T12:33:59.000Z",
+        "description": "",
+        "id": "1873709058831810560",
+        "location": "墨尔本/厦门",
+        "name": "执笔画流年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045782101551915008/aNaIp9xI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 54,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1261
+        },
+        "username": "bi_zhi17141",
+        "verified": false
+      }
+    ]
+  }
+}

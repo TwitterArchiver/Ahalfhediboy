@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056373529516421120"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2056331314622816431",
+    "created_at": "2026-05-18T13:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056373531886141584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "57crz3oA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KjiuXDbeQR",
+          "end": 78,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2056373531886141584/photo/1",
+          "media_key": "3_2056373529516421120",
+          "start": 55,
+          "url": "https://t.co/KjiuXDbeQR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056373531886141584",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056331314622816431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@57crz3oA 从来没有听过Bro, my account got ban吗？block一点都不顺口吧。 https://t.co/KjiuXDbeQR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056373529516421120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIm01HhXsAAfewQ.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056373529516421120"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2056331314622816431",
+        "created_at": "2026-05-18T13:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056373531886141584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "57crz3oA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjiuXDbeQR",
+              "end": 78,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2056373531886141584/photo/1",
+              "media_key": "3_2056373529516421120",
+              "start": 55,
+              "url": "https://t.co/KjiuXDbeQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056373531886141584",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056331314622816431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@57crz3oA 从来没有听过Bro, my account got ban吗？block一点都不顺口吧。 https://t.co/KjiuXDbeQR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2056331314622816431",
+        "created_at": "2026-05-18T11:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056331314622816431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056331314622816431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3134,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不明白为什么有人会把推特里 屏蔽一个人 的行为叫做ban，英文用的一直是block这个ban又是哪来的，不影响理解但是想不明白为什么，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 473,
+          "like_count": 5535,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 1632
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "enby asd/adhd可能性微存 醋汁药单推 航天/观鸟/硬科幻/轨道交通爱好 舞萌痴 称呼随意",
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "∅",
+        "pinned_tweet_id": "2034666474976268342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 1651,
+          "like_count": 74521,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 4375
+        },
+        "username": "57crz3oA",
+        "verified": false
+      }
+    ]
+  }
+}

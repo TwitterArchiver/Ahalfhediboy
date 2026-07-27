@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063147827555958784"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2063147830995194020",
+    "created_at": "2026-06-06T06:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063147830995194020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ObI2goHq3G",
+          "end": 55,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2063147830995194020/photo/1",
+          "media_key": "3_2063147827555958784",
+          "start": 32,
+          "url": "https://t.co/ObI2goHq3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063147830995194020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你凭什么把一件事情都怪罪成男女？这么说，为什么你爸没那么努力？ https://t.co/ObI2goHq3G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1896,
+        "media_key": "3_2063147827555958784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHGBKSXgAA9qE5.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063147827555958784"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2063147830995194020",
+        "created_at": "2026-06-06T06:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063147830995194020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ObI2goHq3G",
+              "end": 55,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2063147830995194020/photo/1",
+              "media_key": "3_2063147827555958784",
+              "start": 32,
+              "url": "https://t.co/ObI2goHq3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063147830995194020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你凭什么把一件事情都怪罪成男女？这么说，为什么你爸没那么努力？ https://t.co/ObI2goHq3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 476,
+          "like_count": 6305,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

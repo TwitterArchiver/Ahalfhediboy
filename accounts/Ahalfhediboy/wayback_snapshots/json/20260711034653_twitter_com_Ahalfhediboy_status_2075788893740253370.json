@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075788890808492032"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2075788893740253370",
+    "created_at": "2026-07-11T03:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T04:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075788893740253370"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yr4ZuTC1xG",
+          "end": 29,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2075788893740253370/photo/1",
+          "media_key": "3_2075788890808492032",
+          "start": 6,
+          "url": "https://t.co/Yr4ZuTC1xG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075788893740253370",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人是痛苦的 https://t.co/Yr4ZuTC1xG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1239,
+        "media_key": "3_2075788890808492032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6u_4lXoAAS6tR.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075788890808492032"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2075788893740253370",
+        "created_at": "2026-07-11T03:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075788893740253370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yr4ZuTC1xG",
+              "end": 29,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2075788893740253370/photo/1",
+              "media_key": "3_2075788890808492032",
+              "start": 6,
+              "url": "https://t.co/Yr4ZuTC1xG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075788893740253370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人是痛苦的 https://t.co/Yr4ZuTC1xG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 471,
+          "like_count": 6500,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2047156293010395553",
+    "created_at": "2026-05-01T14:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T15:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050224636768452734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1933518204351229957",
+          "start": 0,
+          "username": "wbxhzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050224636768452734",
+    "in_reply_to_user_id": "1933518204351229957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047156293010395553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbxhzl 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2047156293010395553",
+        "created_at": "2026-05-01T14:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050224636768452734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1933518204351229957",
+              "start": 0,
+              "username": "wbxhzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050224636768452734",
+        "in_reply_to_user_id": "1933518204351229957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047156293010395553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbxhzl 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933518204351229957",
+        "conversation_id": "2047156293010395553",
+        "created_at": "2026-04-23T03:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047156293010395553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047156293010395553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1574,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "现在批发的小众妹：短发 tralala复刻 p上各种鬼图小众图片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 340,
+          "like_count": 4072,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1177
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T13:34:13.000Z",
+        "description": "",
+        "id": "1933518204351229957",
+        "location": "🚪155",
+        "name": "空壳",
+        "pinned_tweet_id": "1969594591692099895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037385613792731136/1niCobeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 7,
+          "like_count": 470,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 605
+        },
+        "username": "wbxhzl",
+        "verified": false
+      }
+    ]
+  }
+}

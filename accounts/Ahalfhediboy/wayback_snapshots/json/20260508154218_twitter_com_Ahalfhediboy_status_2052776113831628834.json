@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2052770697722650686",
+    "created_at": "2026-05-08T15:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052776113831628834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1871346829356601345",
+          "start": 0,
+          "username": "wjsjahnan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052776113831628834",
+    "in_reply_to_user_id": "1871346829356601345",
+    "lang": "fi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052774157356511474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjsjahnan xswl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2052770697722650686",
+        "created_at": "2026-05-08T15:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052776113831628834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1871346829356601345",
+              "start": 0,
+              "username": "wjsjahnan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052776113831628834",
+        "in_reply_to_user_id": "1871346829356601345",
+        "lang": "fi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052774157356511474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjsjahnan xswl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871346829356601345",
+        "conversation_id": "2052770697722650686",
+        "created_at": "2026-05-08T15:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052774157356511474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052774157356511474",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052774074808422677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 我操你媽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 406,
+          "like_count": 4552,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T00:07:14.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxsi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxsi2",
+                "start": 0,
+                "url": "https://t.co/hgWGsts3jp"
+              }
+            ]
+          }
+        },
+        "id": "1871346829356601345",
+        "location": "血",
+        "name": "死死死死死死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052749675686449154/IU3AR6QW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 57,
+          "like_count": 578,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/hgWGsts3jp",
+        "username": "wjsjahnan",
+        "verified": false
+      }
+    ]
+  }
+}

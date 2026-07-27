@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053585901213630529",
+    "created_at": "2026-05-11T05:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053708871483507177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030883777090830336",
+          "start": 0,
+          "username": "hui_zi94122"
+        },
+        {
+          "end": 24,
+          "id": "1858393719080366080",
+          "start": 13,
+          "username": "xiaomonuya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053708871483507177",
+    "in_reply_to_user_id": "2030883777090830336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053708419622961256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hui_zi94122 @xiaomonuya 這咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053585901213630529",
+        "created_at": "2026-05-11T05:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053708871483507177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030883777090830336",
+              "start": 0,
+              "username": "hui_zi94122"
+            },
+            {
+              "end": 24,
+              "id": "1858393719080366080",
+              "start": 13,
+              "username": "xiaomonuya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053708871483507177",
+        "in_reply_to_user_id": "2030883777090830336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053708419622961256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui_zi94122 @xiaomonuya 這咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030883777090830336",
+        "conversation_id": "2053585901213630529",
+        "created_at": "2026-05-11T05:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053708419622961256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1858393719080366080",
+              "start": 0,
+              "username": "xiaomonuya"
+            },
+            {
+              "end": 25,
+              "id": "1853967550381445127",
+              "start": 12,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053708419622961256",
+        "in_reply_to_user_id": "1858393719080366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053681335366287611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomonuya @Ahalfhediboy 我算是知道为啥有人骂你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 436,
+          "like_count": 4842,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1424
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T05:50:16.000Z",
+        "description": "🇨🇳/利己主义至上/看到让我犯恶的事情跟傻逼直接骂，讨厌你就自己找原因 儿子：@5yoviky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 39,
+                "username": "5yoviky"
+              }
+            ]
+          }
+        },
+        "id": "2030883777090830336",
+        "location": "🚪10086啥都没纯坑人",
+        "name": "這是一個善良的用戶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051533133011689473/s9EmQrHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 101
+        },
+        "username": "hui_zi94122",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T06:16:13.000Z",
+        "description": "可愛的小貓一隻，出生20101130\n優點：会点魔术～～～比赛拿过两年亚军，魔术爱好者内中低水平（毕竟我还小）\n缺點：缺愛，沒安全感（以及你能想到的任何可能存在的缺點）\n🚪52喵//\nles\n//29元包年千G流量VPN👉🏻https://t.co/zQZ5MJmWPl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 135,
+                "expanded_url": "https://www.tz86.vip/#/register?code=uaDa8hjx",
+                "start": 112,
+                "url": "https://t.co/zQZ5MJmWPl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=uaDa8hjx",
+                "start": 0,
+                "url": "https://t.co/zQZ5MJmWPl"
+              }
+            ]
+          }
+        },
+        "id": "1858393719080366080",
+        "location": "29元包年千G流量VPN👉🏻",
+        "name": "Camellia",
+        "pinned_tweet_id": "2053414171983962187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050651147199975424/Q4r3IJl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 194,
+          "like_count": 4635,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 5255
+        },
+        "url": "https://t.co/zQZ5MJmWPl",
+        "username": "xiaomonuya",
+        "verified": false
+      }
+    ]
+  }
+}

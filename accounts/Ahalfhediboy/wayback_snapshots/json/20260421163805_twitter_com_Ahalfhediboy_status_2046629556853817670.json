@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037571558584254464"
+      ],
+      "media_source_tweet_id": [
+        "2037726379425538099"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2046629556853817670",
+    "created_at": "2026-04-21T16:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046629556853817670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666657380216586240",
+          "start": 3,
+          "username": "de3dsoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7jTUd5RF8p",
+          "end": 37,
+          "expanded_url": "https://x.com/de3dsoul/status/2037726379425538099/photo/1",
+          "media_key": "3_2037571558584254464",
+          "start": 14,
+          "url": "https://t.co/7jTUd5RF8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046629556853817670",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2020
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037726379425538099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @de3dsoul: https://t.co/7jTUd5RF8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 982,
+        "media_key": "3_2037571558584254464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEboiXnagAAMln-.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037571558584254464"
+          ],
+          "media_source_tweet_id": [
+            "2037726379425538099"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2046629556853817670",
+        "created_at": "2026-04-21T16:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046629556853817670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666657380216586240",
+              "start": 3,
+              "username": "de3dsoul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jTUd5RF8p",
+              "end": 37,
+              "expanded_url": "https://x.com/de3dsoul/status/2037726379425538099/photo/1",
+              "media_key": "3_2037571558584254464",
+              "start": 14,
+              "url": "https://t.co/7jTUd5RF8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046629556853817670",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2020
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037726379425538099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @de3dsoul: https://t.co/7jTUd5RF8p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037571558584254464"
+          ]
+        },
+        "author_id": "1666657380216586240",
+        "conversation_id": "2037726379425538099",
+        "created_at": "2026-03-28T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037726379425538099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jTUd5RF8p",
+              "end": 23,
+              "expanded_url": "https://x.com/de3dsoul/status/2037726379425538099/photo/1",
+              "media_key": "3_2037571558584254464",
+              "start": 0,
+              "url": "https://t.co/7jTUd5RF8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037726379425538099",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 497,
+          "impression_count": 189337,
+          "like_count": 17171,
+          "quote_count": 30,
+          "reply_count": 17,
+          "retweet_count": 2020
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7jTUd5RF8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 284,
+          "like_count": 3483,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T04:05:16.000Z",
+        "description": "r a d i o",
+        "id": "1666657380216586240",
+        "location": "him",
+        "name": "定",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985202503927975936/6l3Sj-yw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127488,
+          "following_count": 53,
+          "like_count": 10196,
+          "listed_count": 225,
+          "media_count": 3617,
+          "tweet_count": 3970
+        },
+        "username": "de3dsoul",
+        "verified": true
+      }
+    ]
+  }
+}

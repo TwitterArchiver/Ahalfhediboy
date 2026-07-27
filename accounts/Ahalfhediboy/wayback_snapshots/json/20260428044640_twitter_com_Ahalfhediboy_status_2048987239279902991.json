@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2048980063631368310",
+    "created_at": "2026-04-28T04:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048987239279902991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042503729925275649",
+          "start": 0,
+          "username": "nyan7qneux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048987239279902991",
+    "in_reply_to_user_id": "2042503729925275649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048980063631368310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyan7qneux 很可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27966,
+        "height": 720,
+        "media_key": "13_2048979989060820993",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048979989060820993/img/HOGp_opszrkOPMUE.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048979989060820993/vid/avc1/360x270/ETj5vzNoUXxoGRta.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048979989060820993/vid/avc1/480x360/TZsMwac2MfmWdxvp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048979989060820993/vid/avc1/960x720/ZS5g9HO_w_dcTS-h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048979989060820993/pl/LrCIdntxMC5BMnip.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2048980063631368310",
+        "created_at": "2026-04-28T04:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048987239279902991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042503729925275649",
+              "start": 0,
+              "username": "nyan7qneux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048987239279902991",
+        "in_reply_to_user_id": "2042503729925275649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048980063631368310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyan7qneux 很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048979989060820993"
+          ]
+        },
+        "author_id": "2042503729925275649",
+        "conversation_id": "2048980063631368310",
+        "created_at": "2026-04-28T04:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048980063631368310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8F6KMLDIIi",
+              "end": 36,
+              "expanded_url": "https://x.com/nyan7qneux/status/2048980063631368310/video/1",
+              "media_key": "13_2048979989060820993",
+              "start": 13,
+              "url": "https://t.co/8F6KMLDIIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048980063631368310",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冒個頭⸜( •⌄• )⸝ https://t.co/8F6KMLDIIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 329,
+          "like_count": 3862,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T07:30:32.000Z",
+        "description": "碎碎念💭",
+        "id": "2042503729925275649",
+        "location": "不收🚪 不閒聊",
+        "name": "nyan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046135128557322240/byBPTCRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 33,
+          "like_count": 45,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 35
+        },
+        "username": "nyan7qneux",
+        "verified": false
+      }
+    ]
+  }
+}

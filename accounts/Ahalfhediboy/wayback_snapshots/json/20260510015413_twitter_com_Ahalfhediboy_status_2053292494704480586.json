@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053018522918572257",
+    "created_at": "2026-05-10T01:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T02:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053292494704480586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1556947282460901378",
+          "start": 0,
+          "username": "xiaohohhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053292494704480586",
+    "in_reply_to_user_id": "1556947282460901378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053018522918572257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohohhhh 我耐你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053018522918572257",
+        "created_at": "2026-05-10T01:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053292494704480586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1556947282460901378",
+              "start": 0,
+              "username": "xiaohohhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053292494704480586",
+        "in_reply_to_user_id": "1556947282460901378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053018522918572257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohohhhh 我耐你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556947282460901378",
+        "conversation_id": "2053018522918572257",
+        "created_at": "2026-05-09T07:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053018522918572257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053018522918572257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5327,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我朋友说我关注的人太多了，她觉得关注人数也会影响推流，于是我就一气之下把985个关注手工取关到现在这个数，留下的全都是我精挑细选的爱人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 413,
+          "like_count": 4625,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1376
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T10:15:43.000Z",
+        "description": "我是cult之神 猎奇之子 五芒星少年 坏药丸 我和我的女孩在大雨中狂奔 在阴暗的巷子里接吻",
+        "id": "1556947282460901378",
+        "location": "West Midlands, England",
+        "name": "KititOw0",
+        "pinned_tweet_id": "2051150705361342754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051065562999242752/1nY2MvJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 56,
+          "like_count": 6976,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 372
+        },
+        "username": "xiaohohhhh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2050070869863444800",
+    "created_at": "2026-05-01T04:32:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:32:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050070869863444800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2000826943206555649",
+          "start": 3,
+          "username": "pingapingu002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050070869863444800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049980851245727999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pingapingu002: 有些自称男娘的人只是喜欢穿廉价的女式奇趣内衣。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2050070869863444800",
+        "created_at": "2026-05-01T04:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050070869863444800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2000826943206555649",
+              "start": 3,
+              "username": "pingapingu002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050070869863444800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049980851245727999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pingapingu002: 有些自称男娘的人只是喜欢穿廉价的女式奇趣内衣。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000826943206555649",
+        "conversation_id": "2049980851245727999",
+        "created_at": "2026-04-30T22:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T23:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049980851245727999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049980851245727999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1538,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有些自称男娘的人只是喜欢穿廉价的女式奇趣内衣。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 337,
+          "like_count": 4037,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T07:15:27.000Z",
+        "description": "上个号互关私我下我回关你们，不怎么玩了清水推 不约不谈不聊s\n我是intp辽宁入",
+        "id": "2000826943206555649",
+        "location": " 专心经营我的糖人生活中",
+        "name": "睡觉睡觉困困困2.0",
+        "pinned_tweet_id": "2021961810585563453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003163752800354307/w-eF7K_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 377,
+          "like_count": 6415,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 1034
+        },
+        "username": "pingapingu002",
+        "verified": false
+      }
+    ]
+  }
+}

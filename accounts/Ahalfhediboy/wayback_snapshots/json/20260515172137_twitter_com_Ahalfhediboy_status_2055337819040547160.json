@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2055262920486129710",
+    "created_at": "2026-05-15T17:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T18:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055337819040547160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902342736814206980",
+          "start": 0,
+          "username": "kyoka5180"
+        },
+        {
+          "end": 26,
+          "id": "1504090019971010562",
+          "start": 11,
+          "username": "Deepfeeling777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055337819040547160",
+    "in_reply_to_user_id": "1902342736814206980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055326855428030911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyoka5180 @Deepfeeling777 阴天娃娃：约么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2055262920486129710",
+        "created_at": "2026-05-15T17:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055337819040547160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902342736814206980",
+              "start": 0,
+              "username": "kyoka5180"
+            },
+            {
+              "end": 26,
+              "id": "1504090019971010562",
+              "start": 11,
+              "username": "Deepfeeling777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055337819040547160",
+        "in_reply_to_user_id": "1902342736814206980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055326855428030911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyoka5180 @Deepfeeling777 阴天娃娃：约么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902342736814206980",
+        "conversation_id": "2055262920486129710",
+        "created_at": "2026-05-15T16:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055326855428030911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504090019971010562",
+              "start": 0,
+              "username": "Deepfeeling777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055326855428030911",
+        "in_reply_to_user_id": "1504090019971010562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055262920486129710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deepfeeling777 约吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 467,
+          "like_count": 5343,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 1605
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T12:54:04.000Z",
+        "description": "",
+        "id": "1902342736814206980",
+        "location": "上海 东京",
+        "name": "阴天娃娃",
+        "pinned_tweet_id": "2055256233813348381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054485173564260352/eHUabPYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7555,
+          "following_count": 73,
+          "like_count": 404,
+          "listed_count": 20,
+          "media_count": 120,
+          "tweet_count": 1205
+        },
+        "username": "kyoka5180",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T13:39:52.000Z",
+        "description": "希望大家能在X上开心快乐冲浪，晚上一定要大脑控制住小脑！不要上当受骗哟~  啵啵🫶  审判并处决黄推假号：@panguan77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "panguan77"
+              }
+            ]
+          }
+        },
+        "id": "1504090019971010562",
+        "location": "AU",
+        "name": "第一深情",
+        "pinned_tweet_id": "2046264873190031649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034252985665249280/9GawZfA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241846,
+          "following_count": 3,
+          "like_count": 42,
+          "listed_count": 256,
+          "media_count": 245,
+          "tweet_count": 1254
+        },
+        "username": "Deepfeeling777",
+        "verified": true
+      }
+    ]
+  }
+}

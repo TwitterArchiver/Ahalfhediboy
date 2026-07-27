@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2072092449804317043",
+    "created_at": "2026-07-01T06:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072203643542004026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889544915941728256",
+          "start": 0,
+          "username": "fnjshshehw67298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072203643542004026",
+    "in_reply_to_user_id": "1889544915941728256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072203467482124476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnjshshehw67298 点赞我最新的post"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2072092449804317043",
+        "created_at": "2026-07-01T06:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072203643542004026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889544915941728256",
+              "start": 0,
+              "username": "fnjshshehw67298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072203643542004026",
+        "in_reply_to_user_id": "1889544915941728256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072203467482124476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnjshshehw67298 点赞我最新的post"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889544915941728256",
+        "conversation_id": "2072092449804317043",
+        "created_at": "2026-07-01T06:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072203467482124476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072203467482124476",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072203215211299256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 472,
+          "like_count": 6479,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 1819
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T05:19:59.000Z",
+        "description": "我認為這個世界本不該如此",
+        "id": "1889544915941728256",
+        "name": "白羽坠",
+        "pinned_tweet_id": "2072092449804317043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072096341954854912/qoYQRgnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 128,
+          "like_count": 1484,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "fnjshshehw67298",
+        "verified": false
+      }
+    ]
+  }
+}

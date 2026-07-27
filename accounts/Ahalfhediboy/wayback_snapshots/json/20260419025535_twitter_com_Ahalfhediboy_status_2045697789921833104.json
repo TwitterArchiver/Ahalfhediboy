@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2045694012498104568",
+    "created_at": "2026-04-19T02:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045697789921833104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1733692624941600768",
+          "start": 0,
+          "username": "lynri268549"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045697789921833104",
+    "in_reply_to_user_id": "1733692624941600768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045697186554617900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lynri268549 他是我好朋友 我爱他呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2045694012498104568",
+        "created_at": "2026-04-19T02:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045697789921833104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1733692624941600768",
+              "start": 0,
+              "username": "lynri268549"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045697789921833104",
+        "in_reply_to_user_id": "1733692624941600768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045697186554617900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lynri268549 他是我好朋友 我爱他呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733692624941600768",
+        "conversation_id": "2045694012498104568",
+        "created_at": "2026-04-19T02:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045697186554617900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045697186554617900",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045694012498104568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 哪个是女孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 258,
+          "like_count": 3303,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 970
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T03:38:33.000Z",
+        "description": "none",
+        "id": "1733692624941600768",
+        "location": "🚪188|288|520|1314",
+        "name": "さつき",
+        "pinned_tweet_id": "1986383726201508020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021047776013144065/s3QRuxS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 82,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 558
+        },
+        "username": "lynri268549",
+        "verified": false
+      }
+    ]
+  }
+}

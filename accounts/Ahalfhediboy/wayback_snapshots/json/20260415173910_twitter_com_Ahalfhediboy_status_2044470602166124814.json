@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044470597430730752",
+        "3_2044470597434875904"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044470602166124814",
+    "created_at": "2026-04-15T17:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T18:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044470602166124814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gitsEF3Gil",
+          "end": 23,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2044470602166124814/photo/1",
+          "media_key": "3_2044470597430730752",
+          "start": 0,
+          "url": "https://t.co/gitsEF3Gil"
+        },
+        {
+          "display_url": "pic.x.com/gitsEF3Gil",
+          "end": 23,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2044470602166124814/photo/1",
+          "media_key": "3_2044470597434875904",
+          "start": 0,
+          "url": "https://t.co/gitsEF3Gil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044470602166124814",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/gitsEF3Gil"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 789,
+        "media_key": "3_2044470597430730752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9rLSGW4AAOa0I.jpg",
+        "width": 1206
+      },
+      {
+        "height": 579,
+        "media_key": "3_2044470597434875904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF9rLSHWIAAb300.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044470597430730752",
+            "3_2044470597434875904"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044470602166124814",
+        "created_at": "2026-04-15T17:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044470602166124814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gitsEF3Gil",
+              "end": 23,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2044470602166124814/photo/1",
+              "media_key": "3_2044470597430730752",
+              "start": 0,
+              "url": "https://t.co/gitsEF3Gil"
+            },
+            {
+              "display_url": "pic.x.com/gitsEF3Gil",
+              "end": 23,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2044470602166124814/photo/1",
+              "media_key": "3_2044470597434875904",
+              "start": 0,
+              "url": "https://t.co/gitsEF3Gil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044470602166124814",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gitsEF3Gil"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 229,
+          "like_count": 2989,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 903
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

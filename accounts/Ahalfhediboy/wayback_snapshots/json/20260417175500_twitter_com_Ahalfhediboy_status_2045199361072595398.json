@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2044395326715695394",
+    "created_at": "2026-04-17T17:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045199361072595398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813786364930064384",
+          "start": 0,
+          "username": "zhngxny48875771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045199361072595398",
+    "in_reply_to_user_id": "1813786364930064384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044395326715695394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngxny48875771 我想去日本当地下偶像然后下海"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2044395326715695394",
+        "created_at": "2026-04-17T17:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045199361072595398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813786364930064384",
+              "start": 0,
+              "username": "zhngxny48875771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045199361072595398",
+        "in_reply_to_user_id": "1813786364930064384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044395326715695394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngxny48875771 我想去日本当地下偶像然后下海"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813786364930064384",
+        "conversation_id": "2044395326715695394",
+        "created_at": "2026-04-15T12:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044395326715695394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044395326715695394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 743,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想去日本当地下偶像然后下海"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 251,
+          "like_count": 3167,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 944
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T04:02:31.000Z",
+        "description": "我是一只精神病小猫女孩呼吸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nzl.com",
+                "end": 23,
+                "expanded_url": "http://nzl.com",
+                "start": 0,
+                "url": "https://t.co/sHwAlSJT0v"
+              }
+            ]
+          }
+        },
+        "id": "1813786364930064384",
+        "location": "泰拉大陸",
+        "name": "猫呼吸",
+        "pinned_tweet_id": "2035282525132837277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954909787281596416/SLouJirq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 137,
+          "like_count": 8508,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/sHwAlSJT0v",
+        "username": "zhngxny48875771",
+        "verified": false
+      }
+    ]
+  }
+}

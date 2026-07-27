@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2048805541854511359",
+    "created_at": "2026-04-27T17:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048810717659161006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1441322559715172360",
+          "start": 0,
+          "username": "Abel82913083"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048810717659161006",
+    "in_reply_to_user_id": "1441322559715172360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048805541854511359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Abel82913083 并非音趴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048805514209792000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7RwphWEAATZPD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2048805514352656384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7RwqDaAAAqS5Q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2048805541854511359",
+        "created_at": "2026-04-27T17:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048810717659161006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1441322559715172360",
+              "start": 0,
+              "username": "Abel82913083"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048810717659161006",
+        "in_reply_to_user_id": "1441322559715172360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048805541854511359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Abel82913083 并非音趴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048805514209792000",
+            "3_2048805514352656384"
+          ]
+        },
+        "author_id": "1441322559715172360",
+        "conversation_id": "2048805541854511359",
+        "created_at": "2026-04-27T16:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048805541854511359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMIQzq7wfy",
+              "end": 49,
+              "expanded_url": "https://x.com/Abel82913083/status/2048805541854511359/photo/1",
+              "media_key": "3_2048805514209792000",
+              "start": 26,
+              "url": "https://t.co/dMIQzq7wfy"
+            },
+            {
+              "display_url": "pic.x.com/dMIQzq7wfy",
+              "end": 49,
+              "expanded_url": "https://x.com/Abel82913083/status/2048805541854511359/photo/1",
+              "media_key": "3_2048805514352656384",
+              "start": 26,
+              "url": "https://t.co/dMIQzq7wfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048805541854511359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全城几十万人聚集在一起蹦迪喝酒开音趴，crazy！ https://t.co/dMIQzq7wfy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 322,
+          "like_count": 3797,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1090
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-24T08:44:24.000Z",
+        "description": "我是三好学生喵 ｜NL/DE/BE | One piece重度依赖 &路飞妈粉 | 家访我的粉畜全家被习近平操 ｜欢迎正常人互fo (^-^)",
+        "id": "1441322559715172360",
+        "location": "Aachen",
+        "name": "Abel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028168393598148609/gUzLFHf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 87,
+          "like_count": 787,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 432
+        },
+        "username": "Abel82913083",
+        "verified": false
+      }
+    ]
+  }
+}

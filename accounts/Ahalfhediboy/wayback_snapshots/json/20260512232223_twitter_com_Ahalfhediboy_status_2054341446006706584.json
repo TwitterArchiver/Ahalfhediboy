@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053925539044278448",
+    "created_at": "2026-05-12T23:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T00:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054341446006706584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1981616623539937280",
+          "start": 0,
+          "username": "mongram1024"
+        },
+        {
+          "end": 28,
+          "id": "1516975944484990977",
+          "start": 13,
+          "username": "SuisPasDaVinci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054341446006706584",
+    "in_reply_to_user_id": "1981616623539937280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054281534870262146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mongram1024 @SuisPasDaVinci 印度的空氣和加州的都是不一樣的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053925539044278448",
+        "created_at": "2026-05-12T23:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T00:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054341446006706584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1981616623539937280",
+              "start": 0,
+              "username": "mongram1024"
+            },
+            {
+              "end": 28,
+              "id": "1516975944484990977",
+              "start": 13,
+              "username": "SuisPasDaVinci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054341446006706584",
+        "in_reply_to_user_id": "1981616623539937280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054281534870262146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mongram1024 @SuisPasDaVinci 印度的空氣和加州的都是不一樣的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981616623539937280",
+        "conversation_id": "2053925539044278448",
+        "created_at": "2026-05-12T19:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054281534870262146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1516975944484990977",
+              "start": 0,
+              "username": "SuisPasDaVinci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054281534870262146",
+        "in_reply_to_user_id": "1516975944484990977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 972,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053925539044278448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuisPasDaVinci 我也补充一下，所有人的空气是一样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 455,
+          "like_count": 5093,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1542
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T07:00:35.000Z",
+        "description": "🍎 苹果下载： 苹果商店搜索「Mongram Messenger」 | \n🤖 安卓下载： 官网搜索选择https://t.co/YOjBBM4ewb |\n\n🚫 安全不封群 | 成员禁互加 | 禁言成员 | 撤回成员记录 | 10W人超级群 | 200管理员。\n\n保护私域流量。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mongram.app",
+                "end": 74,
+                "expanded_url": "https://mongram.app",
+                "start": 51,
+                "url": "https://t.co/YOjBBM4ewb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mongram.app",
+                "end": 23,
+                "expanded_url": "https://mongram.app/",
+                "start": 0,
+                "url": "https://t.co/pYjyReOKih"
+              }
+            ]
+          }
+        },
+        "id": "1981616623539937280",
+        "location": "新加坡",
+        "name": "Mongram华语",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028531879587000320/rPTb5XOb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6259,
+          "following_count": 7500,
+          "like_count": 7624,
+          "listed_count": 4,
+          "media_count": 113,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/pYjyReOKih",
+        "username": "mongram1024",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-21T03:04:01.000Z",
+        "description": "Stanley社群主理人 | 加拿大🇨🇦10年老移民 | 英法双语| 顶级游戏公司从业者 | Master of Engineering | 土木转码 | Vibe Coding | 咨询1999/半个小时 (x增长以及移民留学)",
+        "id": "1516975944484990977",
+        "location": "CANADIAN TIRED",
+        "name": "达芬七",
+        "pinned_tweet_id": "2017777161340440688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022377311010471936/qiAJoIzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15099,
+          "following_count": 1473,
+          "like_count": 39010,
+          "listed_count": 54,
+          "media_count": 2136,
+          "tweet_count": 22050
+        },
+        "username": "SuisPasDaVinci",
+        "verified": true
+      }
+    ]
+  }
+}

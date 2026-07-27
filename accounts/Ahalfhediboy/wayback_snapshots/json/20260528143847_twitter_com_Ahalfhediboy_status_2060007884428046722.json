@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2059994940831158518",
+    "created_at": "2026-05-28T14:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060007884428046722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1864686240882413570",
+          "start": 0,
+          "username": "Ccccccandy_m_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060007884428046722",
+    "in_reply_to_user_id": "1864686240882413570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060007681088524608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ccccccandy_m_ 男孩 頭髮長到屁股 感觉很骚啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2059994940831158518",
+        "created_at": "2026-05-28T14:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060007884428046722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1864686240882413570",
+              "start": 0,
+              "username": "Ccccccandy_m_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060007884428046722",
+        "in_reply_to_user_id": "1864686240882413570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060007681088524608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ccccccandy_m_ 男孩 頭髮長到屁股 感觉很骚啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864686240882413570",
+        "conversation_id": "2059994940831158518",
+        "created_at": "2026-05-28T14:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060007681088524608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060007681088524608",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060007394088759802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 洗头很累。 夏天吹头发更累 吹完一身汗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 479,
+          "like_count": 6182,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 1723
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T15:00:29.000Z",
+        "description": "06 脾气因人而异的小女孩\n王者荣耀娱乐陪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqqqxtao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qqqqqqqxtao",
+                "start": 0,
+                "url": "https://t.co/B9blXRW3Ju"
+              }
+            ]
+          }
+        },
+        "id": "1864686240882413570",
+        "location": "找我打游戏吧！",
+        "name": "小萌",
+        "pinned_tweet_id": "2047412763761471916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047624206347816960/qjooFHog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 47,
+          "like_count": 12537,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3763
+        },
+        "url": "https://t.co/B9blXRW3Ju",
+        "username": "Ccccccandy_m_",
+        "verified": false
+      }
+    ]
+  }
+}

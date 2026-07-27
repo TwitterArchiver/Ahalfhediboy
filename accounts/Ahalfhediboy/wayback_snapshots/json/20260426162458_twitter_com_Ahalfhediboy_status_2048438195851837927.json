@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2048380363961991172",
+    "created_at": "2026-04-26T16:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048438195851837927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1795809659237879808",
+          "start": 0,
+          "username": "x1aoyu_TvT"
+        },
+        {
+          "end": 25,
+          "id": "1697913281816432640",
+          "start": 12,
+          "username": "kiligulyanov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048438195851837927",
+    "in_reply_to_user_id": "1795809659237879808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048380363961991172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x1aoyu_TvT @kiligulyanov 拍完放过骚支好不好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2048380352536641537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1PE-3WAAEaNEI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2048380363961991172",
+        "created_at": "2026-04-26T16:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048438195851837927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795809659237879808",
+              "start": 0,
+              "username": "x1aoyu_TvT"
+            },
+            {
+              "end": 25,
+              "id": "1697913281816432640",
+              "start": 12,
+              "username": "kiligulyanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048438195851837927",
+        "in_reply_to_user_id": "1795809659237879808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048380363961991172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x1aoyu_TvT @kiligulyanov 拍完放过骚支好不好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048380352536641537"
+          ]
+        },
+        "author_id": "1795809659237879808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048380363961991172",
+        "created_at": "2026-04-26T12:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048380363961991172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1697913281816432640",
+              "start": 14,
+              "username": "kiligulyanov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PY0dAgNbn",
+              "end": 51,
+              "expanded_url": "https://x.com/x1aoyu_TvT/status/2048380363961991172/photo/1",
+              "media_key": "3_2048380352536641537",
+              "start": 28,
+              "url": "https://t.co/7PY0dAgNbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048380363961991172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 665,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃面基mit kilig\n@kiligulyanov https://t.co/7PY0dAgNbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 311,
+          "like_count": 3637,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T13:35:46.000Z",
+        "description": "EN/DE/FR/CN｜📍德國 ｜叫我xiaoyu｜pink网左激女男权出门左拐｜随缘接盒｜歡迎互fo^^",
+        "id": "1795809659237879808",
+        "location": "下北沢",
+        "name": "你抱著我掉眼淚說這世界太複雜",
+        "pinned_tweet_id": "2030418351139209420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952848575194353664/t7Ku58Fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 206,
+          "like_count": 1776,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 1235
+        },
+        "username": "x1aoyu_TvT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:04:17.000Z",
+        "description": "爱征服一切，让我们屈服于爱吧",
+        "id": "1697913281816432640",
+        "location": "梦境的地方",
+        "name": "Kilig",
+        "pinned_tweet_id": "1797459378897068324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874127554749358085/H_nHRR6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2354,
+          "following_count": 935,
+          "like_count": 26084,
+          "listed_count": 10,
+          "media_count": 1419,
+          "tweet_count": 9773
+        },
+        "username": "kiligulyanov",
+        "verified": false
+      }
+    ]
+  }
+}

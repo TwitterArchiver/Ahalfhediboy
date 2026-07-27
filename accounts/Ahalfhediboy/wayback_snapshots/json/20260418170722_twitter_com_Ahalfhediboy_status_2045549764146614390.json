@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2045545968079360410",
+    "created_at": "2026-04-18T17:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045549764146614390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1881534211477188608",
+          "start": 0,
+          "username": "yagamiL08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045549764146614390",
+    "in_reply_to_user_id": "1881534211477188608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045545968079360410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yagamiL08 完全婵姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24566,
+        "height": 1280,
+        "media_key": "13_2045545894469328896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045545894469328896/img/z0vArI0ePW-uS2pH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045545894469328896/vid/avc1/320x568/gfVodUUzz2ENw2Bv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045545894469328896/vid/avc1/480x852/HuzEb-mrleaT0YYG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045545894469328896/vid/avc1/720x1280/AQn8CDmRE_kdK13t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045545894469328896/pl/TkUDahcjwd-hYXaU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2045545968079360410",
+        "created_at": "2026-04-18T17:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045549764146614390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881534211477188608",
+              "start": 0,
+              "username": "yagamiL08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045549764146614390",
+        "in_reply_to_user_id": "1881534211477188608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045545968079360410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yagamiL08 完全婵姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045545894469328896"
+          ]
+        },
+        "author_id": "1881534211477188608",
+        "conversation_id": "2045545968079360410",
+        "created_at": "2026-04-18T16:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045545968079360410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kugxeaD6ml",
+              "end": 23,
+              "expanded_url": "https://x.com/yagamiL08/status/2045545968079360410/video/1",
+              "media_key": "13_2045545894469328896",
+              "start": 0,
+              "url": "https://t.co/kugxeaD6ml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045545968079360410",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kugxeaD6ml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 253,
+          "like_count": 3230,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 960
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T02:48:15.000Z",
+        "description": "消肿比神人求你们来和我扩列🥹（ip🇦🇺）关注永雏塔菲谢谢喵🥰fawegonebeok，中文/日本語/消肿比｜English｜原神家庭｜ed｜od｜自傷｜视觉系｜雙向｜视觉系｜地雷｜♑️｜maimai｜pjsk｜ボカロ|🏳️‍⚧️🇯🇵🏳️‍🌈🇼🇸🇰🇵🧊💊🚬🍃🔪🩸✝️♿️",
+        "id": "1881534211477188608",
+        "location": "幻想鄉",
+        "name": "xfmmD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999130797186666496/OU84PBnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 752,
+          "like_count": 339,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 484
+        },
+        "username": "yagamiL08",
+        "verified": false
+      }
+    ]
+  }
+}

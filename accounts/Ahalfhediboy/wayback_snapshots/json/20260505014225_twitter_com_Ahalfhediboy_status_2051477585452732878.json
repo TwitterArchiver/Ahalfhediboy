@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2051354447767634316",
+    "created_at": "2026-05-05T01:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T02:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051477585452732878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2029540557534720001",
+          "start": 0,
+          "username": "Jian98638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051477585452732878",
+    "in_reply_to_user_id": "2029540557534720001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051354447767634316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jian98638 谈恋爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2051354447767634316",
+        "created_at": "2026-05-05T01:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051477585452732878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2029540557534720001",
+              "start": 0,
+              "username": "Jian98638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051477585452732878",
+        "in_reply_to_user_id": "2029540557534720001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051354447767634316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jian98638 谈恋爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029540557534720001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2051354447767634316",
+        "created_at": "2026-05-04T17:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051354447767634316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051354447767634316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5081,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在国外留学性压抑该怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 361,
+          "like_count": 4238,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1243
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T12:52:39.000Z",
+        "description": "🇬🇧06本科在读 关注礼貌私信都会回复",
+        "id": "2029540557534720001",
+        "location": "London, England",
+        "name": "Emily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029540670382514176/roD4bjmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 32
+        },
+        "username": "Jian98638",
+        "verified": false
+      }
+    ]
+  }
+}

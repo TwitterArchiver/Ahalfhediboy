@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053355248912056324"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053355253706228164",
+    "created_at": "2026-05-10T06:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053355253706228164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rMN0ydGZt7",
+          "end": 27,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2053355253706228164/photo/1",
+          "media_key": "3_2053355248912056324",
+          "start": 4,
+          "url": "https://t.co/rMN0ydGZt7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053355253706228164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学会了 https://t.co/rMN0ydGZt7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 529,
+        "media_key": "3_2053355248912056324",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH77uEEWQAQ8wzZ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053355248912056324"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053355253706228164",
+        "created_at": "2026-05-10T06:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053355253706228164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMN0ydGZt7",
+              "end": 27,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2053355253706228164/photo/1",
+              "media_key": "3_2053355248912056324",
+              "start": 4,
+              "url": "https://t.co/rMN0ydGZt7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053355253706228164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学会了 https://t.co/rMN0ydGZt7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 414,
+          "like_count": 4649,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

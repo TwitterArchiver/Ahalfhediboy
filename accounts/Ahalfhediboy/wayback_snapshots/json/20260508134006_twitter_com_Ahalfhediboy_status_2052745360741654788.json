@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2052693734773620788",
+    "created_at": "2026-05-08T13:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052745360741654788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902342736814206980",
+          "start": 0,
+          "username": "kyoka5180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052745360741654788",
+    "in_reply_to_user_id": "1902342736814206980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052693734773620788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyoka5180 东京收反差母狗母猪\n@N335djd-sh 关注了你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 521,
+        "media_key": "3_2052693731183370240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyiEqfbIAAdp8V.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2052693734773620788",
+        "created_at": "2026-05-08T13:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052745360741654788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902342736814206980",
+              "start": 0,
+              "username": "kyoka5180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052745360741654788",
+        "in_reply_to_user_id": "1902342736814206980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052693734773620788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyoka5180 东京收反差母狗母猪\n@N335djd-sh 关注了你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052693731183370240"
+          ]
+        },
+        "author_id": "1902342736814206980",
+        "conversation_id": "2052693734773620788",
+        "created_at": "2026-05-08T10:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052693734773620788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKu1rbYkpE",
+              "end": 25,
+              "expanded_url": "https://x.com/kyoka5180/status/2052693734773620788/photo/1",
+              "media_key": "3_2052693731183370240",
+              "start": 2,
+              "url": "https://t.co/GKu1rbYkpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052693734773620788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 570,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃 https://t.co/GKu1rbYkpE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 404,
+          "like_count": 4522,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1335
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T12:54:04.000Z",
+        "description": "",
+        "id": "1902342736814206980",
+        "location": "Minato-ku, Tokyo",
+        "name": "东京第一美奶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046511138679209984/Tiyz8w6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7295,
+          "following_count": 75,
+          "like_count": 401,
+          "listed_count": 19,
+          "media_count": 100,
+          "tweet_count": 1050
+        },
+        "username": "kyoka5180",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2049904236755026082",
+    "created_at": "2026-05-01T13:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T14:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050207891362075079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596489618429562882",
+          "start": 0,
+          "username": "plzjustluvmeqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050207891362075079",
+    "in_reply_to_user_id": "1596489618429562882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049904236755026082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plzjustluvmeqwq 我立人设就这样。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049904231986204673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHK5CcMbkAE__JH.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2049904236755026082",
+        "created_at": "2026-05-01T13:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050207891362075079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596489618429562882",
+              "start": 0,
+              "username": "plzjustluvmeqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050207891362075079",
+        "in_reply_to_user_id": "1596489618429562882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049904236755026082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plzjustluvmeqwq 我立人设就这样。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049904231986204673"
+          ]
+        },
+        "author_id": "1596489618429562882",
+        "conversation_id": "2049904236755026082",
+        "created_at": "2026-04-30T17:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049904236755026082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4ViD8PD3q",
+              "end": 23,
+              "expanded_url": "https://x.com/plzjustluvmeqwq/status/2049904236755026082/photo/1",
+              "media_key": "3_2049904231986204673",
+              "start": 0,
+              "url": "https://t.co/C4ViD8PD3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049904236755026082",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C4ViD8PD3q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 337,
+          "like_count": 4041,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T13:03:22.000Z",
+        "description": "精神崩壊大崩壊将来破滅大確定",
+        "id": "1596489618429562882",
+        "name": "cryingsilence",
+        "pinned_tweet_id": "2036019723662746103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045789715463655425/z9iNuXkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 239,
+          "like_count": 8234,
+          "listed_count": 6,
+          "media_count": 506,
+          "tweet_count": 4007
+        },
+        "username": "plzjustluvmeqwq",
+        "verified": false
+      }
+    ]
+  }
+}

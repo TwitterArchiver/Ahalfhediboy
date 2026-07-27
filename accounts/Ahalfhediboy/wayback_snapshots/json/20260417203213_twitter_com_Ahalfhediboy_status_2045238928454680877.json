@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2045238067930206335",
+    "created_at": "2026-04-17T20:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T21:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045238928454680877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1864686240882413570",
+          "start": 0,
+          "username": "Ccccccandy_m_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045238928454680877",
+    "in_reply_to_user_id": "1864686240882413570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045238671016886453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ccccccandy_m_ 接"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2045238671016886453].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2045238671016886453",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2045238671016886453"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2045238067930206335",
+        "created_at": "2026-04-17T20:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045238928454680877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1864686240882413570",
+              "start": 0,
+              "username": "Ccccccandy_m_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045238928454680877",
+        "in_reply_to_user_id": "1864686240882413570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045238671016886453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ccccccandy_m_ 接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 251,
+          "like_count": 3179,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T15:00:29.000Z",
+        "description": "雜亂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqqqxtao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qqqqqqqxtao",
+                "start": 0,
+                "url": "https://t.co/tMjB4c5H2V"
+              }
+            ]
+          }
+        },
+        "id": "1864686240882413570",
+        "location": "188",
+        "name": "悪魔の子",
+        "pinned_tweet_id": "2045227256008855763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045226201124577280/V2I4dHAG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 31,
+          "like_count": 8842,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 2464
+        },
+        "url": "https://t.co/tMjB4c5H2V",
+        "username": "Ccccccandy_m_",
+        "verified": false
+      }
+    ]
+  }
+}

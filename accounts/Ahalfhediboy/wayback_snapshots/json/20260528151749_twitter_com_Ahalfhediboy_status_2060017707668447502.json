@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060017690790522883"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2059456799107928229",
+    "created_at": "2026-05-28T15:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060017707668447502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uDRefvuIwi",
+          "end": 29,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2060017707668447502/photo/1",
+          "media_key": "3_2060017690790522883",
+          "start": 6,
+          "url": "https://t.co/uDRefvuIwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060017707668447502",
+    "in_reply_to_user_id": "1853967550381445127",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059456799107928229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "腿好好看（ https://t.co/uDRefvuIwi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 614,
+        "media_key": "3_2060017690790522883",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJanLOKW8AMKcSK.jpg",
+        "width": 1384
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059456789595209728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSpCeYWwAAAzKc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060017690790522883"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2059456799107928229",
+        "created_at": "2026-05-28T15:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060017707668447502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDRefvuIwi",
+              "end": 29,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2060017707668447502/photo/1",
+              "media_key": "3_2060017690790522883",
+              "start": 6,
+              "url": "https://t.co/uDRefvuIwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060017707668447502",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059456799107928229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "腿好好看（ https://t.co/uDRefvuIwi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059456789595209728"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2059456799107928229",
+        "created_at": "2026-05-27T02:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059456799107928229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xHbEcHAFE",
+              "end": 46,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2059456799107928229/photo/1",
+              "media_key": "3_2059456789595209728",
+              "start": 23,
+              "url": "https://t.co/1xHbEcHAFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059456799107928229",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 692,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "The Master of Darkness https://t.co/1xHbEcHAFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 479,
+          "like_count": 6182,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1724
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

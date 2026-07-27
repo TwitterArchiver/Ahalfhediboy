@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2042857070396084679",
+    "created_at": "2026-05-04T18:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T19:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051371837095837959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1656591376174415873",
+          "start": 0,
+          "username": "buwendingyinzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051371837095837959",
+    "in_reply_to_user_id": "1656591376174415873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042857070396084679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buwendingyinzi 大腿怎么瘦的啊…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5666,
+        "height": 1280,
+        "media_key": "7_2042856974245908480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042856974245908480/pu/img/HNwXc5BkRCOZpG6I.jpg",
+        "public_metrics": {
+          "view_count": 174
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042856974245908480/pu/vid/avc1/320x568/i6M_9xc1sPix6nnE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042856974245908480/pu/vid/avc1/480x852/0kmTl_ARwL9fp48L.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042856974245908480/pu/vid/avc1/720x1280/dpSKyBzHPig-NXMd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042856974245908480/pu/pl/gbT8ptOFPi97cQTV.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2042857070396084679",
+        "created_at": "2026-05-04T18:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T19:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051371837095837959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1656591376174415873",
+              "start": 0,
+              "username": "buwendingyinzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051371837095837959",
+        "in_reply_to_user_id": "1656591376174415873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042857070396084679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buwendingyinzi 大腿怎么瘦的啊…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042856974245908480"
+          ]
+        },
+        "author_id": "1656591376174415873",
+        "conversation_id": "2042857070396084679",
+        "created_at": "2026-04-11T06:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042857070396084679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKE2WGB6Ci",
+              "end": 31,
+              "expanded_url": "https://x.com/buwendingyinzi/status/2042857070396084679/video/1",
+              "media_key": "7_2042856974245908480",
+              "start": 8,
+              "url": "https://t.co/jKE2WGB6Ci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042857070396084679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 868,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还好大腿还有缝 https://t.co/jKE2WGB6Ci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 360,
+          "like_count": 4222,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1235
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T09:25:43.000Z",
+        "description": "02 mtx 182cm 55kg女装模特 腿模 B站空间链接→https://t.co/PF34yfxZnv 不搞黄 拍腿擦边大师 偶尔cos同好互关互赞互转只要叫我一定会帮欢迎投喂感谢支持🚪50r 同好可直接加好友加群",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VxVbnCg",
+                "end": 55,
+                "expanded_url": "https://b23.tv/VxVbnCg",
+                "start": 32,
+                "url": "https://t.co/PF34yfxZnv"
+              }
+            ]
+          }
+        },
+        "id": "1656591376174415873",
+        "location": "China",
+        "name": "不稳定因子x",
+        "pinned_tweet_id": "1884147285677998268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047842450694340609/cdgg1XHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3257,
+          "following_count": 812,
+          "like_count": 23220,
+          "listed_count": 9,
+          "media_count": 609,
+          "tweet_count": 1996
+        },
+        "username": "buwendingyinzi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2052128748787409083",
+    "created_at": "2026-05-08T03:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052593826074669313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "944395347257786368",
+          "start": 0,
+          "username": "nyanya_huangovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052593826074669313",
+    "in_reply_to_user_id": "944395347257786368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052128748787409083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanya_huangovo 满昏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052128740839231493",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqgN5cXkAUIYmU.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2052128748787409083",
+        "created_at": "2026-05-08T03:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052593826074669313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "944395347257786368",
+              "start": 0,
+              "username": "nyanya_huangovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052593826074669313",
+        "in_reply_to_user_id": "944395347257786368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052128748787409083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanya_huangovo 满昏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052128740839231493"
+          ]
+        },
+        "author_id": "944395347257786368",
+        "conversation_id": "2052128748787409083",
+        "created_at": "2026-05-06T20:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T21:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052128748787409083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUGoo2CQNf",
+              "end": 28,
+              "expanded_url": "https://x.com/nyanya_huangovo/status/2052128748787409083/photo/1",
+              "media_key": "3_2052128740839231493",
+              "start": 5,
+              "url": "https://t.co/AUGoo2CQNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052128748787409083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "零分女哦 https://t.co/AUGoo2CQNf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 402,
+          "like_count": 4478,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1323
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-23T02:32:51.000Z",
+        "description": "记录美好牲活",
+        "id": "944395347257786368",
+        "name": "goht",
+        "pinned_tweet_id": "1929718641097924978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043470943876476928/Ytl9yRtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 4715,
+          "like_count": 5651,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 106
+        },
+        "username": "nyanya_huangovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2072092449804317043",
+    "created_at": "2026-07-01T06:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072203215211299256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889544915941728256",
+          "start": 0,
+          "username": "fnjshshehw67298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072203215211299256",
+    "in_reply_to_user_id": "1889544915941728256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072092449804317043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnjshshehw67298 哎！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072092324977610752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGM_bwakAAMbnk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2072092449804317043",
+        "created_at": "2026-07-01T06:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072203215211299256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889544915941728256",
+              "start": 0,
+              "username": "fnjshshehw67298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072203215211299256",
+        "in_reply_to_user_id": "1889544915941728256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072092449804317043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnjshshehw67298 哎！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072092324977610752"
+          ]
+        },
+        "author_id": "1889544915941728256",
+        "conversation_id": "2072092449804317043",
+        "created_at": "2026-06-30T22:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072092449804317043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6LrueXCuWF",
+              "end": 155,
+              "expanded_url": "https://x.com/fnjshshehw67298/status/2072092449804317043/photo/1",
+              "media_key": "3_2072092324977610752",
+              "start": 132,
+              "url": "https://t.co/6LrueXCuWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072092449804317043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一位少年看着满屏幕的🐷头肉而感到绝望，但是现实里少年的家庭是封建家庭而少年没有一点自由什么事都要说一下家长不同意那就没得商量甚至没有一丝自己的隐私，在学校下课他都会装作睡觉掩盖自己的情绪，因为没人和一个活死人哑巴交朋友，少年太过于天真，以为自己够瘦就可以解决一切 https://t.co/6LrueXCuWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 472,
+          "like_count": 6478,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 1818
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T05:19:59.000Z",
+        "description": "我認為這個世界本不該如此",
+        "id": "1889544915941728256",
+        "name": "白羽坠",
+        "pinned_tweet_id": "2072092449804317043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072096341954854912/qoYQRgnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 127,
+          "like_count": 1483,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "fnjshshehw67298",
+        "verified": false
+      }
+    ]
+  }
+}

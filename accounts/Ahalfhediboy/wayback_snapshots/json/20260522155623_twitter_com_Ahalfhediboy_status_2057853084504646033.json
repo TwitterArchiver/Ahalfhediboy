@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2057138941242061071",
+    "created_at": "2026-05-22T15:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057853084504646033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2051294139657154561",
+          "start": 0,
+          "username": "naiyoyo"
+        },
+        {
+          "end": 22,
+          "id": "2004245938534338566",
+          "start": 9,
+          "username": "A_Toygun_Piu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057853084504646033",
+    "in_reply_to_user_id": "2051294139657154561",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057394350338998546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naiyoyo @A_Toygun_Piu 一干一湿！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2057138941242061071",
+        "created_at": "2026-05-22T15:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057853084504646033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2051294139657154561",
+              "start": 0,
+              "username": "naiyoyo"
+            },
+            {
+              "end": 22,
+              "id": "2004245938534338566",
+              "start": 9,
+              "username": "A_Toygun_Piu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057853084504646033",
+        "in_reply_to_user_id": "2051294139657154561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057394350338998546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naiyoyo @A_Toygun_Piu 一干一湿！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051294139657154561",
+        "conversation_id": "2057138941242061071",
+        "created_at": "2026-05-21T09:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057394350338998546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004245938534338566",
+              "start": 0,
+              "username": "A_Toygun_Piu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057394350338998546",
+        "in_reply_to_user_id": "2004245938534338566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 59852,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057138941242061071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_Toygun_Piu 感觉双床最好，一边湿了还能睡另外一张床"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 486,
+          "like_count": 5955,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1694
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T13:34:04.000Z",
+        "description": "你的粘人乖狗狗，没那么听话的Brat🐾\n喜欢Cosplay / Lolita / JK | 028\n奈奈本人，别太凶，会记仇\n小尾巴在 @naiyoyo2002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "naiyoyo2002"
+              }
+            ]
+          }
+        },
+        "id": "2051294139657154561",
+        "location": "Chengdu",
+        "name": "奈奈",
+        "pinned_tweet_id": "2057346416826294519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051314632418344960/QEnJwV7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 11,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 114
+        },
+        "username": "naiyoyo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-25T17:40:58.000Z",
+        "description": "明天太阳照常升起。\nhttps://t.co/g299veXM5p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%86%B7%E9%9…",
+                "end": 33,
+                "expanded_url": "https://ngl.link/%E5%86%B7%E9%9B%A8%E5%A4%9C",
+                "start": 10,
+                "url": "https://t.co/g299veXM5p"
+              }
+            ]
+          }
+        },
+        "id": "2004245938534338566",
+        "name": "Dejavu",
+        "pinned_tweet_id": "2050264006401941899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022719133998256128/RPk7xPb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 62,
+          "like_count": 4687,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 2116
+        },
+        "username": "A_Toygun_Piu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2049888669985906771",
+    "created_at": "2026-05-08T15:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052773394324599007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1544962773020393472",
+          "start": 0,
+          "username": "IbukiFuko_0720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052773394324599007",
+    "in_reply_to_user_id": "1544962773020393472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052771521257759042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IbukiFuko_0720 多少錢？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052771507131273216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzoz0eaUAA2xvH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2049888669985906771",
+        "created_at": "2026-05-08T15:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052773394324599007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1544962773020393472",
+              "start": 0,
+              "username": "IbukiFuko_0720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052773394324599007",
+        "in_reply_to_user_id": "1544962773020393472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052771521257759042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IbukiFuko_0720 多少錢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052771507131273216"
+          ]
+        },
+        "author_id": "1544962773020393472",
+        "conversation_id": "2049888669985906771",
+        "created_at": "2026-05-08T15:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052771521257759042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/asQxKFti3e",
+              "end": 56,
+              "expanded_url": "https://x.com/IbukiFuko_0720/status/2052771521257759042/photo/1",
+              "media_key": "3_2052771507131273216",
+              "start": 33,
+              "url": "https://t.co/asQxKFti3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052771521257759042",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052758564934938719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 我还真有 但不是正的 现在正的太贵了 https://t.co/asQxKFti3e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 406,
+          "like_count": 4550,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1352
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T08:33:34.000Z",
+        "description": "",
+        "id": "1544962773020393472",
+        "location": "这座小镇实现愿望的地方",
+        "name": "愛你",
+        "pinned_tweet_id": "2040024751448727826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968380554359062529/U80a2GLE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 260,
+          "like_count": 11037,
+          "listed_count": 0,
+          "media_count": 561,
+          "tweet_count": 4679
+        },
+        "username": "IbukiFuko_0720",
+        "verified": false
+      }
+    ]
+  }
+}

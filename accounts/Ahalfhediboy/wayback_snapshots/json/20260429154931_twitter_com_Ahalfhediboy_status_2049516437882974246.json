@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2049516437882974246",
+    "created_at": "2026-04-29T15:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049516437882974246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "輝く少年’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1Xxyg…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1XxygmrlnMYGM",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2049516439187390464/qkG318lI?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2049516439187390464/qkG318lI?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 不登校",
+          "unwound_url": "https://twitter.com/i/spaces/1XxygmrlnMYGM/peek",
+          "url": "https://t.co/ZyfRUxlKic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049516437882974246",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ZyfRUxlKic"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2049516437882974246",
+        "created_at": "2026-04-29T15:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049516437882974246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "輝く少年’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1Xxyg…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1XxygmrlnMYGM",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2049516439187390464/qkG318lI?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049516439187390464/qkG318lI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 不登校",
+              "unwound_url": "https://twitter.com/i/spaces/1XxygmrlnMYGM/peek",
+              "url": "https://t.co/ZyfRUxlKic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049516437882974246",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZyfRUxlKic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 330,
+          "like_count": 3897,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

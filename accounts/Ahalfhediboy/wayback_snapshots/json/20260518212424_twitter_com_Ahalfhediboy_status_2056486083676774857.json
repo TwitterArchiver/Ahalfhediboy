@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2056395029598363752",
+    "created_at": "2026-05-18T21:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T22:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056486083676774857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001461026412531712",
+          "start": 0,
+          "username": "BcyKxg31640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056486083676774857",
+    "in_reply_to_user_id": "2001461026412531712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056482020776153504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BcyKxg31640 住42那边 然后时代广场-中央公园-soho-东村之类的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2056395029598363752",
+        "created_at": "2026-05-18T21:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T22:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056486083676774857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001461026412531712",
+              "start": 0,
+              "username": "BcyKxg31640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056486083676774857",
+        "in_reply_to_user_id": "2001461026412531712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056482020776153504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BcyKxg31640 住42那边 然后时代广场-中央公园-soho-东村之类的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001461026412531712",
+        "conversation_id": "2056395029598363752",
+        "created_at": "2026-05-18T21:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T22:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056482020776153504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056482020776153504",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056429096976994631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 就走马观花一下 不干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 476,
+          "like_count": 5577,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1640
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T01:14:45.000Z",
+        "description": "Love?丨文字记录臆想 丨温饱思淫欲上推就是有点温饱了但不代表想法你丨推止于推",
+        "id": "2001461026412531712",
+        "location": "地球Online",
+        "name": "用户509280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011085013048311808/BvbrvhxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 309,
+          "like_count": 1946,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 399
+        },
+        "username": "BcyKxg31640",
+        "verified": false
+      }
+    ]
+  }
+}

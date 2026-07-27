@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053585901213630529",
+    "created_at": "2026-05-11T20:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T21:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053935989848965185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053061705052385280",
+          "start": 0,
+          "username": "jisong20bb"
+        },
+        {
+          "end": 28,
+          "id": "2051994599166451713",
+          "start": 12,
+          "username": "FengLingwa36090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053935989848965185",
+    "in_reply_to_user_id": "2053061705052385280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053744893521207769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jisong20bb @FengLingwa36090 你拿著香港身分在全世界各種地方享受的待遇是比中國大陸人好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053585901213630529",
+        "created_at": "2026-05-11T20:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T21:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053935989848965185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053061705052385280",
+              "start": 0,
+              "username": "jisong20bb"
+            },
+            {
+              "end": 28,
+              "id": "2051994599166451713",
+              "start": 12,
+              "username": "FengLingwa36090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053935989848965185",
+        "in_reply_to_user_id": "2053061705052385280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053744893521207769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jisong20bb @FengLingwa36090 你拿著香港身分在全世界各種地方享受的待遇是比中國大陸人好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053061705052385280",
+        "conversation_id": "2053585901213630529",
+        "created_at": "2026-05-11T07:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053744893521207769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051994599166451713",
+              "start": 0,
+              "username": "FengLingwa36090"
+            },
+            {
+              "end": 30,
+              "id": "1853967550381445127",
+              "start": 17,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053744893521207769",
+        "in_reply_to_user_id": "2051994599166451713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053732920699838714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FengLingwa36090 @Ahalfhediboy 很好奇一些香港人为什么不认同中国人的身份还有香港人为什么不等于中国人呢？我只是单纯提问不是想反驳你，作为一个大陆人我们受到的教育理念是民族统一，我们觉得香港是属于中国的，那香港人理所当然的就是中国人，大陆人通常觉得中国人不认同自己身份就是错误的观念，很好奇香港人是怎么想的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 441,
+          "like_count": 4941,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1459
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T10:39:13.000Z",
+        "description": "09 174 중국인 npnc",
+        "id": "2053061705052385280",
+        "name": "Jisong",
+        "pinned_tweet_id": "2053090616645672965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053437098141884416/aQ2ItvjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 78,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 75
+        },
+        "username": "jisong20bb",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T11:57:06.000Z",
+        "description": "",
+        "id": "2051994599166451713",
+        "name": "LingWan FENG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052558509699399683/ZFfiDcmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 9,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "FengLingwa36090",
+        "verified": false
+      }
+    ]
+  }
+}

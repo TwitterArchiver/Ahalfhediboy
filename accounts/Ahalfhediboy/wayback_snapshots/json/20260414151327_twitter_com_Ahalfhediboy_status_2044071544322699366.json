@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2044021895163744348",
+    "created_at": "2026-04-14T15:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044071544322699366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834625166774829056",
+          "start": 0,
+          "username": "Sertraline824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044071544322699366",
+    "in_reply_to_user_id": "1834625166774829056",
+    "lang": "ht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044021895163744348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sertraline824 lmao"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65298,
+        "height": 1280,
+        "media_key": "7_2044021603219189764",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044021603219189764/pu/img/bxDJmHRQAysHbL4H.jpg",
+        "public_metrics": {
+          "view_count": 173
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044021603219189764/pu/vid/avc1/320x568/4y-1yogLl2IIAjB8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044021603219189764/pu/vid/avc1/480x852/jAo0S01Ka8wDWGUL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044021603219189764/pu/vid/avc1/720x1280/DZvwQel4BczaVFib.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044021603219189764/pu/pl/30Nw8Gz44IZ50gQ7.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2044021895163744348",
+        "created_at": "2026-04-14T15:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044071544322699366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834625166774829056",
+              "start": 0,
+              "username": "Sertraline824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044071544322699366",
+        "in_reply_to_user_id": "1834625166774829056",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044021895163744348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sertraline824 lmao"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044021603219189764"
+          ]
+        },
+        "author_id": "1834625166774829056",
+        "conversation_id": "2044021895163744348",
+        "created_at": "2026-04-14T11:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044021895163744348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DjfAKMrrGr",
+              "end": 65,
+              "expanded_url": "https://x.com/Sertraline824/status/2044021895163744348/video/1",
+              "media_key": "7_2044021603219189764",
+              "start": 42,
+              "url": "https://t.co/DjfAKMrrGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044021895163744348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学生的语文老师要他们打印自己人生的高光时刻，他打印了自己的金牌发育路和巅峰1300 https://t.co/DjfAKMrrGr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 221,
+          "like_count": 2949,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T16:09:08.000Z",
+        "description": "主页含有少量牛子请谨慎观看/请和我聊天/绝望的家教老师/长期活跃在别人动态下/请和我打Apex、OW、星露谷、群星/性取向直/不定期情绪崩溃会发很多莫名其妙的话请谨慎关注/1i/可能是brat也许是sw/我可能是个恋足癖/88🚪互关除外（穷了  :(  //如果有愿意打赏的朋友请看@Alex_downtown",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Alex_downtown"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sertraline816/…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sertraline816/yourcrush",
+                "start": 0,
+                "url": "https://t.co/P5CcVkUxvm"
+              }
+            ]
+          }
+        },
+        "id": "1834625166774829056",
+        "name": "Sertraline",
+        "pinned_tweet_id": "2004973899059245287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004371399184424960/SnRop93a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4075,
+          "following_count": 406,
+          "like_count": 15296,
+          "listed_count": 8,
+          "media_count": 1004,
+          "tweet_count": 7970
+        },
+        "url": "https://t.co/P5CcVkUxvm",
+        "username": "Sertraline824",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2047263507742380072",
+    "created_at": "2026-04-23T15:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047330829592908142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047330829592908142",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047263507742380072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly 其实大部分男的自己也想白+瘦 因为练肌肉也很吃天赋。。。但是很多男的都是大专or高中 他们对世界的认知不够 但是他们有的是时间 可以去骂人LOL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047263495226572800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlXTVKawAAWcnt.jpg",
+        "width": 946
+      },
+      {
+        "height": 1313,
+        "media_key": "3_2047263495172005888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlXTU9aIAAPr4l.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2047263507742380072",
+        "created_at": "2026-04-23T15:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047330829592908142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047330829592908142",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047263507742380072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 其实大部分男的自己也想白+瘦 因为练肌肉也很吃天赋。。。但是很多男的都是大专or高中 他们对世界的认知不够 但是他们有的是时间 可以去骂人LOL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047263495226572800",
+            "3_2047263495172005888"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2047263507742380072",
+        "created_at": "2026-04-23T10:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047263507742380072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RbVA4iM9F",
+              "end": 100,
+              "expanded_url": "https://x.com/kitty068_ly/status/2047263507742380072/photo/1",
+              "media_key": "3_2047263495226572800",
+              "start": 77,
+              "url": "https://t.co/5RbVA4iM9F"
+            },
+            {
+              "display_url": "pic.x.com/5RbVA4iM9F",
+              "end": 100,
+              "expanded_url": "https://x.com/kitty068_ly/status/2047263507742380072/photo/1",
+              "media_key": "3_2047263495172005888",
+              "start": 77,
+              "url": "https://t.co/5RbVA4iM9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047263507742380072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5258,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "照这样不是jk的人也不能穿jk制服都是在诱导了 我想说这种只露小臂和小腿的衣服其实没啥好太苛责的 只是加了刺绣花纹的普通版型和好几年前的软妹风本质差不多 https://t.co/5RbVA4iM9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 294,
+          "like_count": 3536,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "只想随便说些想说的话和喜欢我或者认同我的人交流懒得说服或者赢过任何人请大家保持文明呦/经常失踪想念我的话欢迎私联/激酷 泛性恋\n任何求偶意愿的私信和评论@dngyng169770781都会看所以克制一点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "菟丝花藤",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 425,
+          "like_count": 4112,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3002
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

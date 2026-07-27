@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053585901213630529",
+    "created_at": "2026-05-11T12:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053812738481094802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039689742766292992",
+          "start": 0,
+          "username": "JYX1451784"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053812738481094802",
+    "in_reply_to_user_id": "2039689742766292992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053789368578642096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JYX1451784 香港人讨厌大陆人是因为国内的素质教育还是要提升 傻逼太多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053585901213630529",
+        "created_at": "2026-05-11T12:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053812738481094802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039689742766292992",
+              "start": 0,
+              "username": "JYX1451784"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053812738481094802",
+        "in_reply_to_user_id": "2039689742766292992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053789368578642096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JYX1451784 香港人讨厌大陆人是因为国内的素质教育还是要提升 傻逼太多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039689742766292992",
+        "conversation_id": "2053585901213630529",
+        "created_at": "2026-05-11T10:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053789368578642096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053789368578642096",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053585901213630529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 致敬最爱国、最团结、最友善、最尊重自己同胞、最爱讲国语、最不排外、最不崇洋媚外的香港同胞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 438,
+          "like_count": 4876,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1436
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T13:02:08.000Z",
+        "description": "",
+        "id": "2039689742766292992",
+        "name": "including",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040353107683790848/f2if559e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 72,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 144
+        },
+        "username": "JYX1451784",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2052875706405662856",
+    "created_at": "2026-05-12T14:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054206882256920757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048082086737682432",
+          "start": 0,
+          "username": "_gotmeburning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054206882256920757",
+    "in_reply_to_user_id": "2048082086737682432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054206650563579976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_gotmeburning 谢谢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2052875706405662856",
+        "created_at": "2026-05-12T14:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054206882256920757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048082086737682432",
+              "start": 0,
+              "username": "_gotmeburning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054206882256920757",
+        "in_reply_to_user_id": "2048082086737682432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054206650563579976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_gotmeburning 谢谢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048082086737682432",
+        "conversation_id": "2052875706405662856",
+        "created_at": "2026-05-12T14:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054206650563579976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054206650563579976",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054206087952273912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 你很美啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 449,
+          "like_count": 5014,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1502
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T16:50:21.000Z",
+        "description": "09 上海—🇺🇸留学\n不是指南",
+        "id": "2048082086737682432",
+        "location": "New York, USA",
+        "name": "给我厕纸",
+        "pinned_tweet_id": "2053218207654195325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051043839368990720/l4AuF3QM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 96,
+          "like_count": 3462,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 219
+        },
+        "username": "_gotmeburning",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2056249943879262719",
+    "created_at": "2026-05-18T05:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056249943879262719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Michael Jackson · Dangerous · Song · 1991",
+          "display_url": "open.spotify.com/track/7woW97Cf…",
+          "end": 38,
+          "expanded_url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K?si=-FVzPyZLR0uk_k7SDiEklQ",
+          "start": 15,
+          "status": 200,
+          "title": "Heal the World",
+          "unwound_url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K?si=-FVzPyZLR0uk_k7SDiEklQ",
+          "url": "https://t.co/AcKxovOlG9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056249943879262719",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Heal the world\nhttps://t.co/AcKxovOlG9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2056249943879262719",
+        "created_at": "2026-05-18T05:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056249943879262719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Michael Jackson · Dangerous · Song · 1991",
+              "display_url": "open.spotify.com/track/7woW97Cf…",
+              "end": 38,
+              "expanded_url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K?si=-FVzPyZLR0uk_k7SDiEklQ",
+              "start": 15,
+              "status": 200,
+              "title": "Heal the World",
+              "unwound_url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K?si=-FVzPyZLR0uk_k7SDiEklQ",
+              "url": "https://t.co/AcKxovOlG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056249943879262719",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Heal the world\nhttps://t.co/AcKxovOlG9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 472,
+          "like_count": 5509,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1619
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

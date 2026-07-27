@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2043721049938813324",
+    "created_at": "2026-04-13T16:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043727696228749376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038614200172326912",
+          "start": 0,
+          "username": "mingxukong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043727696228749376",
+    "in_reply_to_user_id": "2038614200172326912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043721049938813324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingxukong 同样的60天高考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2043721049938813324",
+        "created_at": "2026-04-13T16:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043727696228749376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038614200172326912",
+              "start": 0,
+              "username": "mingxukong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043727696228749376",
+        "in_reply_to_user_id": "2038614200172326912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043721049938813324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingxukong 同样的60天高考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038614200172326912",
+        "conversation_id": "2043721049938813324",
+        "created_at": "2026-04-13T16:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043721049938813324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mingxukong/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/mingxukong/status/2041498131100004679",
+              "start": 17,
+              "url": "https://t.co/XGqbTRMDcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043721049938813324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 709,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041498131100004679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "居然还有60多天就中考了 好恐怖 https://t.co/XGqbTRMDcT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 208,
+          "like_count": 2888,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T13:48:30.000Z",
+        "description": "OvO\n私信骚扰我的死一家\n匿名提问⬇️\nhttps://t.co/Mt2EOcMalk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo53075",
+                "end": 44,
+                "expanded_url": "https://ngl.link/ovo53075",
+                "start": 21,
+                "url": "https://t.co/Mt2EOcMalk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo53075",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovo53075",
+                "start": 0,
+                "url": "https://t.co/Mt2EOcMalk"
+              }
+            ]
+          }
+        },
+        "id": "2038614200172326912",
+        "location": "我操你冯",
+        "name": "坏",
+        "pinned_tweet_id": "2040051215308906764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038614458411454464/f5UxqtBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 27,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/Mt2EOcMalk",
+        "username": "mingxukong",
+        "verified": false
+      }
+    ]
+  }
+}

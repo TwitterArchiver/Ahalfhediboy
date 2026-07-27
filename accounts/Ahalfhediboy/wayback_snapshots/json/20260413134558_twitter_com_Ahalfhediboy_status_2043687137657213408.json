@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2043607572515885182",
+    "created_at": "2026-04-13T13:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043687137657213408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1441413233177362434",
+          "start": 0,
+          "username": "4O4n0tf0und_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043687137657213408",
+    "in_reply_to_user_id": "1441413233177362434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043607572515885182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4O4n0tf0und_0 宝宝。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2043607572515885182",
+        "created_at": "2026-04-13T13:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043687137657213408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1441413233177362434",
+              "start": 0,
+              "username": "4O4n0tf0und_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043687137657213408",
+        "in_reply_to_user_id": "1441413233177362434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043607572515885182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4O4n0tf0und_0 宝宝。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441413233177362434",
+        "conversation_id": "2043607572515885182",
+        "created_at": "2026-04-13T08:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043607572515885182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4o4n0tf0und_0/…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/4o4n0tf0und_0/status/2043606773349908524",
+              "start": 130,
+              "url": "https://t.co/rGET4K5twX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043607572515885182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043606773349908524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不清楚长得好看的黄推是什么情况，但我这种长得难看还一堆黑历史的人如果被疯狗咬上，一堆人会来恶心我，因为我有丑陋的原罪，因为我生活中很少装扮自己，只有少数情况会打扮，但也不喜欢留影。我上学的时候被霸凌被人偷拍照片网暴，不收钱当黄推也不过是想克服一些镜头恐惧。 https://t.co/rGET4K5twX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 207,
+          "like_count": 2844,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-24T14:44:43.000Z",
+        "description": "⛧⁺₊𝕿𝖍𝖊 𝖈𝖍𝖆𝖔𝖘 𝖎𝖓 𝖒𝖞 𝖛𝖊𝖎𝖓𝖘 𝖘𝖎𝖓𝖌𝖘 𝖙𝖔 𝖞𝖔𝖚⛧₊⁺\n🚪250 ，防伪人基金会出品。",
+        "id": "1441413233177362434",
+        "location": "🏳️‍🌈 b i",
+        "name": "null",
+        "pinned_tweet_id": "1917218767781941639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039059860743241728/-B60O4uS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 384,
+          "like_count": 35318,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 1471
+        },
+        "username": "4O4n0tf0und_0",
+        "verified": false
+      }
+    ]
+  }
+}

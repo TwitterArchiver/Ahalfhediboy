@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2046966801238802483",
+    "created_at": "2026-04-24T14:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047681526435828188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841905391552364547",
+          "start": 0,
+          "username": "zzzZHANGxinyuan"
+        },
+        {
+          "end": 25,
+          "id": "1816489710682030080",
+          "start": 17,
+          "username": "keaiiea"
+        },
+        {
+          "end": 37,
+          "id": "1920537994605551617",
+          "start": 26,
+          "username": "XwX777Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047681526435828188",
+    "in_reply_to_user_id": "1841905391552364547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047405172843053280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzZHANGxinyuan @keaiiea @XwX777Yuki 不好意思 我没有看不起中国人 我单纯想嘲笑你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2046966801238802483",
+        "created_at": "2026-04-24T14:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047681526435828188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841905391552364547",
+              "start": 0,
+              "username": "zzzZHANGxinyuan"
+            },
+            {
+              "end": 25,
+              "id": "1816489710682030080",
+              "start": 17,
+              "username": "keaiiea"
+            },
+            {
+              "end": 37,
+              "id": "1920537994605551617",
+              "start": 26,
+              "username": "XwX777Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047681526435828188",
+        "in_reply_to_user_id": "1841905391552364547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047405172843053280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzZHANGxinyuan @keaiiea @XwX777Yuki 不好意思 我没有看不起中国人 我单纯想嘲笑你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841905391552364547",
+        "conversation_id": "2046966801238802483",
+        "created_at": "2026-04-23T20:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047405172843053280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            },
+            {
+              "end": 22,
+              "id": "1816489710682030080",
+              "start": 14,
+              "username": "keaiiea"
+            },
+            {
+              "end": 34,
+              "id": "1920537994605551617",
+              "start": 23,
+              "username": "XwX777Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047405172843053280",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047384465542901821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy @keaiiea @XwX777Yuki 花的是国内父母挣的人民币，社交圈子混的是中国人的圈子，然后看不起中国人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 302,
+          "like_count": 3596,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T18:18:22.000Z",
+        "description": "",
+        "id": "1841905391552364547",
+        "name": "xin yuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841905649359499264/iRf346bL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 28,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "username": "zzzZHANGxinyuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas\n🚪88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea1",
+                "start": 0,
+                "url": "https://t.co/6qTDtDAnmS"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "J0N45",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 416,
+          "like_count": 26444,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 2238
+        },
+        "url": "https://t.co/6qTDtDAnmS",
+        "username": "keaiiea",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T17:55:37.000Z",
+        "description": "",
+        "id": "1920537994605551617",
+        "location": "奈落",
+        "name": "OK绷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963746294184505344/PgUUVHMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 69,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 255
+        },
+        "username": "XwX777Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

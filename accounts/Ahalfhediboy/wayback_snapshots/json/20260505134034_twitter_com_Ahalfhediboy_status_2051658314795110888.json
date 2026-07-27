@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2051533900976132596",
+    "created_at": "2026-05-05T13:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051658314795110888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042467622093000704",
+          "start": 0,
+          "username": "hui04210524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051658314795110888",
+    "in_reply_to_user_id": "2042467622093000704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051533900976132596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hui04210524 很漂亮。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051533898539302912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiDNhMbgAARSHs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2051533900976132596",
+        "created_at": "2026-05-05T13:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051658314795110888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042467622093000704",
+              "start": 0,
+              "username": "hui04210524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051658314795110888",
+        "in_reply_to_user_id": "2042467622093000704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051533900976132596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hui04210524 很漂亮。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051533898539302912"
+          ]
+        },
+        "author_id": "2042467622093000704",
+        "conversation_id": "2051533900976132596",
+        "created_at": "2026-05-05T05:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051533900976132596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/38Tlv1nC1C",
+              "end": 30,
+              "expanded_url": "https://x.com/hui04210524/status/2051533900976132596/photo/1",
+              "media_key": "3_2051533898539302912",
+              "start": 7,
+              "url": "https://t.co/38Tlv1nC1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051533900976132596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 487,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "糖糖生日快樂 https://t.co/38Tlv1nC1C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 365,
+          "like_count": 4267,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T05:00:12.000Z",
+        "description": "死馬馬斯克還我三個賬號，備用@4_hui916768",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "4_hui916768"
+              }
+            ]
+          }
+        },
+        "id": "2042467622093000704",
+        "name": "遺灰4.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468438011203584/c6SR9OA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 280,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 22
+        },
+        "username": "hui04210524",
+        "verified": false
+      }
+    ]
+  }
+}

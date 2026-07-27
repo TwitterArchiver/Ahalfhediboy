@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2052673376494424321",
+    "created_at": "2026-05-08T13:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052743642310135886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1556947282460901378",
+          "start": 0,
+          "username": "xiaohohhhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052743642310135886",
+    "in_reply_to_user_id": "1556947282460901378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052673376494424321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohohhhh 姐姐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052673364045795328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyPjI_bEAAPPQa.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052673364502949888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyPjKsasAAd0wH.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2052673376494424321",
+        "created_at": "2026-05-08T13:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052743642310135886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1556947282460901378",
+              "start": 0,
+              "username": "xiaohohhhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052743642310135886",
+        "in_reply_to_user_id": "1556947282460901378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052673376494424321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohohhhh 姐姐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052673364045795328",
+            "3_2052673364502949888"
+          ]
+        },
+        "author_id": "1556947282460901378",
+        "conversation_id": "2052673376494424321",
+        "created_at": "2026-05-08T08:54:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052673376494424321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jcpQRquJoW",
+              "end": 27,
+              "expanded_url": "https://x.com/xiaohohhhh/status/2052673376494424321/photo/1",
+              "media_key": "3_2052673364045795328",
+              "start": 4,
+              "url": "https://t.co/jcpQRquJoW"
+            },
+            {
+              "display_url": "pic.x.com/jcpQRquJoW",
+              "end": 27,
+              "expanded_url": "https://x.com/xiaohohhhh/status/2052673376494424321/photo/1",
+              "media_key": "3_2052673364502949888",
+              "start": 4,
+              "url": "https://t.co/jcpQRquJoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052673376494424321",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "SOS https://t.co/jcpQRquJoW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 403,
+          "like_count": 4514,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1331
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T10:15:43.000Z",
+        "description": "我是cult之神 猎奇之子 五芒星少年 坏药丸 我和我的女孩在大雨中狂奔 在阴暗的巷子里接吻",
+        "id": "1556947282460901378",
+        "location": "West Midlands, England",
+        "name": "KititOw0",
+        "pinned_tweet_id": "2051150705361342754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051065562999242752/1nY2MvJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 981,
+          "like_count": 6530,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 337
+        },
+        "username": "xiaohohhhh",
+        "verified": false
+      }
+    ]
+  }
+}

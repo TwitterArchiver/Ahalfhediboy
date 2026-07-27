@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2047471716088332538",
+    "created_at": "2026-04-24T14:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047680712103391709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009636788118433792",
+          "start": 0,
+          "username": "Josiezhou0201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047680712103391709",
+    "in_reply_to_user_id": "2009636788118433792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047471716088332538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Josiezhou0201 买那个深圳校服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2047471716088332538",
+        "created_at": "2026-04-24T14:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047680712103391709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009636788118433792",
+              "start": 0,
+              "username": "Josiezhou0201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047680712103391709",
+        "in_reply_to_user_id": "2009636788118433792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047471716088332538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Josiezhou0201 买那个深圳校服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009636788118433792",
+        "conversation_id": "2047471716088332538",
+        "created_at": "2026-04-24T00:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047471716088332538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047471716088332538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6731,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也好想穿校服拍照啊 但是我们学校的雷霆校服太有特色了 抖音上都搜得出来的那种 发出来下一秒就会身败名裂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 301,
+          "like_count": 3595,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T14:42:15.000Z",
+        "description": "可以叫我舟舟/Josie酱｜还在上高中 学业繁忙 不能及时回复请见谅",
+        "id": "2009636788118433792",
+        "location": "🚪49/58/88/288/520",
+        "name": "Josie zhou",
+        "pinned_tweet_id": "2046562664168796506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010257622536957952/6l1MhC_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10853,
+          "following_count": 57,
+          "like_count": 908,
+          "listed_count": 11,
+          "media_count": 122,
+          "tweet_count": 621
+        },
+        "username": "Josiezhou0201",
+        "verified": false
+      }
+    ]
+  }
+}

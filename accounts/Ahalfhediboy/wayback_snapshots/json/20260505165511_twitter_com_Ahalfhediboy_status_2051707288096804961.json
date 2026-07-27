@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051667888973475846"
+      ],
+      "media_source_tweet_id": [
+        "2051667895650845094"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2051707288096804961",
+    "created_at": "2026-05-05T16:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T17:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051707288096804961"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "仮面ライダー響鬼"
+        },
+        {
+          "end": 38,
+          "start": 28,
+          "tag": "仮面ライダー歌舞鬼"
+        },
+        {
+          "end": 58,
+          "start": 40,
+          "tag": "劇場版仮面ライダー響鬼と7人の戦鬼"
+        },
+        {
+          "end": 68,
+          "start": 60,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1584138802544619520",
+          "start": 3,
+          "username": "Zanku_Toska"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TLlmuv3sUj",
+          "end": 111,
+          "expanded_url": "https://x.com/Zanku_Toska/status/2051667895650845094/photo/1",
+          "media_key": "3_2051667888973475846",
+          "start": 88,
+          "url": "https://t.co/TLlmuv3sUj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051707288096804961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051667895650845094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zanku_Toska: #仮面ライダー響鬼 \n#仮面ライダー歌舞鬼 \n#劇場版仮面ライダー響鬼と7人の戦鬼 \n#cosplay\n\n“心比天高，命比紙薄”\n\n📸:叁十 https://t.co/TLlmuv3sUj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 669,
+        "media_key": "3_2051667888973475846",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHj9EydW8AYOPQS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051667888973475846"
+          ],
+          "media_source_tweet_id": [
+            "2051667895650845094"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2051707288096804961",
+        "created_at": "2026-05-05T16:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051707288096804961"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "仮面ライダー響鬼"
+            },
+            {
+              "end": 38,
+              "start": 28,
+              "tag": "仮面ライダー歌舞鬼"
+            },
+            {
+              "end": 58,
+              "start": 40,
+              "tag": "劇場版仮面ライダー響鬼と7人の戦鬼"
+            },
+            {
+              "end": 68,
+              "start": 60,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1584138802544619520",
+              "start": 3,
+              "username": "Zanku_Toska"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TLlmuv3sUj",
+              "end": 111,
+              "expanded_url": "https://x.com/Zanku_Toska/status/2051667895650845094/photo/1",
+              "media_key": "3_2051667888973475846",
+              "start": 88,
+              "url": "https://t.co/TLlmuv3sUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051707288096804961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051667895650845094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zanku_Toska: #仮面ライダー響鬼 \n#仮面ライダー歌舞鬼 \n#劇場版仮面ライダー響鬼と7人の戦鬼 \n#cosplay\n\n“心比天高，命比紙薄”\n\n📸:叁十 https://t.co/TLlmuv3sUj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051667888973475846"
+          ]
+        },
+        "author_id": "1584138802544619520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2051667895650845094",
+        "created_at": "2026-05-05T14:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051667895650845094"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "仮面ライダー響鬼"
+            },
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "仮面ライダー歌舞鬼"
+            },
+            {
+              "end": 41,
+              "start": 23,
+              "tag": "劇場版仮面ライダー響鬼と7人の戦鬼"
+            },
+            {
+              "end": 51,
+              "start": 43,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TLlmuv3sUj",
+              "end": 94,
+              "expanded_url": "https://x.com/Zanku_Toska/status/2051667895650845094/photo/1",
+              "media_key": "3_2051667888973475846",
+              "start": 71,
+              "url": "https://t.co/TLlmuv3sUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051667895650845094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#仮面ライダー響鬼 \n#仮面ライダー歌舞鬼 \n#劇場版仮面ライダー響鬼と7人の戦鬼 \n#cosplay\n\n“心比天高，命比紙薄”\n\n📸:叁十 https://t.co/TLlmuv3sUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 371,
+          "like_count": 4308,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1273
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T11:05:05.000Z",
+        "description": "Thank U for following me :)\n我是Zanku，20↑成人。\n🇨🇳Cosplayer。日語需要使用翻譯器。目前特攝濃度最高。隨緣回fo。",
+        "id": "1584138802544619520",
+        "location": "中国",
+        "name": "藏苦Zanku",
+        "pinned_tweet_id": "1954445109895786609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026824433151741952/nXvcZkFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 42,
+          "like_count": 12851,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 957
+        },
+        "username": "Zanku_Toska",
+        "verified": false
+      }
+    ]
+  }
+}

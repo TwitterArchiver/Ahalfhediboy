@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2050593875098783985",
+    "created_at": "2026-05-04T04:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051164091050254545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1450151090717171712",
+          "start": 0,
+          "username": "naowo_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051164091050254545",
+    "in_reply_to_user_id": "1450151090717171712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051163980866126199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naowo_o 没看到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2050593875098783985",
+        "created_at": "2026-05-04T04:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051164091050254545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1450151090717171712",
+              "start": 0,
+              "username": "naowo_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051164091050254545",
+        "in_reply_to_user_id": "1450151090717171712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051163980866126199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naowo_o 没看到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450151090717171712",
+        "conversation_id": "2050593875098783985",
+        "created_at": "2026-05-04T04:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051163980866126199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051163980866126199",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051160838312980690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 其实我现在天天开🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 344,
+          "like_count": 4122,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1201
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T17:25:46.000Z",
+        "description": "嫁@bihe377",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 1,
+                "username": "bihe377"
+              }
+            ]
+          }
+        },
+        "id": "1450151090717171712",
+        "location": "ひみつ",
+        "name": "にゃお",
+        "pinned_tweet_id": "2050157793467072732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037208673198759937/1cz3EEb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 97,
+          "like_count": 5246,
+          "listed_count": 7,
+          "media_count": 15,
+          "tweet_count": 82
+        },
+        "username": "naowo_o",
+        "verified": false
+      }
+    ]
+  }
+}

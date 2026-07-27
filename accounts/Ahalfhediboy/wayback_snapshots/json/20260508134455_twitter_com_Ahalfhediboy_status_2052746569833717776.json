@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2052678842137948657",
+    "created_at": "2026-05-08T13:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052746569833717776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        },
+        {
+          "end": 22,
+          "id": "2043363745443749888",
+          "start": 13,
+          "username": "Negvorce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052746569833717776",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052681231142195452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress @Negvorce 20？？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052681227342110726",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyWs2DW4AYaSQ6.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2052678842137948657",
+        "created_at": "2026-05-08T13:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052746569833717776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 22,
+              "id": "2043363745443749888",
+              "start": 13,
+              "username": "Negvorce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052746569833717776",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052681231142195452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress @Negvorce 20？？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052681227342110726"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052678842137948657",
+        "created_at": "2026-05-08T09:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052681231142195452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2043363745443749888",
+              "start": 0,
+              "username": "Negvorce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3M0x3bhcV",
+              "end": 42,
+              "expanded_url": "https://x.com/NagiExpress/status/2052681231142195452/photo/1",
+              "media_key": "3_2052681227342110726",
+              "start": 19,
+              "url": "https://t.co/g3M0x3bhcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052681231142195452",
+        "in_reply_to_user_id": "2043363745443749888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052680123200270766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Negvorce 十几二十很常见的 https://t.co/g3M0x3bhcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 404,
+          "like_count": 4523,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1339
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "我要倒贴直男哥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "Nagi想舔你喉结",
+        "pinned_tweet_id": "2047488837392216411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047489680057278465/ft1MMZ87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5561,
+          "following_count": 2350,
+          "like_count": 27591,
+          "listed_count": 9,
+          "media_count": 2412,
+          "tweet_count": 23496
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "NagiExpress",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-12T16:21:17.000Z",
+        "description": "185-76-43-1（也可side或s，更喜side），00后。时不时发疯/发情/发癫/发骚。xp广泛但大多浅尝辄止，包括但不限于眼镜，舌吻，帅鞋（怎么算帅由我说了算），白袜，猴等等等等（排名从先到后）。可接地陪，可提供情绪价值，可接陪聊。欢迎私信，欢迎金主爸爸，不直接约。",
+        "id": "2043363745443749888",
+        "location": "南京，骗子别来",
+        "name": "Negvorce",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043370163320532992/W0IQ3NlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 953,
+          "like_count": 267,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1045
+        },
+        "username": "Negvorce",
+        "verified": false
+      }
+    ]
+  }
+}

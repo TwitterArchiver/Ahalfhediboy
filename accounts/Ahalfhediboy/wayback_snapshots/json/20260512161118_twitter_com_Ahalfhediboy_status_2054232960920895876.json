@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2054232960920895876",
+    "created_at": "2026-05-12T16:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054232960920895876"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 5,
+          "tag": "纽约"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/sickgirlofasia…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/sickgirlofasia/status/2054229324522279277",
+          "start": 9,
+          "url": "https://t.co/Gm1J3peLCh"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "27485069891a7938"
+    },
+    "id": "2054232960920895876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054229324522279277",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老公来了 #纽约 https://t.co/Gm1J3peLCh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2054229321049350145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIWrwhWoAE8lSy.jpg",
+        "width": 720
+      }
+    ],
+    "places": [
+      {
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New York, NY",
+        "geo": {
+          "bbox": [
+            -74.255641,
+            40.495865,
+            -73.699793,
+            40.91533
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "27485069891a7938",
+        "name": "New York",
+        "place_type": "admin"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2054232960920895876",
+        "created_at": "2026-05-12T16:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054232960920895876"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "纽约"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sickgirlofasia…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/sickgirlofasia/status/2054229324522279277",
+              "start": 9,
+              "url": "https://t.co/Gm1J3peLCh"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "27485069891a7938"
+        },
+        "id": "2054232960920895876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054229324522279277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老公来了 #纽约 https://t.co/Gm1J3peLCh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054229321049350145"
+          ]
+        },
+        "author_id": "1797945934912929792",
+        "conversation_id": "2054229324522279277",
+        "created_at": "2026-05-12T15:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054229324522279277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNSie2b4Xi",
+              "end": 23,
+              "expanded_url": "https://x.com/sickgirlofasia/status/2054229324522279277/photo/1",
+              "media_key": "3_2054229321049350145",
+              "start": 0,
+              "url": "https://t.co/CNSie2b4Xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054229324522279277",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CNSie2b4Xi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 451,
+          "like_count": 5037,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1523
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T10:58:29.000Z",
+        "description": "重重的痛苦 浅浅的活.",
+        "id": "1797945934912929792",
+        "location": "New York, NY",
+        "name": "病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797946169580032000/4_hfVdyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 51,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 31
+        },
+        "username": "sickgirlofasia",
+        "verified": false
+      }
+    ]
+  }
+}

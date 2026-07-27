@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2048620477749645746",
+    "created_at": "2026-04-27T13:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048763462810042549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998998860518273025",
+          "start": 0,
+          "username": "suixing123ttks"
+        },
+        {
+          "end": 30,
+          "id": "1977031348415246336",
+          "start": 16,
+          "username": "Estherishere_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048763462810042549",
+    "in_reply_to_user_id": "1998998860518273025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048623604154433817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suixing123ttks @Estherishere_ 女生会因为某个人好看然后小团体孤立。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2048620477749645746",
+        "created_at": "2026-04-27T13:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048763462810042549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998998860518273025",
+              "start": 0,
+              "username": "suixing123ttks"
+            },
+            {
+              "end": 30,
+              "id": "1977031348415246336",
+              "start": 16,
+              "username": "Estherishere_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048763462810042549",
+        "in_reply_to_user_id": "1998998860518273025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048623604154433817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suixing123ttks @Estherishere_ 女生会因为某个人好看然后小团体孤立。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998998860518273025",
+        "conversation_id": "2048620477749645746",
+        "created_at": "2026-04-27T04:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048623604154433817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977031348415246336",
+              "start": 0,
+              "username": "Estherishere_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048623604154433817",
+        "in_reply_to_user_id": "1977031348415246336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048620477749645746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estherishere_ 会的，因为我弟就是，男生是会看不惯长得秀气或者比较正的人。因为这样会把整体要求拉高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 322,
+          "like_count": 3782,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:10:57.000Z",
+        "description": "不定期发大尺码照片然后删除/骂我就删号跑路/双取屏蔽随意/不互fo/欢迎找我聊天/左右脑互搏，别在推敲经不起推敲的我了/不接任何推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B2%81%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B2%81%E6%98%9F",
+                "start": 0,
+                "url": "https://t.co/H6vQEfQ8jP"
+              }
+            ]
+          }
+        },
+        "id": "1998998860518273025",
+        "name": "岁星",
+        "pinned_tweet_id": "2041447904502747628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000922238556782592/vks2mWRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 114,
+          "like_count": 460,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/H6vQEfQ8jP",
+        "username": "suixing123ttks",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T15:19:53.000Z",
+        "description": "失恋一次带娃的单亲母亲日常番\n加油！单亲妈妈\n儿子@Wojiang38562\nhttps://t.co/H4pB8fnL48",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "Wojiang38562"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/estherishere",
+                "end": 62,
+                "expanded_url": "https://ngl.link/estherishere",
+                "start": 39,
+                "url": "https://t.co/H4pB8fnL48"
+              }
+            ]
+          }
+        },
+        "id": "1977031348415246336",
+        "name": "你让让我吧不行吗",
+        "pinned_tweet_id": "2034853707167486030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998038638828109824/mHIE4ZvG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4210,
+          "following_count": 422,
+          "like_count": 14790,
+          "listed_count": 7,
+          "media_count": 423,
+          "tweet_count": 12335
+        },
+        "username": "Estherishere_",
+        "verified": true
+      }
+    ]
+  }
+}

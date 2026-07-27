@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2063814419335827704",
+    "created_at": "2026-06-08T13:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063981905075118283"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063981905075118283",
+    "in_reply_to_user_id": "1853967550381445127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063814419335827704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這肯定是一種緣份"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2063814415481257984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQkRr0XQAApPaR.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2063814419335827704",
+        "created_at": "2026-06-08T13:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063981905075118283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063981905075118283",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063814419335827704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這肯定是一種緣份"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063814415481257984"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2063814419335827704",
+        "created_at": "2026-06-08T02:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063814419335827704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/inixXBVNd4",
+              "end": 27,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2063814419335827704/photo/1",
+              "media_key": "3_2063814415481257984",
+              "start": 4,
+              "url": "https://t.co/inixXBVNd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063814419335827704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你我他 https://t.co/inixXBVNd4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 475,
+          "like_count": 6375,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1775
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

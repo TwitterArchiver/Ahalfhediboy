@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2048213355207303388",
+    "created_at": "2026-04-26T04:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048260324764065813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1584138802544619520",
+          "start": 0,
+          "username": "Zanku_Toska"
+        },
+        {
+          "end": 25,
+          "id": "859945039920627712",
+          "start": 13,
+          "username": "ONI_no_SATO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048260324764065813",
+    "in_reply_to_user_id": "1584138802544619520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048213355207303388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zanku_Toska @ONI_no_SATO 歌舞鬼のcosplsy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048213351390748672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGy3MPHboAAysTW.jpg",
+        "width": 1267
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048213349234524160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGy3MHFWQAAkT-z.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2048213355207303388",
+        "created_at": "2026-04-26T04:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048260324764065813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1584138802544619520",
+              "start": 0,
+              "username": "Zanku_Toska"
+            },
+            {
+              "end": 25,
+              "id": "859945039920627712",
+              "start": 13,
+              "username": "ONI_no_SATO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048260324764065813",
+        "in_reply_to_user_id": "1584138802544619520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048213355207303388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zanku_Toska @ONI_no_SATO 歌舞鬼のcosplsy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048213351390748672",
+            "3_2048213349234524160"
+          ]
+        },
+        "author_id": "1584138802544619520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2048213355207303388",
+        "created_at": "2026-04-26T01:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048213355207303388"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "仮面ライダー響鬼"
+            },
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "仮面ライダー歌舞鬼"
+            },
+            {
+              "end": 41,
+              "start": 23,
+              "tag": "劇場版仮面ライダー響鬼と7人の戦鬼"
+            },
+            {
+              "end": 51,
+              "start": 43,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x64ZBlaFYW",
+              "end": 75,
+              "expanded_url": "https://x.com/Zanku_Toska/status/2048213355207303388/photo/1",
+              "media_key": "3_2048213351390748672",
+              "start": 52,
+              "url": "https://t.co/x64ZBlaFYW"
+            },
+            {
+              "display_url": "pic.x.com/x64ZBlaFYW",
+              "end": 75,
+              "expanded_url": "https://x.com/Zanku_Toska/status/2048213355207303388/photo/1",
+              "media_key": "3_2048213349234524160",
+              "start": 52,
+              "url": "https://t.co/x64ZBlaFYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048213355207303388",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#仮面ライダー響鬼 \n#仮面ライダー歌舞鬼 \n#劇場版仮面ライダー響鬼と7人の戦鬼 \n#cosplay https://t.co/x64ZBlaFYW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 310,
+          "like_count": 3634,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-23T11:05:05.000Z",
+        "description": "Thank U for following me :)\n我是Zanku，20↑成人。\n🇨🇳Cosplayer。日語需要使用翻譯器。目前特攝濃度最高。隨緣回fo。",
+        "id": "1584138802544619520",
+        "location": "中国",
+        "name": "藏苦Zanku",
+        "pinned_tweet_id": "1954445109895786609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026824433151741952/nXvcZkFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 45,
+          "like_count": 12771,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 945
+        },
+        "username": "Zanku_Toska",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-04T01:37:29.000Z",
+        "description": "2005年放送『仮面ライダー響鬼』に関する話題に反応するbotみたいな非公式手動アカウントです。仮面ライダー響鬼は現在アマプラ、Hulu、U-NEXT、DMM TV、TTFCで見放題配信中の他Blu-ray全4巻が発売中です。フォロバ100%/お別れはブロックで。#仮面ライダー響鬼20周年 ありがとう！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 145,
+                "start": 132,
+                "tag": "仮面ライダー響鬼20周年"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web.archive.org/web/2006101313…",
+                "end": 23,
+                "expanded_url": "https://web.archive.org/web/20061013130609if_/http://www.tv-asahi.co.jp:80/hibiki/",
+                "start": 0,
+                "url": "https://t.co/F0Oxl7bUnd"
+              }
+            ]
+          }
+        },
+        "id": "859945039920627712",
+        "location": "奈良県吉野郡吉野町猛士総本部",
+        "name": "響く鬼の里",
+        "pinned_tweet_id": "2046929569794711878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990437039305895936/xWl1mpk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11972,
+          "following_count": 13069,
+          "like_count": 432673,
+          "listed_count": 47,
+          "media_count": 5840,
+          "tweet_count": 216447
+        },
+        "url": "https://t.co/F0Oxl7bUnd",
+        "username": "ONI_no_SATO",
+        "verified": false
+      }
+    ]
+  }
+}

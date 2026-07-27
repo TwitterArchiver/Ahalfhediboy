@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2055916275700789635",
+    "created_at": "2026-05-17T12:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055994959870714146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1351232617350369282",
+          "start": 0,
+          "username": "Zhutai_Na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055994959870714146",
+    "in_reply_to_user_id": "1351232617350369282",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055916275700789635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhutai_Na 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2055916275700789635",
+        "created_at": "2026-05-17T12:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055994959870714146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1351232617350369282",
+              "start": 0,
+              "username": "Zhutai_Na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055994959870714146",
+        "in_reply_to_user_id": "1351232617350369282",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055916275700789635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhutai_Na 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351232617350369282",
+        "conversation_id": "2055916275700789635",
+        "created_at": "2026-05-17T07:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055916275700789635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055916275700789635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 644,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Action。结束扣1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 467,
+          "like_count": 5453,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-18T18:19:24.000Z",
+        "description": "NYC ｜Dom i/iiii ｜天蝎Intj｜祝我不做旧梦一觉睡到天亮。我的影子，她喜欢花。",
+        "id": "1351232617350369282",
+        "location": "NYC",
+        "name": "我把烛台打翻了",
+        "pinned_tweet_id": "2030908438545416515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979757338224414720/fgEH9GkY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 11,
+          "like_count": 2001,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 182
+        },
+        "username": "Zhutai_Na",
+        "verified": true
+      }
+    ]
+  }
+}

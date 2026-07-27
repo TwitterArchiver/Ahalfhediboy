@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2051344259622539361",
+    "created_at": "2026-05-04T16:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051344259622539361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 82,
+          "id": "10228272",
+          "start": 74,
+          "username": "YouTube"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Available on iTunes - http://smarturl.it/15‎3年未有推出全新個人專輯的方大同將於本月21日出全新大碟，唱片公司為隆重其事，特別安排他到台灣為第2首派台歌''好不容易''拍MV。Khalil眼見這幾年身邊陸陸續續有朋友結婚，深深體會到2個人走在一起其實並不容易，於是有感而...",
+          "display_url": "youtu.be/jDGGAaDsN8Y?si…",
+          "end": 69,
+          "expanded_url": "https://youtu.be/jDGGAaDsN8Y?si=JWcTAB2BUaUC_3oZ",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1993922544420966401/X7bowov7?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1993922544420966401/X7bowov7?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 46,
+          "status": 200,
+          "title": "方大同 Khalil Fong - 好不容易 (Official Music Video)",
+          "unwound_url": "https://www.youtube.com/watch?si=JWcTAB2BUaUC_3oZ&v=jDGGAaDsN8Y&feature=youtu.be",
+          "url": "https://t.co/frmHUvj8rk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051344259622539361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "方大同 Khalil Fong - 好不容易 (Official Music Video) https://t.co/frmHUvj8rk via @YouTube"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2051344259622539361",
+        "created_at": "2026-05-04T16:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051344259622539361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 82,
+              "id": "10228272",
+              "start": 74,
+              "username": "YouTube"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Available on iTunes - http://smarturl.it/15‎3年未有推出全新個人專輯的方大同將於本月21日出全新大碟，唱片公司為隆重其事，特別安排他到台灣為第2首派台歌''好不容易''拍MV。Khalil眼見這幾年身邊陸陸續續有朋友結婚，深深體會到2個人走在一起其實並不容易，於是有感而...",
+              "display_url": "youtu.be/jDGGAaDsN8Y?si…",
+              "end": 69,
+              "expanded_url": "https://youtu.be/jDGGAaDsN8Y?si=JWcTAB2BUaUC_3oZ",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1993922544420966401/X7bowov7?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993922544420966401/X7bowov7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 46,
+              "status": 200,
+              "title": "方大同 Khalil Fong - 好不容易 (Official Music Video)",
+              "unwound_url": "https://www.youtube.com/watch?si=JWcTAB2BUaUC_3oZ&v=jDGGAaDsN8Y&feature=youtu.be",
+              "url": "https://t.co/frmHUvj8rk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051344259622539361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "方大同 Khalil Fong - 好不容易 (Official Music Video) https://t.co/frmHUvj8rk via @YouTube"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 357,
+          "like_count": 4194,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1226
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2007-11-13T21:43:46.000Z",
+        "description": "like & subscribe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com",
+                "end": 23,
+                "expanded_url": "http://youtube.com/",
+                "start": 0,
+                "url": "https://t.co/GIOK0JwI68"
+              }
+            ]
+          }
+        },
+        "id": "10228272",
+        "location": "San Bruno, CA",
+        "name": "YouTube",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68684090,
+          "following_count": 1144,
+          "like_count": 6016,
+          "listed_count": 74278,
+          "media_count": 16125,
+          "tweet_count": 61081
+        },
+        "url": "https://t.co/GIOK0JwI68",
+        "username": "YouTube",
+        "verified": true
+      }
+    ]
+  }
+}

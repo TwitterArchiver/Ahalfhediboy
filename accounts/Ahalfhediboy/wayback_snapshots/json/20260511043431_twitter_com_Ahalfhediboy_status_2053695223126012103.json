@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053693523631988832",
+    "created_at": "2026-05-11T04:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053695223126012103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049054456659189760",
+          "start": 0,
+          "username": "foamveil17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053695223126012103",
+    "in_reply_to_user_id": "2049054456659189760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053693523631988832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foamveil17 爱看多发。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053693523631988832",
+        "created_at": "2026-05-11T04:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053695223126012103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049054456659189760",
+              "start": 0,
+              "username": "foamveil17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053695223126012103",
+        "in_reply_to_user_id": "2049054456659189760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053693523631988832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foamveil17 爱看多发。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049054456659189760",
+        "conversation_id": "2053693523631988832",
+        "created_at": "2026-05-11T04:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053693523631988832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053693523631988832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我这样的竹笋尖尖乳就多看吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 432,
+          "like_count": 4816,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1416
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T09:15:37.000Z",
+        "description": "无🚪不私加/只想来放点其他地方没办法放的照片和念头/双相/ED/暴露狂/sub/爱吃辣/痛恨上班/露脸照为高P现实中不长这张脸/泛性恋平时爱看女生🤤",
+        "id": "2049054456659189760",
+        "name": "foamveil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049055074694189056/rlFTvRVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 46,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 568
+        },
+        "username": "foamveil17",
+        "verified": false
+      }
+    ]
+  }
+}

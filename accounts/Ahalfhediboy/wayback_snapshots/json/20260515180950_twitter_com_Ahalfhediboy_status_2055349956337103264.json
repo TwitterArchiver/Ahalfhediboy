@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2055349956337103264",
+    "created_at": "2026-05-15T18:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055349956337103264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Provided to YouTube by WM Hong KongMy Only Girl · Khalil FongBack to Wonderland℗ 2012 Warner Music Hong Kong LimitedPerformance: Khalil FongLyricist: C JunAr...",
+          "display_url": "youtu.be/mZsm8aB-R6A?si…",
+          "end": 23,
+          "expanded_url": "https://youtu.be/mZsm8aB-R6A?si=kvny0ucoYYxazFwa",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2055349956798513152/QRCE1rkC?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2055349956798513152/QRCE1rkC?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "My Only Girl",
+          "unwound_url": "https://www.youtube.com/watch?si=kvny0ucoYYxazFwa&v=mZsm8aB-R6A&feature=youtu.be",
+          "url": "https://t.co/dn0y2uhLMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055349956337103264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/dn0y2uhLMN\n方大同我好想你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2055349956337103264",
+        "created_at": "2026-05-15T18:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055349956337103264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Provided to YouTube by WM Hong KongMy Only Girl · Khalil FongBack to Wonderland℗ 2012 Warner Music Hong Kong LimitedPerformance: Khalil FongLyricist: C JunAr...",
+              "display_url": "youtu.be/mZsm8aB-R6A?si…",
+              "end": 23,
+              "expanded_url": "https://youtu.be/mZsm8aB-R6A?si=kvny0ucoYYxazFwa",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2055349956798513152/QRCE1rkC?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055349956798513152/QRCE1rkC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "My Only Girl",
+              "unwound_url": "https://www.youtube.com/watch?si=kvny0ucoYYxazFwa&v=mZsm8aB-R6A&feature=youtu.be",
+              "url": "https://t.co/dn0y2uhLMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055349956337103264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dn0y2uhLMN\n方大同我好想你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 467,
+          "like_count": 5347,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1607
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

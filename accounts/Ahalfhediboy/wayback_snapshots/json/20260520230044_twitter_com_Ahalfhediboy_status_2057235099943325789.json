@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2057121342600958094",
+    "created_at": "2026-05-20T23:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T00:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057235099943325789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3401994917",
+          "start": 0,
+          "username": "guiguiguizz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057235099943325789",
+    "in_reply_to_user_id": "3401994917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057121342600958094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guiguiguizz 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2057121342600958094",
+        "created_at": "2026-05-20T23:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057235099943325789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3401994917",
+              "start": 0,
+              "username": "guiguiguizz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057235099943325789",
+        "in_reply_to_user_id": "3401994917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057121342600958094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guiguiguizz 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3401994917",
+        "conversation_id": "2057121342600958094",
+        "created_at": "2026-05-20T15:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057121342600958094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057121342600958094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9313,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "520在北美自己过的在下面举个手吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 487,
+          "like_count": 5792,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1675
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-03T23:25:09.000Z",
+        "description": "美国加拿大交友｜北美墙｜投稿牵线通道：@not_beimeibot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "not_beimeibot"
+              }
+            ]
+          }
+        },
+        "id": "3401994917",
+        "name": "北美bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024190922867777536/gIpdVb7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 102,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 69
+        },
+        "username": "guiguiguizz",
+        "verified": false
+      }
+    ]
+  }
+}

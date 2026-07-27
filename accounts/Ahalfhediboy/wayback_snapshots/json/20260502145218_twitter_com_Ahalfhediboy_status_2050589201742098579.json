@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2049884935314653504",
+    "created_at": "2026-05-02T14:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050589201742098579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1977451849017106432",
+          "start": 0,
+          "username": "ldx2b"
+        },
+        {
+          "end": 14,
+          "id": "1874106586861596673",
+          "start": 7,
+          "username": "kclio_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050589201742098579",
+    "in_reply_to_user_id": "1977451849017106432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050582005050462673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ldx2b @kclio_ 我能穿26… 我朋友可以穿24 他175 其实这个身高不算高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2049884935314653504",
+        "created_at": "2026-05-02T14:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050589201742098579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1977451849017106432",
+              "start": 0,
+              "username": "ldx2b"
+            },
+            {
+              "end": 14,
+              "id": "1874106586861596673",
+              "start": 7,
+              "username": "kclio_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050589201742098579",
+        "in_reply_to_user_id": "1977451849017106432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050582005050462673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ldx2b @kclio_ 我能穿26… 我朋友可以穿24 他175 其实这个身高不算高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977451849017106432",
+        "conversation_id": "2049884935314653504",
+        "created_at": "2026-05-02T14:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050582005050462673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            },
+            {
+              "end": 21,
+              "id": "1874106586861596673",
+              "start": 14,
+              "username": "kclio_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050582005050462673",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050580917081575546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy @kclio_ 我去，我是女生裤子都2425，男的和我差不多得…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 347,
+          "like_count": 4122,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T19:10:48.000Z",
+        "description": "本人的群人满了❕03摩羯/170/47-48kg浮动/isfp/和我说话请过脑子/已过烧杯学长元大鹰认证/不玩脏和血腥还有永久伤害",
+        "id": "1977451849017106432",
+        "location": "Manchester, England",
+        "name": "🇬🇧未经允许搬运的死全家",
+        "pinned_tweet_id": "2049191442350829726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049400760023334912/erlqx2_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7514,
+          "following_count": 2349,
+          "like_count": 16,
+          "listed_count": 30,
+          "media_count": 1464,
+          "tweet_count": 2403
+        },
+        "username": "ldx2b",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T14:53:31.000Z",
+        "description": "🚪38/98",
+        "id": "1874106586861596673",
+        "location": "Singapore",
+        "name": "clio_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004528741717061634/R-leD7lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 194,
+          "like_count": 1468,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 91
+        },
+        "username": "kclio_",
+        "verified": false
+      }
+    ]
+  }
+}

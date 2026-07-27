@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2042491750694920565",
+    "created_at": "2026-04-10T16:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042635771614486867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1864686240882413570",
+          "start": 0,
+          "username": "Ccccccandy_m_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042635771614486867",
+    "in_reply_to_user_id": "1864686240882413570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042555256702406831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ccccccandy_m_ 还好吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2042491750694920565",
+        "created_at": "2026-04-10T16:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042635771614486867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1864686240882413570",
+              "start": 0,
+              "username": "Ccccccandy_m_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042635771614486867",
+        "in_reply_to_user_id": "1864686240882413570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042555256702406831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ccccccandy_m_ 还好吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864686240882413570",
+        "conversation_id": "2042491750694920565",
+        "created_at": "2026-04-10T10:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042555256702406831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042555256702406831",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042491750694920565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 我眼里都是钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "无名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "The people with no name",
+        "pinned_tweet_id": "2034330382888259996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 173,
+          "like_count": 2579,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T15:00:29.000Z",
+        "description": "超级爆炸雷霆大苹果 \n分享乱七八糟的生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqqqxtao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qqqqqqqxtao",
+                "start": 0,
+                "url": "https://t.co/B9blXRW3Ju"
+              }
+            ]
+          }
+        },
+        "id": "1864686240882413570",
+        "location": "52🚪V聊天半绿/52+88🚪开放神人朋友圈只有傻逼文案",
+        "name": "苹果垫脑！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039050594711998464/SqA4RlBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 35,
+          "like_count": 7724,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1913
+        },
+        "url": "https://t.co/B9blXRW3Ju",
+        "username": "Ccccccandy_m_",
+        "verified": false
+      }
+    ]
+  }
+}

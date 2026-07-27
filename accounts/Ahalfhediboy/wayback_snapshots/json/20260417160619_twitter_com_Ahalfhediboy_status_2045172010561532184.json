@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2045137868423881149",
+    "created_at": "2026-04-17T16:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045172010561532184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1901281069800071168",
+          "start": 0,
+          "username": "wzb05180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045172010561532184",
+    "in_reply_to_user_id": "1901281069800071168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045171920958816696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzb05180 来殉情了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2045137868423881149",
+        "created_at": "2026-04-17T16:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045172010561532184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1901281069800071168",
+              "start": 0,
+              "username": "wzb05180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045172010561532184",
+        "in_reply_to_user_id": "1901281069800071168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045171920958816696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzb05180 来殉情了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901281069800071168",
+        "conversation_id": "2045137868423881149",
+        "created_at": "2026-04-17T16:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045171920958816696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045171920958816696",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045171549993423048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 我自杀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 248,
+          "like_count": 3145,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T14:35:15.000Z",
+        "description": "🚪500vx/1314tg群/5180 私信除过门拉黑拉黑 支持usdt paypal paypay 支付宝微信",
+        "id": "1901281069800071168",
+        "location": "東京 千代田区",
+        "name": "东京躁郁王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043224703893151744/GZ9wVXRT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 30,
+          "like_count": 230,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 996
+        },
+        "username": "wzb05180",
+        "verified": false
+      }
+    ]
+  }
+}

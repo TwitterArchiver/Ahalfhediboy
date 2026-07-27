@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2044012334650196168",
+    "created_at": "2026-04-14T17:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044109847734505934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1695774839863382017",
+          "start": 0,
+          "username": "loveshhh1022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044109847734505934",
+    "in_reply_to_user_id": "1695774839863382017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044012334650196168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveshhh1022 圣罗兰男装是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044012309819908097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3KXbtXYAELqSP.jpg",
+        "width": 1508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2044012334650196168",
+        "created_at": "2026-04-14T17:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044109847734505934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695774839863382017",
+              "start": 0,
+              "username": "loveshhh1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044109847734505934",
+        "in_reply_to_user_id": "1695774839863382017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044012334650196168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveshhh1022 圣罗兰男装是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044012309819908097"
+          ]
+        },
+        "author_id": "1695774839863382017",
+        "conversation_id": "2044012334650196168",
+        "created_at": "2026-04-14T11:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044012334650196168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPA97TKWM8",
+              "end": 119,
+              "expanded_url": "https://x.com/loveshhh1022/status/2044012334650196168/photo/1",
+              "media_key": "3_2044012309819908097",
+              "start": 96,
+              "url": "https://t.co/kPA97TKWM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044012334650196168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2011,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情是圣罗兰男装无缝衔接炸弹爱 我也爱你…登…登….登…….(ATM Hanson! ATM Hanson!), \nTake a ride with me, bae 我不是你想的那样那样那样 https://t.co/kPA97TKWM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 223,
+          "like_count": 2964,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 895
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T12:26:52.000Z",
+        "description": "答应我你会幸福\n\nhttps://t.co/g5oveCxHc6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/loveshhh1",
+                "end": 32,
+                "expanded_url": "https://ngl.link/loveshhh1",
+                "start": 9,
+                "url": "https://t.co/g5oveCxHc6"
+              }
+            ]
+          }
+        },
+        "id": "1695774839863382017",
+        "name": "万笙笙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036485915217108998/3yxGKyzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3643,
+          "following_count": 162,
+          "like_count": 1458,
+          "listed_count": 14,
+          "media_count": 90,
+          "tweet_count": 654
+        },
+        "username": "loveshhh1022",
+        "verified": false
+      }
+    ]
+  }
+}

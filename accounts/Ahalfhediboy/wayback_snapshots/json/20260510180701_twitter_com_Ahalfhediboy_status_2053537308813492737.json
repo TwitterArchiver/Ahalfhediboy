@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053512463111651658",
+    "created_at": "2026-05-10T18:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053537308813492737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911065897067859968",
+          "start": 0,
+          "username": "minamotoyayoai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053537308813492737",
+    "in_reply_to_user_id": "1911065897067859968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053512463111651658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minamotoyayoai 最美的一集"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053512446812573696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-KsL4bUAA8hES.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053512463111651658",
+        "created_at": "2026-05-10T18:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053537308813492737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911065897067859968",
+              "start": 0,
+              "username": "minamotoyayoai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053537308813492737",
+        "in_reply_to_user_id": "1911065897067859968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053512463111651658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minamotoyayoai 最美的一集"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053512446812573696"
+          ]
+        },
+        "author_id": "1911065897067859968",
+        "conversation_id": "2053512463111651658",
+        "created_at": "2026-05-10T16:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053512463111651658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uX0lqI0zFh",
+              "end": 30,
+              "expanded_url": "https://x.com/minamotoyayoai/status/2053512463111651658/photo/1",
+              "media_key": "3_2053512446812573696",
+              "start": 7,
+              "url": "https://t.co/uX0lqI0zFh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053512463111651658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鬼点子生成中 https://t.co/uX0lqI0zFh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 418,
+          "like_count": 4734,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1397
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T14:36:52.000Z",
+        "description": "请入我门（土下座） 欢迎互转互粉 ～ 🚪52/88/188/288/520入门不退哦感谢支持 🐭🍬🍎我喜欢猫 电子烟 药物 紫色 互联网，谢谢大家呀！另外在做替西代理，三码合一保正，推友打折hh",
+        "id": "1911065897067859968",
+        "location": "海拉鲁大陆",
+        "name": "血緣是與哥哥的紅線",
+        "pinned_tweet_id": "2046968598162202776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911066439961718784/R7o7OKC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 33,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 529
+        },
+        "username": "minamotoyayoai",
+        "verified": false
+      }
+    ]
+  }
+}

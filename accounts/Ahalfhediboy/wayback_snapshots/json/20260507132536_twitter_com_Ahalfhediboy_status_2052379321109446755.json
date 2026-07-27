@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2052269157073477716",
+    "created_at": "2026-05-07T13:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052379321109446755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926470312289304576",
+          "start": 0,
+          "username": "raxx945"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052379321109446755",
+    "in_reply_to_user_id": "1926470312289304576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052269157073477716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raxx945 神的身材。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10333,
+        "height": 1280,
+        "media_key": "13_2052269076941295616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052269076941295616/img/mtC4gDXsGPxCcMuC.jpg",
+        "public_metrics": {
+          "view_count": 253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052269076941295616/vid/avc1/320x568/99B4OD-G-GUOXYqj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052269076941295616/vid/avc1/480x852/L76kaeMxyJe7LicA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052269076941295616/vid/avc1/720x1280/-UJLLoeGN3KmFIVo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052269076941295616/pl/K6BCXyUrLmJ6of5p.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2052269157073477716",
+        "created_at": "2026-05-07T13:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052379321109446755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926470312289304576",
+              "start": 0,
+              "username": "raxx945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052379321109446755",
+        "in_reply_to_user_id": "1926470312289304576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052269157073477716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raxx945 神的身材。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052269076941295616"
+          ]
+        },
+        "author_id": "1926470312289304576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2052269157073477716",
+        "created_at": "2026-05-07T06:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052269157073477716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yKy6U7HjE5",
+              "end": 28,
+              "expanded_url": "https://x.com/raxx945/status/2052269157073477716/video/1",
+              "media_key": "13_2052269076941295616",
+              "start": 5,
+              "url": "https://t.co/yKy6U7HjE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052269157073477716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 758,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音一下 https://t.co/yKy6U7HjE5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 388,
+          "like_count": 4415,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1304
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T02:48:17.000Z",
+        "description": "这里是我的日记本 成分复杂什么都发谨慎关注 主现生偶尔产出    🚪+v 88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/esinenard?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/esinenard?igsh=NzNnZ3h2MTBuY2R5&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/8Oq3QcqJyS"
+              }
+            ]
+          }
+        },
+        "id": "1926470312289304576",
+        "name": "不顾一切的活下去",
+        "pinned_tweet_id": "2038924053600178393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045175559257530368/SrZQdhgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3076,
+          "following_count": 130,
+          "like_count": 939,
+          "listed_count": 6,
+          "media_count": 125,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/8Oq3QcqJyS",
+        "username": "raxx945",
+        "verified": false
+      }
+    ]
+  }
+}

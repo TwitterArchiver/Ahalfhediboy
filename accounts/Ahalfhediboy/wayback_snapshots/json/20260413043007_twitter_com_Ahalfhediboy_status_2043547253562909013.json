@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2043547253562909013",
+    "created_at": "2026-04-13T04:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043547253562909013"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043547253562909013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "To my mother\n我不怎么喜欢我的母亲\n\n母亲是个可怜的女人 她聪明 努力 坚强 优秀 可她的生命中却满是苦难\n\n母亲是勇敢的 她本该拥有更简单的人生 很难想象她经历怎样的痛苦 承受怎样的压力 怀揣怎样的勇气才能做出決定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2043547253562909013",
+        "created_at": "2026-04-13T04:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043547253562909013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043547253562909013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "To my mother\n我不怎么喜欢我的母亲\n\n母亲是个可怜的女人 她聪明 努力 坚强 优秀 可她的生命中却满是苦难\n\n母亲是勇敢的 她本该拥有更简单的人生 很难想象她经历怎样的痛苦 承受怎样的压力 怀揣怎样的勇气才能做出決定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2034330382888259996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 206,
+          "like_count": 2839,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 854
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

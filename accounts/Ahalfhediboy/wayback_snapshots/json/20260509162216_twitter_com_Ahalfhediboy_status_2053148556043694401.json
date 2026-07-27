@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053148550951804935",
+        "3_2053148550943408132"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053148556043694401",
+    "created_at": "2026-05-09T16:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053148556043694401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ObHFvmZwNf",
+          "end": 57,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2053148556043694401/photo/1",
+          "media_key": "3_2053148550951804935",
+          "start": 34,
+          "url": "https://t.co/ObHFvmZwNf"
+        },
+        {
+          "display_url": "pic.x.com/ObHFvmZwNf",
+          "end": 57,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2053148556043694401/photo/1",
+          "media_key": "3_2053148550943408132",
+          "start": 34,
+          "url": "https://t.co/ObHFvmZwNf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053148556043694401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还真是，自己怎么做无所谓，想怎么COS都行，别人男的COS被赶出去 https://t.co/ObHFvmZwNf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_2053148550951804935",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4_uqKXIAcVTxn.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053148550943408132",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4_uqIXAAQK5wp.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053148550951804935",
+            "3_2053148550943408132"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053148556043694401",
+        "created_at": "2026-05-09T16:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053148556043694401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ObHFvmZwNf",
+              "end": 57,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2053148556043694401/photo/1",
+              "media_key": "3_2053148550951804935",
+              "start": 34,
+              "url": "https://t.co/ObHFvmZwNf"
+            },
+            {
+              "display_url": "pic.x.com/ObHFvmZwNf",
+              "end": 57,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2053148556043694401/photo/1",
+              "media_key": "3_2053148550943408132",
+              "start": 34,
+              "url": "https://t.co/ObHFvmZwNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053148556043694401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还真是，自己怎么做无所谓，想怎么COS都行，别人男的COS被赶出去 https://t.co/ObHFvmZwNf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 413,
+          "like_count": 4609,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1374
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

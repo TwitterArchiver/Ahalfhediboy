@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2043537505148912007",
+    "created_at": "2026-04-13T04:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043547683135086674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2007340700401344512",
+          "start": 0,
+          "username": "berrovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043547683135086674",
+    "in_reply_to_user_id": "2007340700401344512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043537505148912007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berrovo 逃走…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2043537505148912007",
+        "created_at": "2026-04-13T04:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043547683135086674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2007340700401344512",
+              "start": 0,
+              "username": "berrovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043547683135086674",
+        "in_reply_to_user_id": "2007340700401344512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043537505148912007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berrovo 逃走…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007340700401344512",
+        "conversation_id": "2043537505148912007",
+        "created_at": "2026-04-13T03:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043537505148912007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043537505148912007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不要回纽约"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2034330382888259996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 206,
+          "like_count": 2839,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 855
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T06:38:31.000Z",
+        "description": "是berrovo也是樱樱 infp 广州人美留 |不卖不线下|纯身材好爱拍想被夸|年上牛逼 脂包肌牛逼",
+        "id": "2007340700401344512",
+        "location": "188|333|520💚",
+        "name": "樱樱宝宝",
+        "pinned_tweet_id": "2011864971659866215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020263703036174336/GG-PPDs8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 30,
+          "like_count": 523,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 858
+        },
+        "username": "berrovo",
+        "verified": false
+      }
+    ]
+  }
+}

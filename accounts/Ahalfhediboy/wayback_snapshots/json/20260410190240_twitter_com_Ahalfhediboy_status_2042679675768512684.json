@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2042669438617686436",
+    "created_at": "2026-04-10T19:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T20:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042679675768512684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991445770592219140",
+          "start": 0,
+          "username": "Sakurayukii77i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042679675768512684",
+    "in_reply_to_user_id": "1991445770592219140",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042669438617686436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakurayukii77i 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9200,
+        "height": 1188,
+        "media_key": "13_2042669369571053569",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042669369571053569/img/rVb5AOqv-knFES3l.jpg",
+        "public_metrics": {
+          "view_count": 111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042669369571053569/vid/avc1/320x528/hrnKbnhMmfODh8QY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042669369571053569/vid/avc1/480x792/tWXTmW1kDOZXIAjQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042669369571053569/vid/avc1/720x1188/7Wr5dcrT30iFmn8F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042669369571053569/pl/cFJGh6OeBo19KxZv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2042669438617686436",
+        "created_at": "2026-04-10T19:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T20:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042679675768512684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991445770592219140",
+              "start": 0,
+              "username": "Sakurayukii77i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042679675768512684",
+        "in_reply_to_user_id": "1991445770592219140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042669438617686436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakurayukii77i 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042669369571053569"
+          ]
+        },
+        "author_id": "1991445770592219140",
+        "conversation_id": "2042669438617686436",
+        "created_at": "2026-04-10T18:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042669438617686436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7leKsHitwh",
+              "end": 31,
+              "expanded_url": "https://x.com/Sakurayukii77i/status/2042669438617686436/video/1",
+              "media_key": "13_2042669369571053569",
+              "start": 8,
+              "url": "https://t.co/7leKsHitwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042669438617686436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说话呆没办法👐 https://t.co/7leKsHitwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "无名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "The people with no name",
+        "pinned_tweet_id": "2034330382888259996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 175,
+          "like_count": 2597,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:57:35.000Z",
+        "description": "你和雪有一个共同的特点",
+        "id": "1991445770592219140",
+        "location": "幻想乡｜🚪188/520/1314/5200（520可线下",
+        "name": "心裂了一道缝（坐标15",
+        "pinned_tweet_id": "1991448324319367613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445945578647552/P-LIO0kK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4676,
+          "following_count": 10,
+          "like_count": 413,
+          "listed_count": 12,
+          "media_count": 260,
+          "tweet_count": 884
+        },
+        "username": "Sakurayukii77i",
+        "verified": false
+      }
+    ]
+  }
+}

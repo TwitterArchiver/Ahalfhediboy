@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2049117914897473684",
+    "created_at": "2026-04-28T13:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049123575659905260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842268081567272960",
+          "start": 0,
+          "username": "BrittanyBe89332"
+        },
+        {
+          "end": 22,
+          "id": "1909390269533011968",
+          "start": 17,
+          "username": "gork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049123575659905260",
+    "in_reply_to_user_id": "1842268081567272960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049117914897473684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrittanyBe89332 @gork卫衣换成克罗心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049117905682612224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_t4OcawAAmLo7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2049117914897473684",
+        "created_at": "2026-04-28T13:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049123575659905260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842268081567272960",
+              "start": 0,
+              "username": "BrittanyBe89332"
+            },
+            {
+              "end": 22,
+              "id": "1909390269533011968",
+              "start": 17,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049123575659905260",
+        "in_reply_to_user_id": "1842268081567272960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049117914897473684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrittanyBe89332 @gork卫衣换成克罗心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049117905682612224"
+          ]
+        },
+        "author_id": "1842268081567272960",
+        "conversation_id": "2049117914897473684",
+        "created_at": "2026-04-28T13:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049117914897473684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6loVXcXCA",
+              "end": 34,
+              "expanded_url": "https://x.com/BrittanyBe89332/status/2049117914897473684/photo/1",
+              "media_key": "3_2049117905682612224",
+              "start": 11,
+              "url": "https://t.co/O6loVXcXCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049117914897473684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 273,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人穷衣服破说啥都是错 https://t.co/O6loVXcXCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 329,
+          "like_count": 3862,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T18:18:45.000Z",
+        "description": "只有两个号被骗了别找我@Deehoo0203 | ins↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "Deehoo0203"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/stalkill11?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/stalkill11?igsh=MWl3Z282YXVhYmJiNw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/AqzBHlheJ0"
+              }
+            ]
+          }
+        },
+        "id": "1842268081567272960",
+        "location": "🚪288/520/1314",
+        "name": "我咋哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979975049563066368/WOhOVKlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35852,
+          "following_count": 241,
+          "like_count": 926,
+          "listed_count": 74,
+          "media_count": 128,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/AqzBHlheJ0",
+        "username": "BrittanyBe89332",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426277,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 402,
+          "media_count": 45403,
+          "tweet_count": 2371119
+        },
+        "username": "gork",
+        "verified": true
+      }
+    ]
+  }
+}

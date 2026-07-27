@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2060795816122704072",
+    "created_at": "2026-05-30T20:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T21:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060826669875642612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049054456659189760",
+          "start": 0,
+          "username": "foamveil17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060826669875642612",
+    "in_reply_to_user_id": "2049054456659189760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060795816122704072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foamveil17 哥哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060795797495812096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlq2_hbEAASAzA.jpg",
+        "width": 1414
+      },
+      {
+        "height": 1999,
+        "media_key": "3_2060795797491580928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlq2_gagAA3dEz.jpg",
+        "width": 1643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2060795816122704072",
+        "created_at": "2026-05-30T20:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T21:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060826669875642612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049054456659189760",
+              "start": 0,
+              "username": "foamveil17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060826669875642612",
+        "in_reply_to_user_id": "2049054456659189760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060795816122704072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foamveil17 哥哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060795797495812096",
+            "3_2060795797491580928"
+          ]
+        },
+        "author_id": "2049054456659189760",
+        "conversation_id": "2060795816122704072",
+        "created_at": "2026-05-30T18:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060795816122704072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/34wXo7vFK8",
+              "end": 41,
+              "expanded_url": "https://x.com/foamveil17/status/2060795816122704072/photo/1",
+              "media_key": "3_2060795797495812096",
+              "start": 18,
+              "url": "https://t.co/34wXo7vFK8"
+            },
+            {
+              "display_url": "pic.x.com/34wXo7vFK8",
+              "end": 41,
+              "expanded_url": "https://x.com/foamveil17/status/2060795816122704072/photo/1",
+              "media_key": "3_2060795797491580928",
+              "start": 18,
+              "url": "https://t.co/34wXo7vFK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060795816122704072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我累了，一切都这样没办法令人接受。 https://t.co/34wXo7vFK8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 476,
+          "like_count": 6201,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T09:15:37.000Z",
+        "description": "只想来放点其他地方没办法放的照片和念头/双相/ED/暴露狂/sub/爱吃辣/痛恨上班/露脸照为高P现实中不长这张脸/泛性恋平时爱看女生/只回复关注我的人",
+        "id": "2049054456659189760",
+        "name": "foamveil",
+        "pinned_tweet_id": "2056713871906550155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054184818737557504/c7hIEI2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 58,
+          "like_count": 58,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 1248
+        },
+        "username": "foamveil17",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2057121342600958094",
+    "created_at": "2026-05-21T13:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057456020406861890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1977131658236379136",
+          "start": 0,
+          "username": "dp0uf"
+        },
+        {
+          "end": 19,
+          "id": "3401994917",
+          "start": 7,
+          "username": "guiguiguizz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057456020406861890",
+    "in_reply_to_user_id": "1977131658236379136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057240798421516734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dp0uf @guiguiguizz 同一个心情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2057121342600958094",
+        "created_at": "2026-05-21T13:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057456020406861890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1977131658236379136",
+              "start": 0,
+              "username": "dp0uf"
+            },
+            {
+              "end": 19,
+              "id": "3401994917",
+              "start": 7,
+              "username": "guiguiguizz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057456020406861890",
+        "in_reply_to_user_id": "1977131658236379136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057240798421516734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dp0uf @guiguiguizz 同一个心情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977131658236379136",
+        "conversation_id": "2057121342600958094",
+        "created_at": "2026-05-20T23:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057240798421516734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3401994917",
+              "start": 0,
+              "username": "guiguiguizz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057240798421516734",
+        "in_reply_to_user_id": "3401994917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1640,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057121342600958094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guiguiguizz 520追黑袍纠察队，祖国人太憋屈了，只能说编剧磕嗨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 489,
+          "like_count": 5856,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1680
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T21:58:33.000Z",
+        "description": "雨浇不熄野火",
+        "id": "1977131658236379136",
+        "location": "Richmond, VA",
+        "name": "源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042092673331597312/PtFhJTcy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 590,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "dp0uf",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-03T23:25:09.000Z",
+        "description": "美国加拿大交友｜北美墙｜投稿牵线通道：@not_beimeibot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "not_beimeibot"
+              }
+            ]
+          }
+        },
+        "id": "3401994917",
+        "name": "北美bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024190922867777536/gIpdVb7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2457,
+          "following_count": 102,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 73
+        },
+        "username": "guiguiguizz",
+        "verified": false
+      }
+    ]
+  }
+}

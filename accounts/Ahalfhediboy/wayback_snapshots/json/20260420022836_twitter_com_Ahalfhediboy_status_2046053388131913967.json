@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046053382150852608",
+        "3_2046053382310469632",
+        "3_2046053383916630016",
+        "3_2046053382155034624"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2046053388131913967",
+    "created_at": "2026-04-20T02:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046053388131913967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0IIGP4tDz1",
+          "end": 38,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2046053388131913967/photo/1",
+          "media_key": "3_2046053382150852608",
+          "start": 15,
+          "url": "https://t.co/0IIGP4tDz1"
+        },
+        {
+          "display_url": "pic.x.com/0IIGP4tDz1",
+          "end": 38,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2046053388131913967/photo/1",
+          "media_key": "3_2046053382310469632",
+          "start": 15,
+          "url": "https://t.co/0IIGP4tDz1"
+        },
+        {
+          "display_url": "pic.x.com/0IIGP4tDz1",
+          "end": 38,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2046053388131913967/photo/1",
+          "media_key": "3_2046053383916630016",
+          "start": 15,
+          "url": "https://t.co/0IIGP4tDz1"
+        },
+        {
+          "display_url": "pic.x.com/0IIGP4tDz1",
+          "end": 38,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2046053388131913967/photo/1",
+          "media_key": "3_2046053382155034624",
+          "start": 15,
+          "url": "https://t.co/0IIGP4tDz1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046053388131913967",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Jaded New York https://t.co/0IIGP4tDz1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046053382150852608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUKteqWkAAVJNA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2046053382310469632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUKtfQaIAA_sy3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046053383916630016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUKtlPWMAAnd6s.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2046053382155034624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUKterWYAAnESR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046053382150852608",
+            "3_2046053382310469632",
+            "3_2046053383916630016",
+            "3_2046053382155034624"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2046053388131913967",
+        "created_at": "2026-04-20T02:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046053388131913967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0IIGP4tDz1",
+              "end": 38,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2046053388131913967/photo/1",
+              "media_key": "3_2046053382150852608",
+              "start": 15,
+              "url": "https://t.co/0IIGP4tDz1"
+            },
+            {
+              "display_url": "pic.x.com/0IIGP4tDz1",
+              "end": 38,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2046053388131913967/photo/1",
+              "media_key": "3_2046053382310469632",
+              "start": 15,
+              "url": "https://t.co/0IIGP4tDz1"
+            },
+            {
+              "display_url": "pic.x.com/0IIGP4tDz1",
+              "end": 38,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2046053388131913967/photo/1",
+              "media_key": "3_2046053383916630016",
+              "start": 15,
+              "url": "https://t.co/0IIGP4tDz1"
+            },
+            {
+              "display_url": "pic.x.com/0IIGP4tDz1",
+              "end": 38,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2046053388131913967/photo/1",
+              "media_key": "3_2046053382155034624",
+              "start": 15,
+              "url": "https://t.co/0IIGP4tDz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046053388131913967",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Jaded New York https://t.co/0IIGP4tDz1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 261,
+          "like_count": 3331,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053657054884344003",
+    "created_at": "2026-05-11T05:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053702025506951421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044243363189403649",
+          "start": 0,
+          "username": "accompany9olk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053702025506951421",
+    "in_reply_to_user_id": "2044243363189403649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053657054884344003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@accompany9olk 我也会这样（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053657054884344003",
+        "created_at": "2026-05-11T05:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053702025506951421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044243363189403649",
+              "start": 0,
+              "username": "accompany9olk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053702025506951421",
+        "in_reply_to_user_id": "2044243363189403649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053657054884344003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@accompany9olk 我也会这样（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044243363189403649",
+        "conversation_id": "2053657054884344003",
+        "created_at": "2026-05-11T02:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053657054884344003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053657054884344003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很喜欢亲亲 每次亲亲都会故意咬人家舌头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 433,
+          "like_count": 4831,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1419
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T02:37:26.000Z",
+        "description": "",
+        "id": "2044243363189403649",
+        "location": "0.5km",
+        "name": "你怎么哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053366498153111552/-FsI8Y1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "username": "accompany9olk",
+        "verified": false
+      }
+    ]
+  }
+}

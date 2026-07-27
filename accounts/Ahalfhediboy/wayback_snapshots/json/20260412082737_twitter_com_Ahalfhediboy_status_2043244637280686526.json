@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2043169808485597198",
+    "created_at": "2026-04-12T08:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043244637280686526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1933518204351229957",
+          "start": 0,
+          "username": "wbxhzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043244637280686526",
+    "in_reply_to_user_id": "1933518204351229957",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043169808485597198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbxhzl 剪短！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2043169808485597198",
+        "created_at": "2026-04-12T08:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043244637280686526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1933518204351229957",
+              "start": 0,
+              "username": "wbxhzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043244637280686526",
+        "in_reply_to_user_id": "1933518204351229957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043169808485597198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbxhzl 剪短！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933518204351229957",
+        "conversation_id": "2043169808485597198",
+        "created_at": "2026-04-12T03:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043169808485597198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043169808485597198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一柜子长袖怎么过夏天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "The people with no name",
+        "pinned_tweet_id": "2034330382888259996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 198,
+          "like_count": 2763,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 836
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T13:34:13.000Z",
+        "description": "",
+        "id": "1933518204351229957",
+        "location": "🚪155",
+        "name": "空壳",
+        "pinned_tweet_id": "1969594591692099895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037385613792731136/1niCobeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 6,
+          "like_count": 427,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 557
+        },
+        "username": "wbxhzl",
+        "verified": false
+      }
+    ]
+  }
+}

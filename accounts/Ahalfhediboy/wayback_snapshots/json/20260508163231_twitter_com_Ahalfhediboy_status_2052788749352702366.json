@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2052770697722650686",
+    "created_at": "2026-05-08T16:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052788749352702366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049054456659189760",
+          "start": 0,
+          "username": "foamveil17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052788749352702366",
+    "in_reply_to_user_id": "2049054456659189760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052788646592565733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foamveil17 ？我吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2052770697722650686",
+        "created_at": "2026-05-08T16:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052788749352702366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049054456659189760",
+              "start": 0,
+              "username": "foamveil17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052788749352702366",
+        "in_reply_to_user_id": "2049054456659189760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052788646592565733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foamveil17 ？我吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049054456659189760",
+        "conversation_id": "2052770697722650686",
+        "created_at": "2026-05-08T16:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052788646592565733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052788646592565733",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052770697722650686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 那我可以往你屁股里塞烟头吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 406,
+          "like_count": 4567,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1359
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T09:15:37.000Z",
+        "description": "无🚪不私加/只想来放点其他地方没办法放的照片和念头/双相/ED/暴露狂/sub/爱吃辣/痛恨上班/露脸照为高P现实中不长这张脸/泛性恋平时爱看女生🤤",
+        "id": "2049054456659189760",
+        "name": "foamveil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049055074694189056/rlFTvRVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 45,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 451
+        },
+        "username": "foamveil17",
+        "verified": false
+      }
+    ]
+  }
+}

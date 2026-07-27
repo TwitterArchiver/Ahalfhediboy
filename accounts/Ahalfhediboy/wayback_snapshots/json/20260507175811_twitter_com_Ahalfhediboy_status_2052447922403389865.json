@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2052442649941189071",
+    "created_at": "2026-05-07T17:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052447922403389865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1640754089385693184",
+          "start": 0,
+          "username": "sakalaed"
+        },
+        {
+          "end": 19,
+          "id": "1019602630815961089",
+          "start": 10,
+          "username": "Wuyilin7"
+        },
+        {
+          "end": 30,
+          "id": "1033071235280715777",
+          "start": 20,
+          "username": "luobao122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052447922403389865",
+    "in_reply_to_user_id": "1640754089385693184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052445618866683907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakalaed @Wuyilin7 @luobao122 放嘴里嚼断了。。。当然是靠舌头舔啊。。。味觉在舌头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2052442649941189071",
+        "created_at": "2026-05-07T17:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052447922403389865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1640754089385693184",
+              "start": 0,
+              "username": "sakalaed"
+            },
+            {
+              "end": 19,
+              "id": "1019602630815961089",
+              "start": 10,
+              "username": "Wuyilin7"
+            },
+            {
+              "end": 30,
+              "id": "1033071235280715777",
+              "start": 20,
+              "username": "luobao122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052447922403389865",
+        "in_reply_to_user_id": "1640754089385693184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052445618866683907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakalaed @Wuyilin7 @luobao122 放嘴里嚼断了。。。当然是靠舌头舔啊。。。味觉在舌头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640754089385693184",
+        "conversation_id": "2052442649941189071",
+        "created_at": "2026-05-07T17:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052445618866683907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1019602630815961089",
+              "start": 0,
+              "username": "Wuyilin7"
+            },
+            {
+              "end": 20,
+              "id": "1033071235280715777",
+              "start": 10,
+              "username": "luobao122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052445618866683907",
+        "in_reply_to_user_id": "1019602630815961089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052442649941189071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wuyilin7 @luobao122 是直接放嘴里嚼吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 394,
+          "like_count": 4454,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T16:34:13.000Z",
+        "description": "🚪  | 不定时删帖 盗图挡灾",
+        "id": "1640754089385693184",
+        "name": "草莓酱香饼",
+        "pinned_tweet_id": "2015399747608264718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005866123829600257/4FCq5aTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 29,
+          "like_count": 1758,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 219
+        },
+        "username": "sakalaed",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-18T15:19:45.000Z",
+        "description": "点开主页的宝宝都能开心幸福 主号@bartee247",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "bartee247"
+              }
+            ]
+          }
+        },
+        "id": "1019602630815961089",
+        "location": "11km",
+        "name": "小冰圆圆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051613294931419136/0oDEbupw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 219,
+          "like_count": 23,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "username": "Wuyilin7",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-24T19:19:10.000Z",
+        "description": "无性不欢每天都要看片欢迎大家一起交流🚫NSFW 18+ ｜🌹遵守twitter平台规则｜\n大家愉快玩耍！侵权请联系删除谢谢｜",
+        "id": "1033071235280715777",
+        "name": "洛宝",
+        "pinned_tweet_id": "2044836407190135183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027584700727103493/OX1d9nKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30390,
+          "following_count": 12,
+          "like_count": 35,
+          "listed_count": 33,
+          "media_count": 12,
+          "tweet_count": 2148
+        },
+        "username": "luobao122",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

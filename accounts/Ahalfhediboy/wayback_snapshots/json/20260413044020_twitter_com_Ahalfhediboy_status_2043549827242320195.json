@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2043549389273371012",
+    "created_at": "2026-04-13T04:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043549827242320195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1942623709636018176",
+          "start": 0,
+          "username": "OsBlueDew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043549827242320195",
+    "in_reply_to_user_id": "1942623709636018176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043549389273371012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OsBlueDew 淡淡的就会顺顺的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2043549389273371012",
+        "created_at": "2026-04-13T04:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043549827242320195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942623709636018176",
+              "start": 0,
+              "username": "OsBlueDew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043549827242320195",
+        "in_reply_to_user_id": "1942623709636018176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043549389273371012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OsBlueDew 淡淡的就会顺顺的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942623709636018176",
+        "conversation_id": "2043549389273371012",
+        "created_at": "2026-04-13T04:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043549389273371012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043549389273371012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的有焦虑症，而且很严重，我已经发了几遍推文说我不想回私信，而且也回不了私信了，我说了我没有针对任何人。为什么还有人一直催我为什么不回私信。这是让我很痛苦的，如果再催我的话，我就拉黑了，我真的很难受。我已经说了没有针对，我只是没有精力回任何人，很消耗我心力，为什么就是不能理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 207,
+          "like_count": 2843,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 857
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T16:36:11.000Z",
+        "description": "一只非常气人的雌小鬼，还是处女喵\n不知道为什么私信突然变得好多，除过🚪外暂时不回了喵有点焦虑了，想和我互动在评论区就好!\n病娇/地雷/脆弱/傲娇/brat，惹我我会哈气\n🚪52/98/128/188/228/328/520/888",
+        "id": "1942623709636018176",
+        "location": "outer space",
+        "name": "🫐酱",
+        "pinned_tweet_id": "2043416264262230323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947744553517387776/v57RF7mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 137,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 134
+        },
+        "username": "OsBlueDew",
+        "verified": false
+      }
+    ]
+  }
+}

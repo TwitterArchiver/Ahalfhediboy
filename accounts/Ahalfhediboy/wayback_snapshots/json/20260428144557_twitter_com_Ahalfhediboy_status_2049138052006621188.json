@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2049101178739601612",
+    "created_at": "2026-04-28T14:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049138052006621188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1926470312289304576",
+          "start": 0,
+          "username": "raxx945"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049138052006621188",
+    "in_reply_to_user_id": "1926470312289304576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049101178739601612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raxx945 毕业了想去一整个欧洲solo trip 感受一下地下青年的摇滚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049101169684078593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_eqD_bYAEZ7BA.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2049101178739601612",
+        "created_at": "2026-04-28T14:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049138052006621188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926470312289304576",
+              "start": 0,
+              "username": "raxx945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049138052006621188",
+        "in_reply_to_user_id": "1926470312289304576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049101178739601612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raxx945 毕业了想去一整个欧洲solo trip 感受一下地下青年的摇滚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049101169684078593"
+          ]
+        },
+        "author_id": "1926470312289304576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049101178739601612",
+        "created_at": "2026-04-28T12:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049101178739601612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JEaTujItwf",
+              "end": 44,
+              "expanded_url": "https://x.com/raxx945/status/2049101178739601612/photo/1",
+              "media_key": "3_2049101169684078593",
+              "start": 21,
+              "url": "https://t.co/JEaTujItwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049101178739601612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 470,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我solo trip国家 全部都是一个人 https://t.co/JEaTujItwf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 329,
+          "like_count": 3865,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1112
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T02:48:17.000Z",
+        "description": "这里是我的日记本 成分复杂什么都发谨慎关注 主现生偶尔产出    🚪+v 88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/esinenard?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/esinenard?igsh=NzNnZ3h2MTBuY2R5&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/8Oq3QcqJyS"
+              }
+            ]
+          }
+        },
+        "id": "1926470312289304576",
+        "name": "不顾一切的活下去",
+        "pinned_tweet_id": "2038924053600178393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045175559257530368/SrZQdhgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3042,
+          "following_count": 125,
+          "like_count": 875,
+          "listed_count": 6,
+          "media_count": 109,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/8Oq3QcqJyS",
+        "username": "raxx945",
+        "verified": false
+      }
+    ]
+  }
+}

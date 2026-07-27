@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2066451317816762486",
+    "created_at": "2026-06-15T20:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T21:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066615070495220198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039317124053905408",
+          "start": 0,
+          "username": "SenT0rii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066615070495220198",
+    "in_reply_to_user_id": "2039317124053905408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066451317816762486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SenT0rii 我就这样，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2066451317816762486",
+        "created_at": "2026-06-15T20:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066615070495220198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039317124053905408",
+              "start": 0,
+              "username": "SenT0rii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066615070495220198",
+        "in_reply_to_user_id": "2039317124053905408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066451317816762486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SenT0rii 我就这样，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039317124053905408",
+        "conversation_id": "2066451317816762486",
+        "created_at": "2026-06-15T09:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066451317816762486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066451317816762486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 16840,
+          "like_count": 432,
+          "quote_count": 10,
+          "reply_count": 61,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我对象实在是太阴湿男鬼了 这个人什么都知道还能猜得到我所有想法 我刚干啥坏事下一秒就来问我 非常粘人 吵架说要走的时候也不让我走也不让我分手 总是默默黏我身边来蹭我摸我头 性格偶尔自卑但是有时候又很自恋 占有欲爆棚爱视奸 讲话淡淡的 阴魂不散又怨又哀地倾诉直到我心甘情愿的讲出一些话才满意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 472,
+          "like_count": 6473,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T12:24:12.000Z",
+        "description": "好想喝酷儿苹果汁",
+        "id": "2039317124053905408",
+        "name": "苹果",
+        "pinned_tweet_id": "2057696200615411952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039318812080955392/rRXsfmY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 30,
+          "like_count": 680,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 189
+        },
+        "username": "SenT0rii",
+        "verified": false
+      }
+    ]
+  }
+}

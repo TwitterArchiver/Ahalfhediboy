@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053711010893078528"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053711013082464722",
+    "created_at": "2026-05-11T05:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053711013082464722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EZJDzdHdJy",
+          "end": 26,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2053711013082464722/photo/1",
+          "media_key": "3_2053711010893078528",
+          "start": 3,
+          "url": "https://t.co/EZJDzdHdJy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053711013082464722",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "僕役 https://t.co/EZJDzdHdJy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2053711010893078528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIA_SIuXIAAmZpA.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053711010893078528"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053711013082464722",
+        "created_at": "2026-05-11T05:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053711013082464722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZJDzdHdJy",
+              "end": 26,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2053711013082464722/photo/1",
+              "media_key": "3_2053711010893078528",
+              "start": 3,
+              "url": "https://t.co/EZJDzdHdJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053711013082464722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "僕役 https://t.co/EZJDzdHdJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 436,
+          "like_count": 4844,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

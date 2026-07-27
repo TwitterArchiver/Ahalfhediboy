@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2061848237015982161",
+    "created_at": "2026-06-02T16:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061852389091557739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654534022448713728",
+          "start": 0,
+          "username": "jueduizhengyi_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061852389091557739",
+    "in_reply_to_user_id": "1654534022448713728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061848237015982161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jueduizhengyi_A 素体好爽啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2061848227327209472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0oCeKbcAAPUTT.jpg",
+        "width": 2688
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2061848227318755328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0oCeIacAAhgFM.jpg",
+        "width": 2564
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2061848227318751232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0oCeIaYAA-3VB.jpg",
+        "width": 2584
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2061848227331334145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0oCeLaYAE1-cu.jpg",
+        "width": 2564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2061848237015982161",
+        "created_at": "2026-06-02T16:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061852389091557739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654534022448713728",
+              "start": 0,
+              "username": "jueduizhengyi_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061852389091557739",
+        "in_reply_to_user_id": "1654534022448713728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061848237015982161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jueduizhengyi_A 素体好爽啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061848227327209472",
+            "3_2061848227318755328",
+            "3_2061848227318751232",
+            "3_2061848227331334145"
+          ]
+        },
+        "author_id": "1654534022448713728",
+        "conversation_id": "2061848237015982161",
+        "created_at": "2026-06-02T16:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061848237015982161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/us4TwF146J",
+              "end": 39,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2061848237015982161/photo/1",
+              "media_key": "3_2061848227327209472",
+              "start": 16,
+              "url": "https://t.co/us4TwF146J"
+            },
+            {
+              "display_url": "pic.x.com/us4TwF146J",
+              "end": 39,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2061848237015982161/photo/1",
+              "media_key": "3_2061848227318755328",
+              "start": 16,
+              "url": "https://t.co/us4TwF146J"
+            },
+            {
+              "display_url": "pic.x.com/us4TwF146J",
+              "end": 39,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2061848237015982161/photo/1",
+              "media_key": "3_2061848227318751232",
+              "start": 16,
+              "url": "https://t.co/us4TwF146J"
+            },
+            {
+              "display_url": "pic.x.com/us4TwF146J",
+              "end": 39,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2061848237015982161/photo/1",
+              "media_key": "3_2061848227331334145",
+              "start": 16,
+              "url": "https://t.co/us4TwF146J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061848237015982161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "万代这个还可以，就是脸有点年轻 https://t.co/us4TwF146J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 479,
+          "like_count": 6261,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "Sugawara/菅原です｜INTJ｜男｜仮面ライダー｜キャラクターデザイナー｜小さな雑記｜京都",
+        "id": "1654534022448713728",
+        "location": "京都",
+        "name": "Suga.",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054129512401813504/FvqgyFhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 294,
+          "like_count": 59950,
+          "listed_count": 2,
+          "media_count": 1146,
+          "tweet_count": 8693
+        },
+        "username": "jueduizhengyi_A",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2080384241670439184",
+    "created_at": "2026-07-25T01:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T02:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080826891120812132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055995252771860480",
+          "start": 0,
+          "username": "qxq5ho"
+        },
+        {
+          "end": 19,
+          "id": "1508104922952310785",
+          "start": 8,
+          "username": "roooooomo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080826891120812132",
+    "in_reply_to_user_id": "2055995252771860480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080560560077517238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qxq5ho @roooooomo_ 无所谓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2080384241670439184",
+        "created_at": "2026-07-25T01:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080826891120812132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055995252771860480",
+              "start": 0,
+              "username": "qxq5ho"
+            },
+            {
+              "end": 19,
+              "id": "1508104922952310785",
+              "start": 8,
+              "username": "roooooomo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080826891120812132",
+        "in_reply_to_user_id": "2055995252771860480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080560560077517238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qxq5ho @roooooomo_ 无所谓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055995252771860480",
+        "conversation_id": "2080384241670439184",
+        "created_at": "2026-07-24T07:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080560560077517238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1508104922952310785",
+              "start": 0,
+              "username": "roooooomo_"
+            },
+            {
+              "end": 25,
+              "id": "1853967550381445127",
+              "start": 12,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080560560077517238",
+        "in_reply_to_user_id": "1508104922952310785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080411710137970718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roooooomo_ @Ahalfhediboy 好恶毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 468,
+          "like_count": 6521,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1847
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:54:55.000Z",
+        "description": "07/在校高中生/成分复杂/基本无雷点/接陪聊陪玩/可以约线下/私信只要没被X隐藏我都会回/欢迎互fo扩列/提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%BA%A2%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%BA%A2%E5%8F%B6",
+                "start": 0,
+                "url": "https://t.co/7BHkcxrOoI"
+              }
+            ]
+          }
+        },
+        "id": "2055995252771860480",
+        "location": "你心里",
+        "name": "🍁红叶",
+        "pinned_tweet_id": "2074857987387392047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070533488508391424/xUQHTPQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 377,
+          "like_count": 7326,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 858
+        },
+        "url": "https://t.co/7BHkcxrOoI",
+        "username": "qxq5ho",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-27T15:33:59.000Z",
+        "description": "https://t.co/xTFjrUNEnv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onlyfans.com/mintpocky/c1",
+                "end": 23,
+                "expanded_url": "https://onlyfans.com/mintpocky/c1",
+                "start": 0,
+                "url": "https://t.co/xTFjrUNEnv"
+              }
+            ]
+          }
+        },
+        "id": "1508104922952310785",
+        "location": "好友位50usd 可Zelle可支付宝",
+        "name": "Mint Pocky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890657697382473728/9bQdu4Tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2256,
+          "following_count": 576,
+          "like_count": 13211,
+          "listed_count": 7,
+          "media_count": 359,
+          "tweet_count": 3784
+        },
+        "url": "",
+        "username": "roooooomo_",
+        "verified": false
+      }
+    ]
+  }
+}

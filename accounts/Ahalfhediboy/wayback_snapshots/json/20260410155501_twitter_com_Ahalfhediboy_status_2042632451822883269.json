@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2042594926928785732",
+    "created_at": "2026-04-10T15:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042632451822883269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031852608684769280",
+          "start": 0,
+          "username": "Kiyumi_kamisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042632451822883269",
+    "in_reply_to_user_id": "2031852608684769280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042594926928785732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiyumi_kamisama 不包邮美国不要来"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3033,
+        "height": 1280,
+        "media_key": "13_2042594848885415936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042594848885415936/img/43xcZu0rFXNqYDfI.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042594848885415936/vid/avc1/320x568/I06cWNmZY0Q1UYLu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042594848885415936/vid/avc1/480x852/wZr0Sn16vf0TwRAk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042594848885415936/vid/avc1/720x1280/hemvS1NpMoVGfAlJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042594848885415936/pl/Hf0BwfS544yZtn6L.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2042594926928785732",
+        "created_at": "2026-04-10T15:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042632451822883269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031852608684769280",
+              "start": 0,
+              "username": "Kiyumi_kamisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042632451822883269",
+        "in_reply_to_user_id": "2031852608684769280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042594926928785732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiyumi_kamisama 不包邮美国不要来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042594848885415936"
+          ]
+        },
+        "author_id": "2031852608684769280",
+        "conversation_id": "2042594926928785732",
+        "created_at": "2026-04-10T13:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042594926928785732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7mR0Ra00K",
+              "end": 34,
+              "expanded_url": "https://x.com/Kiyumi_kamisama/status/2042594926928785732/video/1",
+              "media_key": "13_2042594848885415936",
+              "start": 11,
+              "url": "https://t.co/Z7mR0Ra00K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042594926928785732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想要我的原味假几把 https://t.co/Z7mR0Ra00K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "无名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "The people with no name",
+        "pinned_tweet_id": "2034330382888259996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 173,
+          "like_count": 2578,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T22:00:35.000Z",
+        "description": "小希Kiyumi/0121/躁郁/焦虑/被害妄想/overdose/清水推/不聊骚努力活着中/第n世就只有这个号现在在用/顺女/不想被说像任何人/(´-ω-`)@ljiy142044 \n🚪188/288/588/888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "ljiy142044"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kiyumi_sama",
+                "end": 23,
+                "expanded_url": "http://t.me/Kiyumi_sama",
+                "start": 0,
+                "url": "https://t.co/9MlOdIFbRP"
+              }
+            ]
+          }
+        },
+        "id": "2031852608684769280",
+        "location": "天空",
+        "name": "Kiyumi",
+        "pinned_tweet_id": "2038042420907307315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038043426747465728/9vVwm0uj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 31,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/9MlOdIFbRP",
+        "username": "Kiyumi_kamisama",
+        "verified": false
+      }
+    ]
+  }
+}

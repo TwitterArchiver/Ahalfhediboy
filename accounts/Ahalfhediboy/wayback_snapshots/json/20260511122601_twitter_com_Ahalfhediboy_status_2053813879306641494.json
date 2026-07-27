@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053585901213630529",
+    "created_at": "2026-05-11T12:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053813879306641494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2052644057118314496",
+          "start": 0,
+          "username": "HEIGiveMeYamatO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053813879306641494",
+    "in_reply_to_user_id": "2052644057118314496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053752845766369521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HEIGiveMeYamatO 实则并没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053585901213630529",
+        "created_at": "2026-05-11T12:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053813879306641494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2052644057118314496",
+              "start": 0,
+              "username": "HEIGiveMeYamatO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053813879306641494",
+        "in_reply_to_user_id": "2052644057118314496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053752845766369521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HEIGiveMeYamatO 实则并没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052644057118314496",
+        "conversation_id": "2053585901213630529",
+        "created_at": "2026-05-11T08:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053752845766369521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053752845766369521",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053585901213630529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 爱就爱不爱拉倒就那么简单，我只知道香港似乎对外国人额外的包容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 439,
+          "like_count": 4879,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1438
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T07:00:37.000Z",
+        "description": "乐子人，喜欢评论和看色图以及动漫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuanshen.com",
+                "end": 23,
+                "expanded_url": "http://yuanshen.com",
+                "start": 0,
+                "url": "https://t.co/nBF4siRRYJ"
+              }
+            ]
+          }
+        },
+        "id": "2052644057118314496",
+        "name": "Asoruiya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053727852877762560/BOC51v_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 54,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/nBF4siRRYJ",
+        "username": "HEIGiveMeYamatO",
+        "verified": false
+      }
+    ]
+  }
+}

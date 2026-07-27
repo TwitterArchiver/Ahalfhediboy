@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053585901213630529",
+    "created_at": "2026-05-11T03:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053685226212057300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1564123466160566272",
+          "start": 0,
+          "username": "gao_jing523"
+        },
+        {
+          "end": 27,
+          "id": "1864686240882413570",
+          "start": 13,
+          "username": "Ccccccandy_m_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053685226212057300",
+    "in_reply_to_user_id": "1564123466160566272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053684315096236148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gao_jing523 @Ccccccandy_m_ 可能太累了…不过可以靠墙站着呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053585901213630529",
+        "created_at": "2026-05-11T03:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053685226212057300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1564123466160566272",
+              "start": 0,
+              "username": "gao_jing523"
+            },
+            {
+              "end": 27,
+              "id": "1864686240882413570",
+              "start": 13,
+              "username": "Ccccccandy_m_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053685226212057300",
+        "in_reply_to_user_id": "1564123466160566272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053684315096236148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gao_jing523 @Ccccccandy_m_ 可能太累了…不过可以靠墙站着呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564123466160566272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2053585901213630529",
+        "created_at": "2026-05-11T03:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053684315096236148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1864686240882413570",
+              "start": 0,
+              "username": "Ccccccandy_m_"
+            },
+            {
+              "end": 28,
+              "id": "1853967550381445127",
+              "start": 15,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053684315096236148",
+        "in_reply_to_user_id": "1864686240882413570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053588091550798098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ccccccandy_m_ @Ahalfhediboy 不理解，为什么要坐在地上，真的有这么累吗，我回去深圳也是，地板就这么舒服吗（而且外国人坐在地上也是照样挂在 threads 上面）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 431,
+          "like_count": 4808,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T05:31:25.000Z",
+        "description": "别忘记我了…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6sKzsDo",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6sKzsDo",
+                "start": 0,
+                "url": "https://t.co/YwA2LQ1sLM"
+              }
+            ]
+          }
+        },
+        "id": "1564123466160566272",
+        "location": "白帝城",
+        "name": "我想做长发男",
+        "pinned_tweet_id": "1977004906084286903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829877650305007619/LYqmOGzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 235,
+          "like_count": 23584,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/YwA2LQ1sLM",
+        "username": "gao_jing523",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T15:00:29.000Z",
+        "description": "06 脾气因人而异的小女孩\n王者荣耀娱乐陪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqqqxtao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qqqqqqqxtao",
+                "start": 0,
+                "url": "https://t.co/B9blXRW3Ju"
+              }
+            ]
+          }
+        },
+        "id": "1864686240882413570",
+        "location": "找我打游戏吧！",
+        "name": "小萌",
+        "pinned_tweet_id": "2047412763761471916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047624206347816960/qjooFHog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 45,
+          "like_count": 11363,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 3518
+        },
+        "url": "https://t.co/B9blXRW3Ju",
+        "username": "Ccccccandy_m_",
+        "verified": false
+      }
+    ]
+  }
+}

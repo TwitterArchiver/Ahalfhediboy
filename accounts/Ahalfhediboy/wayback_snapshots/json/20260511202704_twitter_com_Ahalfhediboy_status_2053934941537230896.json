@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2053585901213630529",
+    "created_at": "2026-05-11T20:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T21:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053934941537230896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910820173583441920",
+          "start": 0,
+          "username": "bn1011316487098"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053934941537230896",
+    "in_reply_to_user_id": "1910820173583441920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053928209964744750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bn1011316487098 大陆有很多人互相歧視吧 很多大陸人都不喜歡東北人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2053585901213630529",
+        "created_at": "2026-05-11T20:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T21:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053934941537230896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910820173583441920",
+              "start": 0,
+              "username": "bn1011316487098"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053934941537230896",
+        "in_reply_to_user_id": "1910820173583441920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053928209964744750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bn1011316487098 大陆有很多人互相歧視吧 很多大陸人都不喜歡東北人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910820173583441920",
+        "conversation_id": "2053585901213630529",
+        "created_at": "2026-05-11T20:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T21:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053928209964744750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053928209964744750",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053585901213630529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 不需要你爱，别明目张胆搞歧视就行。\n澳门不见得有多爱大陆，但澳门不歧视大陆人，这就够了。\n大陆最歧视外地人的上海人也不会没事找事当面歧视别人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 441,
+          "like_count": 4940,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T22:20:27.000Z",
+        "description": "",
+        "id": "1910820173583441920",
+        "name": "随缘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982407374364123136/Wb1h1-l2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 5796,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 182
+        },
+        "username": "bn1011316487098",
+        "verified": false
+      }
+    ]
+  }
+}

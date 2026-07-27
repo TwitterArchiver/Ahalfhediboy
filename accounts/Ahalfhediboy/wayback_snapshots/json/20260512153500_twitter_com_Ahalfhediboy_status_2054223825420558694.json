@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2054064322838429984",
+    "created_at": "2026-05-12T15:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054223825420558694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1659997353892356098",
+          "start": 0,
+          "username": "L_Sgwithout2111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054223825420558694",
+    "in_reply_to_user_id": "1659997353892356098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054223023704875271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_Sgwithout2111 188真的真的真的很少 但是188的话无论是肌肉男 清瘦男都很帅 氛围就是很好很好的样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2054064322838429984",
+        "created_at": "2026-05-12T15:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054223825420558694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1659997353892356098",
+              "start": 0,
+              "username": "L_Sgwithout2111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054223825420558694",
+        "in_reply_to_user_id": "1659997353892356098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054223023704875271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_Sgwithout2111 188真的真的真的很少 但是188的话无论是肌肉男 清瘦男都很帅 氛围就是很好很好的样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659997353892356098",
+        "conversation_id": "2054064322838429984",
+        "created_at": "2026-05-12T15:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054223023704875271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054223023704875271",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054064322838429984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 173有了，至今未找到188的🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 450,
+          "like_count": 5023,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T19:00:15.000Z",
+        "description": "打瓦！打瓦！病理学好难ovo",
+        "id": "1659997353892356098",
+        "name": "@07chena1n_7n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015300609084194816/BkepSPZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 84,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "L_Sgwithout2111",
+        "verified": false
+      }
+    ]
+  }
+}

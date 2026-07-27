@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2048268329383796799",
+    "created_at": "2026-05-04T16:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051340096025039002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655192419988799490",
+          "start": 0,
+          "username": "bandagemiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051340096025039002",
+    "in_reply_to_user_id": "1655192419988799490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048268329383796799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bandagemiao 哎我要笑死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2048268321653735424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzpL7TbQAAdtMd.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2048268329383796799",
+        "created_at": "2026-05-04T16:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051340096025039002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655192419988799490",
+              "start": 0,
+              "username": "bandagemiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051340096025039002",
+        "in_reply_to_user_id": "1655192419988799490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048268329383796799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bandagemiao 哎我要笑死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048268321653735424"
+          ]
+        },
+        "author_id": "1655192419988799490",
+        "conversation_id": "2048268329383796799",
+        "created_at": "2026-04-26T05:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048268329383796799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ks6hjS7WRf",
+              "end": 111,
+              "expanded_url": "https://x.com/bandagemiao/status/2048268329383796799/photo/1",
+              "media_key": "3_2048268321653735424",
+              "start": 88,
+              "url": "https://t.co/ks6hjS7WRf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048268329383796799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23698,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿你猜怎么着遇到谐音王了\nJb 金币傻傻分不清楚\n当两个人吃顿人均30 brunch 的时候让我把钱a到他zelle \n我说：嗯嗯？不是可以爆金币吗\n对面：我说的是可以爆几把 https://t.co/ks6hjS7WRf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 353,
+          "like_count": 4185,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1220
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T12:47:03.000Z",
+        "description": "🇨🇳🇬🇧thanks for subscribing my of",
+        "id": "1655192419988799490",
+        "location": "🩹🚪666/2888/5200",
+        "name": "ok绷🇬🇧",
+        "pinned_tweet_id": "2045084334550618438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953304947745042432/XKNeNW4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48670,
+          "following_count": 101,
+          "like_count": 385,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 2104
+        },
+        "username": "bandagemiao",
+        "verified": true
+      }
+    ]
+  }
+}

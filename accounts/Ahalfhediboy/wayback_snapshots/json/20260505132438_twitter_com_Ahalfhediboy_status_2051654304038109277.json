@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2051628624625734095",
+    "created_at": "2026-05-05T13:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051654304038109277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2027278370317189120",
+          "start": 0,
+          "username": "Lany1h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051654304038109277",
+    "in_reply_to_user_id": "2027278370317189120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051628624625734095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lany1h 名字和头像都有特别的意义 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2051628624625734095",
+        "created_at": "2026-05-05T13:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051654304038109277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2027278370317189120",
+              "start": 0,
+              "username": "Lany1h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051654304038109277",
+        "in_reply_to_user_id": "2027278370317189120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051628624625734095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lany1h 名字和头像都有特别的意义 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027278370317189120",
+        "conversation_id": "2051628624625734095",
+        "created_at": "2026-05-05T11:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051628624625734095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051628624625734095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我这里 风格和审美大于长相 那些头像和名字看起来不错的我就觉得会是个帅哥 然后接受私信 基本上都是 有些建模不错但审美为负数…这种我也不会理会的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 363,
+          "like_count": 4257,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1256
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T07:03:49.000Z",
+        "description": "私信没有附上正脸照 主页只有身材照和🐮的不回 想拿我泄愤的贱公狗我只会骂得比你更脏 不信的可以试试",
+        "id": "2027278370317189120",
+        "location": "Guizhou",
+        "name": "Yvonne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040076894876663808/qYQgsAqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 16,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 192
+        },
+        "username": "Lany1h",
+        "verified": false
+      }
+    ]
+  }
+}

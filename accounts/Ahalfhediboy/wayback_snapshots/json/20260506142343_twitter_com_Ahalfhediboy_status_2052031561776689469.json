@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2052000692852924713",
+    "created_at": "2026-05-06T14:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052031561776689469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832086182332973056",
+          "start": 0,
+          "username": "IA8xLapV0r1980"
+        },
+        {
+          "end": 25,
+          "id": "1961773425573380096",
+          "start": 16,
+          "username": "ppmissss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052031561776689469",
+    "in_reply_to_user_id": "1832086182332973056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052001134550942183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IA8xLapV0r1980 @ppmissss 当然看男的啊。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2052000692852924713",
+        "created_at": "2026-05-06T14:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052031561776689469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832086182332973056",
+              "start": 0,
+              "username": "IA8xLapV0r1980"
+            },
+            {
+              "end": 25,
+              "id": "1961773425573380096",
+              "start": 16,
+              "username": "ppmissss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052031561776689469",
+        "in_reply_to_user_id": "1832086182332973056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052001134550942183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IA8xLapV0r1980 @ppmissss 当然看男的啊。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832086182332973056",
+        "conversation_id": "2052000692852924713",
+        "created_at": "2026-05-06T12:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052001134550942183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1961773425573380096",
+              "start": 0,
+              "username": "ppmissss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052001134550942183",
+        "in_reply_to_user_id": "1961773425573380096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052000692852924713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ppmissss 有个疑问，男同看擦边，是看男的还是女的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 373,
+          "like_count": 4358,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1285
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T15:59:41.000Z",
+        "description": "只关注有趣的。1分： 歪瓜裂枣\n2分： 样貌丑陋\n3分： 初有人形\n4分： 十分常见\n5分： 百里挑一\n6分： 千载难逢\n7分： 万众瞩目\n8分： 神颜潜质\n9分： 绝色顶配\n10分：颜值天花板。。\n讨厌我的先别骂，可以给我银行卡转钱，我最讨厌钱了",
+        "id": "1832086182332973056",
+        "name": "1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051987924196143104/R5wzWLbR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 237,
+          "like_count": 686,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 60
+        },
+        "username": "IA8xLapV0r1980",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T12:50:32.000Z",
+        "description": "求情绪稳定教程",
+        "id": "1961773425573380096",
+        "name": "^ - ^",
+        "pinned_tweet_id": "2041087241192431792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045500878376075264/nuIo4nT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4892,
+          "following_count": 38,
+          "like_count": 1493,
+          "listed_count": 13,
+          "media_count": 97,
+          "tweet_count": 997
+        },
+        "username": "ppmissss",
+        "verified": false
+      }
+    ]
+  }
+}

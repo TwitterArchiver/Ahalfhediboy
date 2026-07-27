@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045333884015960064"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2045333886347993430",
+    "created_at": "2026-04-18T02:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045333886347993430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Yw12UnXfm",
+          "end": 40,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2045333886347993430/photo/1",
+          "media_key": "3_2045333884015960064",
+          "start": 17,
+          "url": "https://t.co/7Yw12UnXfm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045333886347993430",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "夏天了 这件Yohji该封印了… https://t.co/7Yw12UnXfm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045333884015960064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGJ8VLPXYAA6HGn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045333884015960064"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2045333886347993430",
+        "created_at": "2026-04-18T02:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045333886347993430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Yw12UnXfm",
+              "end": 40,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2045333886347993430/photo/1",
+              "media_key": "3_2045333884015960064",
+              "start": 17,
+              "url": "https://t.co/7Yw12UnXfm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045333886347993430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夏天了 这件Yohji该封印了… https://t.co/7Yw12UnXfm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 253,
+          "like_count": 3213,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

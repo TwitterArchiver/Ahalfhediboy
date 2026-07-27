@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2057453129441136710",
+    "created_at": "2026-05-21T13:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057460337096450246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046433423258963968",
+          "start": 0,
+          "username": "Lois1089568"
+        },
+        {
+          "end": 25,
+          "id": "1910085836420558848",
+          "start": 13,
+          "username": "tsuinoshiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057460337096450246",
+    "in_reply_to_user_id": "2046433423258963968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057459072249504141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lois1089568 @tsuinoshiro 哎呦笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2057453129441136710",
+        "created_at": "2026-05-21T13:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057460337096450246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046433423258963968",
+              "start": 0,
+              "username": "Lois1089568"
+            },
+            {
+              "end": 25,
+              "id": "1910085836420558848",
+              "start": 13,
+              "username": "tsuinoshiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057460337096450246",
+        "in_reply_to_user_id": "2046433423258963968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057459072249504141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lois1089568 @tsuinoshiro 哎呦笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046433423258963968",
+        "conversation_id": "2057453129441136710",
+        "created_at": "2026-05-21T13:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057459072249504141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910085836420558848",
+              "start": 0,
+              "username": "tsuinoshiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057459072249504141",
+        "in_reply_to_user_id": "1910085836420558848",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057453129441136710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsuinoshiro 💪\n\n🤝\n\n🌺​\n​\n ‌͏🥰💯🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 490,
+          "like_count": 5864,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1686
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T03:38:44.000Z",
+        "description": "想找我的宝宝点这里✈;https://t.co/UXPfufgkjh 安全靠谱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/linlin801",
+                "end": 34,
+                "expanded_url": "http://t.me/linlin801",
+                "start": 11,
+                "url": "https://t.co/UXPfufgkjh"
+              }
+            ]
+          }
+        },
+        "id": "2046433423258963968",
+        "name": "暖桃~❀同城上门",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057459076737486848/ZLjCxFQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 277
+        },
+        "username": "Lois1089568",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T21:42:17.000Z",
+        "description": "这里有什么？",
+        "id": "1910085836420558848",
+        "name": "诅咒是纯白色",
+        "pinned_tweet_id": "2041532152857440448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055548430106374144/roXELH4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 395,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 2160
+        },
+        "username": "tsuinoshiro",
+        "verified": false
+      }
+    ]
+  }
+}

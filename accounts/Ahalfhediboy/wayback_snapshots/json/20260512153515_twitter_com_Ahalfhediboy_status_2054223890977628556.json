@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2054064322838429984",
+    "created_at": "2026-05-12T15:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054223890977628556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029965929116024832",
+          "start": 0,
+          "username": "Eeetoile126518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054223890977628556",
+    "in_reply_to_user_id": "2029965929116024832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054223684341211321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eeetoile126518 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2054064322838429984",
+        "created_at": "2026-05-12T15:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054223890977628556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029965929116024832",
+              "start": 0,
+              "username": "Eeetoile126518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054223890977628556",
+        "in_reply_to_user_id": "2029965929116024832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054223684341211321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eeetoile126518 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029965929116024832",
+        "conversation_id": "2054064322838429984",
+        "created_at": "2026-05-12T15:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054223684341211321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054223684341211321",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054216812502335723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 在我这里是夸奖哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 450,
+          "like_count": 5023,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1512
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T17:03:21.000Z",
+        "description": "bi🏳️‍🌈 此处为本人存放涩涩言论和吐槽现生的小号  回关随机 关取随意 ：）",
+        "id": "2029965929116024832",
+        "name": "Eeetoile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030156983635222528/89lYYInt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 10,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 111
+        },
+        "username": "Eeetoile126518",
+        "verified": false
+      }
+    ]
+  }
+}

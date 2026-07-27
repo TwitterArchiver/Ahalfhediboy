@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2052440237113332002",
+    "created_at": "2026-05-07T17:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052447029977133225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1674127999317450752",
+          "start": 0,
+          "username": "qaq944826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052447029977133225",
+    "in_reply_to_user_id": "1674127999317450752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052440237113332002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaq944826 腰很好看。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052440195946188800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHu7e-IbEAAZhs_.jpg",
+        "width": 1604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2052440237113332002",
+        "created_at": "2026-05-07T17:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052447029977133225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1674127999317450752",
+              "start": 0,
+              "username": "qaq944826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052447029977133225",
+        "in_reply_to_user_id": "1674127999317450752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052440237113332002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaq944826 腰很好看。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052440195946188800"
+          ]
+        },
+        "author_id": "1674127999317450752",
+        "conversation_id": "2052440237113332002",
+        "created_at": "2026-05-07T17:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052440237113332002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jBYbkwDm9O",
+              "end": 37,
+              "expanded_url": "https://x.com/qaq944826/status/2052440237113332002/photo/1",
+              "media_key": "3_2052440195946188800",
+              "start": 14,
+              "url": "https://t.co/jBYbkwDm9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052440237113332002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 323,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完全沉浸在拍黄图的艺术中。 https://t.co/jBYbkwDm9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 393,
+          "like_count": 4453,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T18:50:00.000Z",
+        "description": "读研 吃饭 睡觉 分享并欣赏美好肉体\n私信恶心我的 全家替我挡灾\n不回垃圾私信 不想认识你 闲聊的滚",
+        "id": "1674127999317450752",
+        "name": "淡淡的也不会顺顺的",
+        "pinned_tweet_id": "2045040127588855949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047495262323793920/0102hOay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8283,
+          "following_count": 8,
+          "like_count": 200,
+          "listed_count": 21,
+          "media_count": 25,
+          "tweet_count": 313
+        },
+        "username": "qaq944826",
+        "verified": false
+      }
+    ]
+  }
+}

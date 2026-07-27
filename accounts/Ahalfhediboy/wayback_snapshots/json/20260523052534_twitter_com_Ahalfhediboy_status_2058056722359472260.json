@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058056666591940608"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2058056722359472260",
+    "created_at": "2026-05-23T05:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T06:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058056722359472260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AuU1NHc6Yo",
+          "end": 29,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2058056722359472260/video/1",
+          "media_key": "13_2058056666591940608",
+          "start": 6,
+          "url": "https://t.co/AuU1NHc6Yo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058056722359472260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "接受不了。 https://t.co/AuU1NHc6Yo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 374580,
+        "height": 140,
+        "media_key": "13_2058056666591940608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058056666591940608/img/FxWZ5q2zyrzz9K8c.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058056666591940608/vid/avc1/246x140/g_4vdLg6JSa71XLL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058056666591940608/pl/BE4wBzUalLW9ewJW.m3u8"
+          }
+        ],
+        "width": 246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058056666591940608"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2058056722359472260",
+        "created_at": "2026-05-23T05:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058056722359472260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuU1NHc6Yo",
+              "end": 29,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2058056722359472260/video/1",
+              "media_key": "13_2058056666591940608",
+              "start": 6,
+              "url": "https://t.co/AuU1NHc6Yo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058056722359472260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接受不了。 https://t.co/AuU1NHc6Yo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 488,
+          "like_count": 6041,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1700
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

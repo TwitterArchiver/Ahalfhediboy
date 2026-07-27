@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2056236909446238491",
+    "created_at": "2026-05-18T05:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056239026223427823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1351232617350369282",
+          "start": 0,
+          "username": "Zhutai_Na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056239026223427823",
+    "in_reply_to_user_id": "1351232617350369282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056236909446238491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhutai_Na 老公养胃了怎么治"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1927,
+        "media_key": "3_2056236906820579328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk4koUWsAAKeSi.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2056236909446238491",
+        "created_at": "2026-05-18T05:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056239026223427823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1351232617350369282",
+              "start": 0,
+              "username": "Zhutai_Na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056239026223427823",
+        "in_reply_to_user_id": "1351232617350369282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056236909446238491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhutai_Na 老公养胃了怎么治"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056236906820579328"
+          ]
+        },
+        "author_id": "1351232617350369282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056236909446238491",
+        "created_at": "2026-05-18T04:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056236909446238491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MVN4ie38qw",
+              "end": 36,
+              "expanded_url": "https://x.com/Zhutai_Na/status/2056236909446238491/photo/1",
+              "media_key": "3_2056236906820579328",
+              "start": 13,
+              "url": "https://t.co/MVN4ie38qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056236909446238491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天过了我一定能硬起来💪 https://t.co/MVN4ie38qw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 472,
+          "like_count": 5508,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-18T18:19:24.000Z",
+        "description": "NYC ｜Dom i/iiii ｜天蝎Intj｜祝我不做旧梦一觉睡到天亮。我的影子，她喜欢花。",
+        "id": "1351232617350369282",
+        "location": "NYC",
+        "name": "我把烛台打翻了",
+        "pinned_tweet_id": "2030908438545416515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979757338224414720/fgEH9GkY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 11,
+          "like_count": 2001,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 180
+        },
+        "username": "Zhutai_Na",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2054212307983749605",
+    "created_at": "2026-05-12T15:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054224958042075628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029965929116024832",
+          "start": 0,
+          "username": "Eeetoile126518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054224958042075628",
+    "in_reply_to_user_id": "2029965929116024832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054212307983749605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eeetoile126518 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2054212307983749605",
+        "created_at": "2026-05-12T15:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054224958042075628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029965929116024832",
+              "start": 0,
+              "username": "Eeetoile126518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054224958042075628",
+        "in_reply_to_user_id": "2029965929116024832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054212307983749605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eeetoile126518 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029965929116024832",
+        "conversation_id": "2054212307983749605",
+        "created_at": "2026-05-12T14:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054212307983749605"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "bi"
+            },
+            {
+              "end": 144,
+              "start": 135,
+              "tag": "bisexual"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054212307983749605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日之择偶迷思#\n其实我不太喜欢太高的男生因为我好想有一种被害妄想症似的但是我万一嘴贱把男友弄生气了他要把我抓起来揍（）\n而且我觉得10cm身高差已经很可爱了\n超过10cm干什么都不太方便了\n至于女友…最矮比我矮10cm就好 高了… 没有上限 🤓✌️ \n散会！\n#bi #bisexual"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 450,
+          "like_count": 5026,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1514
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T17:03:21.000Z",
+        "description": "bi🏳️‍🌈 此处为本人存放涩涩言论和吐槽现生的小号  回关随机 关取随意 ：）",
+        "id": "2029965929116024832",
+        "name": "Eeetoile",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030156983635222528/89lYYInt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 10,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 111
+        },
+        "username": "Eeetoile126518",
+        "verified": false
+      }
+    ]
+  }
+}

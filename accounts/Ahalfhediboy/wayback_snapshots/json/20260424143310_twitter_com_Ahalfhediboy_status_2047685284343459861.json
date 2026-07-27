@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2046966801238802483",
+    "created_at": "2026-04-24T14:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047685284343459861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1481461445875355649",
+          "start": 0,
+          "username": "lir2131891"
+        },
+        {
+          "end": 28,
+          "id": "1841905391552364547",
+          "start": 12,
+          "username": "zzzZHANGxinyuan"
+        },
+        {
+          "end": 37,
+          "id": "1816489710682030080",
+          "start": 29,
+          "username": "keaiiea"
+        },
+        {
+          "end": 49,
+          "id": "1920537994605551617",
+          "start": 38,
+          "username": "XwX777Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047685284343459861",
+    "in_reply_to_user_id": "1481461445875355649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047684115798090196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lir2131891 @zzzZHANGxinyuan @keaiiea @XwX777Yuki 我要笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2047683840710524928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrVmqHbwAAPL3u.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2046966801238802483",
+        "created_at": "2026-04-24T14:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047685284343459861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1481461445875355649",
+              "start": 0,
+              "username": "lir2131891"
+            },
+            {
+              "end": 28,
+              "id": "1841905391552364547",
+              "start": 12,
+              "username": "zzzZHANGxinyuan"
+            },
+            {
+              "end": 37,
+              "id": "1816489710682030080",
+              "start": 29,
+              "username": "keaiiea"
+            },
+            {
+              "end": 49,
+              "id": "1920537994605551617",
+              "start": 38,
+              "username": "XwX777Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047685284343459861",
+        "in_reply_to_user_id": "1481461445875355649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047684115798090196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lir2131891 @zzzZHANGxinyuan @keaiiea @XwX777Yuki 我要笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047683840710524928"
+          ]
+        },
+        "author_id": "1481461445875355649",
+        "conversation_id": "2046966801238802483",
+        "created_at": "2026-04-24T14:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047684115798090196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841905391552364547",
+              "start": 0,
+              "username": "zzzZHANGxinyuan"
+            },
+            {
+              "end": 30,
+              "id": "1853967550381445127",
+              "start": 17,
+              "username": "Ahalfhediboy"
+            },
+            {
+              "end": 39,
+              "id": "1816489710682030080",
+              "start": 31,
+              "username": "keaiiea"
+            },
+            {
+              "end": 51,
+              "id": "1920537994605551617",
+              "start": 40,
+              "username": "XwX777Yuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYQacC2S7b",
+              "end": 86,
+              "expanded_url": "https://x.com/lir2131891/status/2047684115798090196/photo/1",
+              "media_key": "3_2047683840710524928",
+              "start": 63,
+              "url": "https://t.co/XYQacC2S7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047684115798090196",
+        "in_reply_to_user_id": "1841905391552364547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047403983518707857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzZHANGxinyuan @Ahalfhediboy @keaiiea @XwX777Yuki 芙宁娜哈哈哈哈哈哈哈 https://t.co/XYQacC2S7b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 303,
+          "like_count": 3604,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-13T03:01:58.000Z",
+        "description": "",
+        "id": "1481461445875355649",
+        "name": "湛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662079638825484288/lJPAM1tQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 1045,
+          "like_count": 16711,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 319
+        },
+        "username": "lir2131891",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T18:18:22.000Z",
+        "description": "",
+        "id": "1841905391552364547",
+        "name": "xin yuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841905649359499264/iRf346bL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 28,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "username": "zzzZHANGxinyuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas\n🚪88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keaiiea1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keaiiea1",
+                "start": 0,
+                "url": "https://t.co/6qTDtDAnmS"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "J0N45",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040970131346718720/QxA0zX1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 417,
+          "like_count": 26460,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 2238
+        },
+        "url": "https://t.co/6qTDtDAnmS",
+        "username": "keaiiea",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T17:55:37.000Z",
+        "description": "",
+        "id": "1920537994605551617",
+        "location": "奈落",
+        "name": "OK绷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963746294184505344/PgUUVHMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 70,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 255
+        },
+        "username": "XwX777Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

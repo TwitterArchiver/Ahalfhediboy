@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2050022866230415608",
+    "created_at": "2026-05-01T18:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T19:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050280617439359376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1259218607793475584",
+          "start": 0,
+          "username": "03128x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050280617439359376",
+    "in_reply_to_user_id": "1259218607793475584",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050022866230415608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@03128x WTF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2050022862954618880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMk7q_W4AARp4k.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2050022866230415608",
+        "created_at": "2026-05-01T18:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050280617439359376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1259218607793475584",
+              "start": 0,
+              "username": "03128x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050280617439359376",
+        "in_reply_to_user_id": "1259218607793475584",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050022866230415608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@03128x WTF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050022862954618880"
+          ]
+        },
+        "author_id": "1259218607793475584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050022866230415608",
+        "created_at": "2026-05-01T01:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050022866230415608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAX7UA2KC1",
+              "end": 23,
+              "expanded_url": "https://x.com/03128x/status/2050022866230415608/photo/1",
+              "media_key": "3_2050022862954618880",
+              "start": 0,
+              "url": "https://t.co/oAX7UA2KC1"
+            },
+            {
+              "display_url": "x.com/bigballerbernn…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/bigballerbernn/status/2049438825538339173",
+              "start": 24,
+              "url": "https://t.co/N45zTF57ZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050022866230415608",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1343,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049438825538339173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/oAX7UA2KC1 https://t.co/N45zTF57ZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 345,
+          "like_count": 4105,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-09T20:28:24.000Z",
+        "description": "21 烤馒头... ૮⸝⸝´ρ`⸝⸝ა",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/zvniina?igsh=M…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/zvniina?igsh=MWM2ZXNoODZhYmxkdQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/ECa1K3gf2p"
+              }
+            ]
+          }
+        },
+        "id": "1259218607793475584",
+        "location": "不加微信 | 🚫DM",
+        "name": "nina",
+        "pinned_tweet_id": "2047351413966066019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046965832094253056/DhrfaWzY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 160,
+          "like_count": 9503,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 2161
+        },
+        "url": "https://t.co/ECa1K3gf2p",
+        "username": "03128x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2079467594185146710",
+    "created_at": "2026-07-21T07:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079467594185146710"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079467594185146710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个人必须有一刻￼承认自己做不到某些东西 承认自己已经迷失 什么也无法掌控￼￼￼￼ 独自站在荒野里 然后在这彻底的孤独中纵身一跃 越向一个不需要依赖任何外物来证明的自己\n\n仅仅依靠自我是无法彻底摆脱绝望的￼ 绝望本身就是自我的一种疾病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2079467594185146710",
+        "created_at": "2026-07-21T07:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079467594185146710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079467594185146710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人必须有一刻￼承认自己做不到某些东西 承认自己已经迷失 什么也无法掌控￼￼￼￼ 独自站在荒野里 然后在这彻底的孤独中纵身一跃 越向一个不需要依赖任何外物来证明的自己\n\n仅仅依靠自我是无法彻底摆脱绝望的￼ 绝望本身就是自我的一种疾病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 468,
+          "like_count": 6482,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1839
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

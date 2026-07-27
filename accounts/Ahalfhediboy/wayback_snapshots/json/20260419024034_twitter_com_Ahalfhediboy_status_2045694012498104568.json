@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045694007037026304"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2045694012498104568",
+    "created_at": "2026-04-19T02:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045694012498104568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mQHhEbsrOG",
+          "end": 95,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2045694012498104568/photo/1",
+          "media_key": "3_2045694007037026304",
+          "start": 72,
+          "url": "https://t.co/mQHhEbsrOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045694012498104568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你就是我心中的最愛\n你就是我唯一的女孩\n我想與你度過這時代\nYOU COULD BE THE ONE\nYOU COULD BE THE ONE https://t.co/mQHhEbsrOG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045694007037026304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPD3GCWYAAt8hf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045694007037026304"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2045694012498104568",
+        "created_at": "2026-04-19T02:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045694012498104568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQHhEbsrOG",
+              "end": 95,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2045694012498104568/photo/1",
+              "media_key": "3_2045694007037026304",
+              "start": 72,
+              "url": "https://t.co/mQHhEbsrOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045694012498104568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你就是我心中的最愛\n你就是我唯一的女孩\n我想與你度過這時代\nYOU COULD BE THE ONE\nYOU COULD BE THE ONE https://t.co/mQHhEbsrOG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 258,
+          "like_count": 3301,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

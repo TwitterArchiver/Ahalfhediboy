@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2043672422117982341",
+    "created_at": "2026-04-13T16:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043725631624528291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2042601175300898816",
+          "start": 0,
+          "username": "Lif25605"
+        },
+        {
+          "end": 21,
+          "id": "1952612167343374336",
+          "start": 10,
+          "username": "gugugubobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043725631624528291",
+    "in_reply_to_user_id": "2042601175300898816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043679803459690873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lif25605 @gugugubobi 穿袜子在一定程度上能改善体感舒适度，间接帮助延长性爱时间并提升高潮体验。研究显示，这主要通过保持足部温暖、促进血管舒张、减轻紧张感以及提高血液循环，让大脑更专注于性爱愉悦，使80%穿袜者更容易达到高潮，特别在低温环境，舒适即是提升体验的关键。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2043672422117982341",
+        "created_at": "2026-04-13T16:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043725631624528291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2042601175300898816",
+              "start": 0,
+              "username": "Lif25605"
+            },
+            {
+              "end": 21,
+              "id": "1952612167343374336",
+              "start": 10,
+              "username": "gugugubobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043725631624528291",
+        "in_reply_to_user_id": "2042601175300898816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043679803459690873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lif25605 @gugugubobi 穿袜子在一定程度上能改善体感舒适度，间接帮助延长性爱时间并提升高潮体验。研究显示，这主要通过保持足部温暖、促进血管舒张、减轻紧张感以及提高血液循环，让大脑更专注于性爱愉悦，使80%穿袜者更容易达到高潮，特别在低温环境，舒适即是提升体验的关键。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042601175300898816",
+        "conversation_id": "2043672422117982341",
+        "created_at": "2026-04-13T13:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043679803459690873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952612167343374336",
+              "start": 0,
+              "username": "gugugubobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043679803459690873",
+        "in_reply_to_user_id": "1952612167343374336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1086,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043672422117982341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugugubobi 穿袜子可以延长射精时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 208,
+          "like_count": 2886,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 869
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T13:51:21.000Z",
+        "description": "喜欢女的不是男同谢谢",
+        "id": "2042601175300898816",
+        "name": "Lynn（见过孙笑川版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042831956229132288/f7l5I5cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 130,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 112
+        },
+        "username": "Lif25605",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T06:06:49.000Z",
+        "description": "ed 我想说什么就说什么 没有回复的义务 不加人 非单身但也没谈",
+        "id": "1952612167343374336",
+        "location": "永远的初心不改",
+        "name": "bobi",
+        "pinned_tweet_id": "2002371728643588513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952615390724628480/8sBaOw0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7120,
+          "following_count": 278,
+          "like_count": 2089,
+          "listed_count": 19,
+          "media_count": 730,
+          "tweet_count": 6232
+        },
+        "username": "gugugubobi",
+        "verified": false
+      }
+    ]
+  }
+}

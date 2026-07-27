@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2046145380031816073",
+    "created_at": "2026-04-30T05:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T06:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049722817374048309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798973564269318144",
+          "start": 0,
+          "username": "BrandiJens12162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049722817374048309",
+    "in_reply_to_user_id": "1798973564269318144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046145380031816073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrandiJens12162 我就这样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2046145380031816073",
+        "created_at": "2026-04-30T05:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049722817374048309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798973564269318144",
+              "start": 0,
+              "username": "BrandiJens12162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049722817374048309",
+        "in_reply_to_user_id": "1798973564269318144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046145380031816073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrandiJens12162 我就这样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798973564269318144",
+        "conversation_id": "2046145380031816073",
+        "created_at": "2026-04-20T08:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046145380031816073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046145380031816073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次看到地雷系萌妹 x 丑逼长发男 的组合 我就难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6TOq"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/118",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 332,
+          "like_count": 3951,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/Ltcqjj6TOq",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T07:01:57.000Z",
+        "description": "= 小媛 \nod/自伤/负能/餐券\n同类互fo互转大欢迎\n我没回fo可能是没看见 可以私信",
+        "id": "1798973564269318144",
+        "location": "骂我的全家永生永世中国人",
+        "name": "跳楼砸死鸡",
+        "pinned_tweet_id": "2048193549196501465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047343903272239104/hAOWNiWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 119,
+          "like_count": 706,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 584
+        },
+        "username": "BrandiJens12162",
+        "verified": false
+      }
+    ]
+  }
+}
