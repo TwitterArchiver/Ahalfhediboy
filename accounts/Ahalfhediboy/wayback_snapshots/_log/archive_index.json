@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-27T21:21:28",
+  "last_updated": "2026-07-27T21:22:27",
   "html": {
     "https://web.archive.org/web/20260410064358if_/https://twitter.com/Ahalfhediboy/status/2042493774182391965": {
       "status": "done",
@@ -8711,22 +8711,22 @@
   },
   "videos": {
     "https://video.twimg.com/amplify_video/2042594848885415936/vid/avc1/720x1280/hemvS1NpMoVGfAlJ.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260410155501_twitter_com_Ahalfhediboy_status_2042632451822883269.json"
       ],
-      "last_updated": "2026-07-27T20:59:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410155501im_/https://video.twimg.com/amplify_video/2042594848885415936/vid/avc1/720x1280/hemvS1NpMoVGfAlJ.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc661a42c00>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-27T21:21:50",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260410155501/https://video.twimg.com/amplify_video/2042594848885415936/vid/avc1/720x1280/hemvS1NpMoVGfAlJ.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2042669369571053569/vid/avc1/720x1188/7Wr5dcrT30iFmn8F.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260410190240_twitter_com_Ahalfhediboy_status_2042679675768512684.json"
       ],
-      "last_updated": "2026-07-27T20:59:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410190240im_/https://video.twimg.com/amplify_video/2042669369571053569/vid/avc1/720x1188/7Wr5dcrT30iFmn8F.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc661a42cf0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-27T21:21:52",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260410190240/https://video.twimg.com/amplify_video/2042669369571053569/vid/avc1/720x1188/7Wr5dcrT30iFmn8F.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/tweet_video/HFogQVnbIAAX3Py.mp4": {
       "status": "done",
@@ -8765,13 +8765,13 @@
       "last_updated": "2026-07-27T20:59:03"
     },
     "https://video.twimg.com/amplify_video/2048979989060820993/vid/avc1/960x720/ZS5g9HO_w_dcTS-h.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260428044640_twitter_com_Ahalfhediboy_status_2048987239279902991.json"
       ],
-      "last_updated": "2026-07-27T20:59:09",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260428044640/https://video.twimg.com/amplify_video/2048979989060820993/vid/avc1/960x720/ZS5g9HO_w_dcTS-h.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-27T21:21:58",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260428044640/https://video.twimg.com/amplify_video/2048979989060820993/vid/avc1/960x720/ZS5g9HO_w_dcTS-h.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc1a714a7e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2049037765967486976/vid/avc1/960x544/97lxsP_FQypCbQD7.mp4": {
       "status": "done",
@@ -8806,9 +8806,9 @@
       "referenced_by": [
         "20260507132536_twitter_com_Ahalfhediboy_status_2052379321109446755.json"
       ],
-      "last_updated": "2026-07-27T20:59:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507132536im_/https://video.twimg.com/amplify_video/2052269076941295616/vid/avc1/720x1280/-UJLLoeGN3KmFIVo.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc661ab06b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-27T21:22:02",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507132536im_/https://video.twimg.com/amplify_video/2052269076941295616/vid/avc1/720x1280/-UJLLoeGN3KmFIVo.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc1a7190d10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2052386444644331520/vid/avc1/720x1280/ueACI9hDAsij67oC.mp4": {
       "status": "done",
@@ -8825,22 +8825,22 @@
       "last_updated": "2026-07-27T16:06:25"
     },
     "https://video.twimg.com/amplify_video/2056229376446898176/vid/avc1/540x960/eLUU9P67riSy9NWG.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260518051827_twitter_com_Ahalfhediboy_status_2056242993460347320.json"
       ],
-      "last_updated": "2026-07-27T20:59:09",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260518051827/https://video.twimg.com/amplify_video/2056229376446898176/vid/avc1/540x960/eLUU9P67riSy9NWG.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-27T21:22:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518051827im_/https://video.twimg.com/amplify_video/2056229376446898176/vid/avc1/540x960/eLUU9P67riSy9NWG.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc1a7191ac0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2056229376446910464/vid/avc1/360x640/fFlN-YpvZkWMk6nS.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260518051827_twitter_com_Ahalfhediboy_status_2056242993460347320.json"
       ],
-      "last_updated": "2026-07-27T20:59:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518051827im_/https://video.twimg.com/amplify_video/2056229376446910464/vid/avc1/360x640/fFlN-YpvZkWMk6nS.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc661ab14f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-27T21:22:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518051827im_/https://video.twimg.com/amplify_video/2056229376446910464/vid/avc1/360x640/fFlN-YpvZkWMk6nS.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc1a71907a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2033334764003069952/vid/avc1/720x890/dhL4sO-PR0WEmE2l.mp4": {
       "status": "done",
@@ -8854,18 +8854,18 @@
       "referenced_by": [
         "20260520191637_twitter_com_Ahalfhediboy_status_2057178702543274415.json"
       ],
-      "last_updated": "2026-07-27T20:59:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520191637im_/https://video.twimg.com/amplify_video/2057089541836845056/vid/avc1/544x960/rcCXyr5fAF_EByXI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc661a43440>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-27T21:22:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520191637im_/https://video.twimg.com/amplify_video/2057089541836845056/vid/avc1/544x960/rcCXyr5fAF_EByXI.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc1a77990d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2057457780160901120/vid/avc1/720x1280/D09BVcbPMkPKui6k.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260521135151_twitter_com_Ahalfhediboy_status_2057459358649258255.json"
       ],
-      "last_updated": "2026-07-27T20:59:37",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521135151im_/https://video.twimg.com/amplify_video/2057457780160901120/vid/avc1/720x1280/D09BVcbPMkPKui6k.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc661a41b20>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-27T21:22:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521135151im_/https://video.twimg.com/amplify_video/2057457780160901120/vid/avc1/720x1280/D09BVcbPMkPKui6k.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc1a714b140>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2057328448759062528/vid/avc1/2160x3840/-vaZp2xOLL3zdl02.mp4": {
       "status": "done",
@@ -8900,18 +8900,18 @@
       "referenced_by": [
         "20260603140932_twitter_com_Ahalfhediboy_status_2062174852652359729.json"
       ],
-      "last_updated": "2026-07-27T20:59:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603140932im_/https://video.twimg.com/amplify_video/2062060628500688896/vid/avc1/720x1280/KdqqLLNA04VCQOux.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc661ab0800>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-27T21:22:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603140932im_/https://video.twimg.com/amplify_video/2062060628500688896/vid/avc1/720x1280/KdqqLLNA04VCQOux.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc1a7191310>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2063460585019236352/vid/avc1/720x1280/QNpD3tgvSnnH2aEN.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260607031902_twitter_com_Ahalfhediboy_status_2063460700026998887.json"
       ],
-      "last_updated": "2026-07-27T20:59:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607031902im_/https://video.twimg.com/amplify_video/2063460585019236352/vid/avc1/720x1280/QNpD3tgvSnnH2aEN.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc661ab19d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-27T21:22:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260607031902im_/https://video.twimg.com/amplify_video/2063460585019236352/vid/avc1/720x1280/QNpD3tgvSnnH2aEN.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc1a71926c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2064013463286919168/vid/avc1/720x1280/FsbkoEQ2owOWzK4s.mp4": {
       "status": "done",
@@ -13977,7 +13977,7 @@
       "miss_count": 2
     },
     "20260410190240_twitter_com_Ahalfhediboy_status_2042679675768512684.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -13988,7 +13988,7 @@
           "https://pbs.twimg.com/profile_images/1991445945578647552/P-LIO0kK_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T20:59:10",
+      "last_updated": "2026-07-27T21:21:52",
       "miss_count": 2
     },
     "20260410191846_twitter_com_Ahalfhediboy_status_2042683726610444666.json": {
@@ -18482,7 +18482,7 @@
       "miss_count": 2
     },
     "20260428044640_twitter_com_Ahalfhediboy_status_2048987239279902991.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -18493,7 +18493,7 @@
           "https://pbs.twimg.com/profile_images/2046135128557322240/byBPTCRO_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T21:00:09",
+      "last_updated": "2026-07-27T21:21:58",
       "miss_count": 2
     },
     "20260428123934_twitter_com_Ahalfhediboy_status_2049106246372884565.json": {
