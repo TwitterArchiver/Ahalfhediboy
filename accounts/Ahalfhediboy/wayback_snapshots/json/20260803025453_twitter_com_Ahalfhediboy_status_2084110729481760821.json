@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2084080386456633557",
+    "created_at": "2026-08-03T02:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084110729481760821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048082086737682432",
+          "start": 0,
+          "username": "_gotmeburning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084110729481760821",
+    "in_reply_to_user_id": "2048082086737682432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084080386456633557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_gotmeburning 17p拍照蛮好玩"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084080386456633557].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084080386456633557",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084080386456633557"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2084080386456633557",
+        "created_at": "2026-08-03T02:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084110729481760821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048082086737682432",
+              "start": 0,
+              "username": "_gotmeburning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084110729481760821",
+        "in_reply_to_user_id": "2048082086737682432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084080386456633557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_gotmeburning 17p拍照蛮好玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 447,
+          "like_count": 6541,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T16:50:21.000Z",
+        "description": "日记本\n想养一只伯恩山",
+        "id": "2048082086737682432",
+        "location": "上海",
+        "name": "多选题",
+        "pinned_tweet_id": "2063601573553455353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082971126918250496/zRPWqp1Y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 374,
+          "like_count": 9478,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "_gotmeburning",
+        "verified": false
+      }
+    ]
+  }
+}

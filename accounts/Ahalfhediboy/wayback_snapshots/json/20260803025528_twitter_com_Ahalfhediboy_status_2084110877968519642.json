@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2083946205189644324",
+    "created_at": "2026-08-03T02:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084110877968519642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893114795911720960",
+          "start": 0,
+          "username": "dontgiva_fvck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084110877968519642",
+    "in_reply_to_user_id": "1893114795911720960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083946205189644324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dontgiva_fvck 什么鬼啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083946194611654658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuqBdTa0AIjGTD.jpg",
+        "width": 588
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2083946194557116416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuqBdGaoAAP0kO.jpg",
+        "width": 698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2083946205189644324",
+        "created_at": "2026-08-03T02:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084110877968519642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893114795911720960",
+              "start": 0,
+              "username": "dontgiva_fvck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084110877968519642",
+        "in_reply_to_user_id": "1893114795911720960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083946205189644324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontgiva_fvck 什么鬼啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083946194611654658",
+            "3_2083946194557116416"
+          ]
+        },
+        "author_id": "1893114795911720960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083946205189644324",
+        "created_at": "2026-08-02T16:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083946205189644324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dxbAvRjUFO",
+              "end": 37,
+              "expanded_url": "https://x.com/dontgiva_fvck/status/2083946205189644324/photo/1",
+              "media_key": "3_2083946194611654658",
+              "start": 14,
+              "url": "https://t.co/dxbAvRjUFO"
+            },
+            {
+              "display_url": "pic.x.com/dxbAvRjUFO",
+              "end": 37,
+              "expanded_url": "https://x.com/dontgiva_fvck/status/2083946205189644324/photo/1",
+              "media_key": "3_2083946194557116416",
+              "start": 14,
+              "url": "https://t.co/dxbAvRjUFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083946205189644324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2191,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天真的受够了这个傻逼世界 https://t.co/dxbAvRjUFO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 447,
+          "like_count": 6543,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1864
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T01:48:55.000Z",
+        "description": "死人微活 07\n其实我是一块薄荷巧克力…\nhttps://t.co/eNvejoaN3K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idgafdoyou",
+                "end": 44,
+                "expanded_url": "https://ngl.link/idgafdoyou",
+                "start": 21,
+                "url": "https://t.co/eNvejoaN3K"
+              }
+            ]
+          }
+        },
+        "id": "1893114795911720960",
+        "location": "80%咖啡",
+        "name": "wtf",
+        "pinned_tweet_id": "2042105986924544102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893115863513157632/aOnX11_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 904,
+          "like_count": 8193,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2811
+        },
+        "url": "",
+        "username": "dontgiva_fvck",
+        "verified": false
+      }
+    ]
+  }
+}

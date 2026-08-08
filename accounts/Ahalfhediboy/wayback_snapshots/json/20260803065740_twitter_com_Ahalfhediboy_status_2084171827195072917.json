@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2075052527905816943",
+    "created_at": "2026-08-03T06:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084171827195072917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893114795911720960",
+          "start": 0,
+          "username": "dontgiva_fvck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084171827195072917",
+    "in_reply_to_user_id": "1893114795911720960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075052527905816943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dontgiva_fvck 我也感觉我是这样的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075052508503011328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMwRQyua8AA9Aiv.jpg",
+        "width": 186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2075052527905816943",
+        "created_at": "2026-08-03T06:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084171827195072917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893114795911720960",
+              "start": 0,
+              "username": "dontgiva_fvck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084171827195072917",
+        "in_reply_to_user_id": "1893114795911720960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075052527905816943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontgiva_fvck 我也感觉我是这样的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075052508503011328"
+          ]
+        },
+        "author_id": "1893114795911720960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075052527905816943",
+        "created_at": "2026-07-09T03:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075052527905816943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IjlyyuEsAw",
+              "end": 29,
+              "expanded_url": "https://x.com/dontgiva_fvck/status/2075052527905816943/photo/1",
+              "media_key": "3_2075052508503011328",
+              "start": 6,
+              "url": "https://t.co/IjlyyuEsAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075052527905816943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 828,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无可救药了 https://t.co/IjlyyuEsAw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "184/108",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 447,
+          "like_count": 6577,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1879
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T01:48:55.000Z",
+        "description": "死人微活 07\n其实我是一块薄荷巧克力…\nhttps://t.co/eNvejoaN3K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idgafdoyou",
+                "end": 44,
+                "expanded_url": "https://ngl.link/idgafdoyou",
+                "start": 21,
+                "url": "https://t.co/eNvejoaN3K"
+              }
+            ]
+          }
+        },
+        "id": "1893114795911720960",
+        "location": "80%咖啡",
+        "name": "wtf",
+        "pinned_tweet_id": "2042105986924544102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893115863513157632/aOnX11_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 904,
+          "like_count": 8195,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2811
+        },
+        "url": "",
+        "username": "dontgiva_fvck",
+        "verified": false
+      }
+    ]
+  }
+}

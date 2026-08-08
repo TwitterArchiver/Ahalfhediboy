@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2083191132281057311",
+    "created_at": "2026-08-03T06:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084168618544128336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1416014992525066241",
+          "start": 0,
+          "username": "Axl67765533"
+        },
+        {
+          "end": 27,
+          "id": "1893114795911720960",
+          "start": 13,
+          "username": "dontgiva_fvck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084168618544128336",
+    "in_reply_to_user_id": "1416014992525066241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083447281362293037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Axl67765533 @dontgiva_fvck 人家就在美国啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2083191132281057311",
+        "created_at": "2026-08-03T06:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084168618544128336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1416014992525066241",
+              "start": 0,
+              "username": "Axl67765533"
+            },
+            {
+              "end": 27,
+              "id": "1893114795911720960",
+              "start": 13,
+              "username": "dontgiva_fvck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084168618544128336",
+        "in_reply_to_user_id": "1416014992525066241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083447281362293037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Axl67765533 @dontgiva_fvck 人家就在美国啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416014992525066241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2083191132281057311",
+        "created_at": "2026-08-01T06:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083447281362293037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893114795911720960",
+              "start": 0,
+              "username": "dontgiva_fvck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083447281362293037",
+        "in_reply_to_user_id": "1893114795911720960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083191132281057311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontgiva_fvck 理由嘛……你去北美留学了你就知道了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 447,
+          "like_count": 6571,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1871
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-16T12:41:09.000Z",
+        "description": "纯喷子。",
+        "id": "1416014992525066241",
+        "location": "拉姆斯代尔小镇，黑兹家",
+        "name": "松枝清显",
+        "pinned_tweet_id": "1877301073108414791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867520156290985984/IpMA3OQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1324,
+          "like_count": 18105,
+          "listed_count": 5,
+          "media_count": 28,
+          "tweet_count": 4957
+        },
+        "url": "",
+        "username": "Axl67765533",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T01:48:55.000Z",
+        "description": "死人微活 07\n其实我是一块薄荷巧克力…\nhttps://t.co/eNvejoaN3K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idgafdoyou",
+                "end": 44,
+                "expanded_url": "https://ngl.link/idgafdoyou",
+                "start": 21,
+                "url": "https://t.co/eNvejoaN3K"
+              }
+            ]
+          }
+        },
+        "id": "1893114795911720960",
+        "location": "80%咖啡",
+        "name": "wtf",
+        "pinned_tweet_id": "2042105986924544102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893115863513157632/aOnX11_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 904,
+          "like_count": 8195,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2811
+        },
+        "url": "",
+        "username": "dontgiva_fvck",
+        "verified": false
+      }
+    ]
+  }
+}

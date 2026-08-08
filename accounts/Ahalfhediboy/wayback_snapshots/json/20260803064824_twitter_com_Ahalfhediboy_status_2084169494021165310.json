@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2083191132281057311",
+    "created_at": "2026-08-03T06:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084169494021165310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083113924661297152",
+          "start": 0,
+          "username": "Sanqiakmlj"
+        },
+        {
+          "end": 26,
+          "id": "1893114795911720960",
+          "start": 12,
+          "username": "dontgiva_fvck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084169494021165310",
+    "in_reply_to_user_id": "2083113924661297152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083412938812207383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sanqiakmlj @dontgiva_fvck 能不能把你的老婆给我介绍下玩玩 我可以让你在旁边看着😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2083191132281057311",
+        "created_at": "2026-08-03T06:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084169494021165310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083113924661297152",
+              "start": 0,
+              "username": "Sanqiakmlj"
+            },
+            {
+              "end": 26,
+              "id": "1893114795911720960",
+              "start": 12,
+              "username": "dontgiva_fvck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084169494021165310",
+        "in_reply_to_user_id": "2083113924661297152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083412938812207383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sanqiakmlj @dontgiva_fvck 能不能把你的老婆给我介绍下玩玩 我可以让你在旁边看着😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083113924661297152",
+        "conversation_id": "2083191132281057311",
+        "created_at": "2026-08-01T04:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083412938812207383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893114795911720960",
+              "start": 0,
+              "username": "dontgiva_fvck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083412938812207383",
+        "in_reply_to_user_id": "1893114795911720960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083191132281057311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontgiva_fvck 中国西安麻辣烫事情你忘了？十几块钱就让一个中国人被黑人睡走 哈尔滨的事情你忘了？巴西牛排 广州三非黑人闹出来的事还少吗？你不去了解为什么国人歧视黑人 就在这里维护你的主子们 真是蠢的没边 纯纯丢国人脸 亚洲马桶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 447,
+          "like_count": 6573,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1875
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-31T08:54:35.000Z",
+        "description": "呵",
+        "id": "2083113924661297152",
+        "name": "QAn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083121473062100992/A2hS5HMs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Sanqiakmlj",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T01:48:55.000Z",
+        "description": "死人微活 07\n其实我是一块薄荷巧克力…\nhttps://t.co/eNvejoaN3K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idgafdoyou",
+                "end": 44,
+                "expanded_url": "https://ngl.link/idgafdoyou",
+                "start": 21,
+                "url": "https://t.co/eNvejoaN3K"
+              }
+            ]
+          }
+        },
+        "id": "1893114795911720960",
+        "location": "80%咖啡",
+        "name": "wtf",
+        "pinned_tweet_id": "2042105986924544102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893115863513157632/aOnX11_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 904,
+          "like_count": 8195,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2811
+        },
+        "url": "",
+        "username": "dontgiva_fvck",
+        "verified": false
+      }
+    ]
+  }
+}

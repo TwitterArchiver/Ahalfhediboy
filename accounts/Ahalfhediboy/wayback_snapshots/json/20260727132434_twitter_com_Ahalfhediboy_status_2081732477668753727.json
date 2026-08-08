@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2081650223143669770",
+    "created_at": "2026-07-27T13:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081732477668753727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1508104922952310785",
+          "start": 0,
+          "username": "roooooomo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081732477668753727",
+    "in_reply_to_user_id": "1508104922952310785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081650223143669770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roooooomo_ 哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2081650223143669770",
+        "created_at": "2026-07-27T13:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081732477668753727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1508104922952310785",
+              "start": 0,
+              "username": "roooooomo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081732477668753727",
+        "in_reply_to_user_id": "1508104922952310785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081650223143669770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roooooomo_ 哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508104922952310785",
+        "conversation_id": "2081650223143669770",
+        "created_at": "2026-07-27T07:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081650223143669770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081650223143669770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好崩溃。做了一小时做出来八秒钟难听的音乐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 463,
+          "like_count": 6531,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-27T15:33:59.000Z",
+        "description": "https://t.co/xTFjrUNEnv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onlyfans.com/mintpocky/c1",
+                "end": 23,
+                "expanded_url": "https://onlyfans.com/mintpocky/c1",
+                "start": 0,
+                "url": "https://t.co/xTFjrUNEnv"
+              }
+            ]
+          }
+        },
+        "id": "1508104922952310785",
+        "location": "好友位50usd 可Zelle可支付宝",
+        "name": "Mint Pocky",
+        "pinned_tweet_id": "2081568444579708989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890657697382473728/9bQdu4Tx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264,
+          "following_count": 577,
+          "like_count": 13276,
+          "listed_count": 8,
+          "media_count": 360,
+          "tweet_count": 3801
+        },
+        "url": "",
+        "username": "roooooomo_",
+        "verified": false
+      }
+    ]
+  }
+}

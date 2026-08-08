@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2083873647840874849",
+    "created_at": "2026-08-03T07:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084181968963391810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1950645620429275136",
+          "start": 0,
+          "username": "1kiiou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084181968963391810",
+    "in_reply_to_user_id": "1950645620429275136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084181771311353971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1kiiou 哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2083873647840874849",
+        "created_at": "2026-08-03T07:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084181968963391810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1950645620429275136",
+              "start": 0,
+              "username": "1kiiou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084181968963391810",
+        "in_reply_to_user_id": "1950645620429275136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084181771311353971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1kiiou 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950645620429275136",
+        "conversation_id": "2083873647840874849",
+        "created_at": "2026-08-03T07:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084181771311353971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084181771311353971",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084181201078649270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 好看但不好抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "184/108",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 447,
+          "like_count": 6599,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1881
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T19:52:25.000Z",
+        "description": "皮下是小猫\n@zzzyuuii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "zzzyuuii"
+              }
+            ]
+          }
+        },
+        "id": "1950645620429275136",
+        "location": "暖暖的被窝里",
+        "name": "季风",
+        "pinned_tweet_id": "2056205109793579464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078887593505325056/P9F0qR3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 157,
+          "like_count": 10891,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 4846
+        },
+        "url": "",
+        "username": "1kiiou",
+        "verified": false
+      }
+    ]
+  }
+}

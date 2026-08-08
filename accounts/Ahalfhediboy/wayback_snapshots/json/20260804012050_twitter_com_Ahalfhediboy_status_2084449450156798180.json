@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2083191132281057311",
+    "created_at": "2026-08-04T01:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084449450156798180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842194320998400001",
+          "start": 0,
+          "username": "tonytunggi70755"
+        },
+        {
+          "end": 32,
+          "id": "2059249764730834944",
+          "start": 17,
+          "username": "SeptimusWaoxti"
+        },
+        {
+          "end": 47,
+          "id": "1893114795911720960",
+          "start": 33,
+          "username": "dontgiva_fvck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084449450156798180",
+    "in_reply_to_user_id": "1842194320998400001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084333497468977346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tonytunggi70755 @SeptimusWaoxti @dontgiva_fvck 😂您从哪个地方看到了我是辍学嗑药的呢？提西是减肥针 我和楼主都在美国上学 而你😂😂😂先多补充补充知识吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2083191132281057311",
+        "created_at": "2026-08-04T01:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084449450156798180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842194320998400001",
+              "start": 0,
+              "username": "tonytunggi70755"
+            },
+            {
+              "end": 32,
+              "id": "2059249764730834944",
+              "start": 17,
+              "username": "SeptimusWaoxti"
+            },
+            {
+              "end": 47,
+              "id": "1893114795911720960",
+              "start": 33,
+              "username": "dontgiva_fvck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084449450156798180",
+        "in_reply_to_user_id": "1842194320998400001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084333497468977346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tonytunggi70755 @SeptimusWaoxti @dontgiva_fvck 😂您从哪个地方看到了我是辍学嗑药的呢？提西是减肥针 我和楼主都在美国上学 而你😂😂😂先多补充补充知识吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842194320998400001",
+        "conversation_id": "2083191132281057311",
+        "created_at": "2026-08-03T17:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084333497468977346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            },
+            {
+              "end": 29,
+              "id": "2059249764730834944",
+              "start": 14,
+              "username": "SeptimusWaoxti"
+            },
+            {
+              "end": 44,
+              "id": "1893114795911720960",
+              "start": 30,
+              "username": "dontgiva_fvck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084333497468977346",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084166130860453977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy @SeptimusWaoxti @dontgiva_fvck 笑死，又是个辍学磕药的傻福😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "184/108",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 450,
+          "like_count": 6599,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1885
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T13:25:51.000Z",
+        "description": "北美财险精算师",
+        "id": "1842194320998400001",
+        "location": "Vancouver, British Columbia",
+        "name": "TTungi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897934054378422272/IbyIUClD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 471,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "tonytunggi70755",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T12:29:57.000Z",
+        "description": "每个人都被困在一个小笼子里，而即使有的人突破了一个笼子，ta所将面对的无非是面对另一个笼子而已。只不过有的人的笼子恰当，有的人笼子丑陋不堪。所以，笼子中的人啊，因为，笼子的不同而隔着笼子互骂吧。",
+        "id": "2059249764730834944",
+        "location": "中国",
+        "name": "虚幻也是一种真实",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062339830030209024/HkE8vsWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 83,
+          "like_count": 3084,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 2861
+        },
+        "url": "",
+        "username": "SeptimusWaoxti",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T01:48:55.000Z",
+        "description": "死人微活 07\n其实我是一块薄荷巧克力…\nhttps://t.co/eNvejoaN3K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/idgafdoyou",
+                "end": 44,
+                "expanded_url": "https://ngl.link/idgafdoyou",
+                "start": 21,
+                "url": "https://t.co/eNvejoaN3K"
+              }
+            ]
+          }
+        },
+        "id": "1893114795911720960",
+        "location": "80%咖啡",
+        "name": "wtf",
+        "pinned_tweet_id": "2042105986924544102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893115863513157632/aOnX11_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 905,
+          "like_count": 8215,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2817
+        },
+        "url": "",
+        "username": "dontgiva_fvck",
+        "verified": false
+      }
+    ]
+  }
+}

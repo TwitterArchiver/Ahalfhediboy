@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084112636828864513",
+        "3_2084112636828930048",
+        "3_2084112636812095489",
+        "3_2084112636816281602"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2084112639509004565",
+    "created_at": "2026-08-03T03:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084112639509004565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/peF0VjZl2e",
+          "end": 26,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2084112639509004565/photo/1",
+          "media_key": "3_2084112636828864513",
+          "start": 3,
+          "url": "https://t.co/peF0VjZl2e"
+        },
+        {
+          "display_url": "pic.x.com/peF0VjZl2e",
+          "end": 26,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2084112639509004565/photo/1",
+          "media_key": "3_2084112636828930048",
+          "start": 3,
+          "url": "https://t.co/peF0VjZl2e"
+        },
+        {
+          "display_url": "pic.x.com/peF0VjZl2e",
+          "end": 26,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2084112639509004565/photo/1",
+          "media_key": "3_2084112636812095489",
+          "start": 3,
+          "url": "https://t.co/peF0VjZl2e"
+        },
+        {
+          "display_url": "pic.x.com/peF0VjZl2e",
+          "end": 26,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2084112639509004565/photo/1",
+          "media_key": "3_2084112636816281602",
+          "start": 3,
+          "url": "https://t.co/peF0VjZl2e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084112639509004565",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "禁烟 https://t.co/peF0VjZl2e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2084112636828864513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxBZq4WUAECS6G.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2084112636828930048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxBZq4XUAAc1F7.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2084112636812095489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxBZq0WcAElxN9.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2084112636816281602",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxBZq1WUAICRTT.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084112636828864513",
+            "3_2084112636828930048",
+            "3_2084112636812095489",
+            "3_2084112636816281602"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2084112639509004565",
+        "created_at": "2026-08-03T03:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084112639509004565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/peF0VjZl2e",
+              "end": 26,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2084112639509004565/photo/1",
+              "media_key": "3_2084112636828864513",
+              "start": 3,
+              "url": "https://t.co/peF0VjZl2e"
+            },
+            {
+              "display_url": "pic.x.com/peF0VjZl2e",
+              "end": 26,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2084112639509004565/photo/1",
+              "media_key": "3_2084112636828930048",
+              "start": 3,
+              "url": "https://t.co/peF0VjZl2e"
+            },
+            {
+              "display_url": "pic.x.com/peF0VjZl2e",
+              "end": 26,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2084112639509004565/photo/1",
+              "media_key": "3_2084112636812095489",
+              "start": 3,
+              "url": "https://t.co/peF0VjZl2e"
+            },
+            {
+              "display_url": "pic.x.com/peF0VjZl2e",
+              "end": 26,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2084112639509004565/photo/1",
+              "media_key": "3_2084112636816281602",
+              "start": 3,
+              "url": "https://t.co/peF0VjZl2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084112639509004565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "禁烟 https://t.co/peF0VjZl2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "本宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 447,
+          "like_count": 6543,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1864
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

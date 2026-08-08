@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2084501070512845153",
+    "created_at": "2026-08-04T06:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084522417037164549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2068763627226796032",
+          "start": 0,
+          "username": "monstebkod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084522417037164549",
+    "in_reply_to_user_id": "2068763627226796032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084516768220123423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@monstebkod 😂这么急"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2084501070512845153",
+        "created_at": "2026-08-04T06:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084522417037164549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2068763627226796032",
+              "start": 0,
+              "username": "monstebkod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084522417037164549",
+        "in_reply_to_user_id": "2068763627226796032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084516768220123423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@monstebkod 😂这么急"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068763627226796032",
+        "conversation_id": "2084501070512845153",
+        "created_at": "2026-08-04T05:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084516768220123423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084516768220123423",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084501070512845153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 去外面卖个逼也是给你长脸了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "184/108",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2084501070512845153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 450,
+          "like_count": 6616,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T18:33:52.000Z",
+        "description": "",
+        "id": "2068763627226796032",
+        "name": "耄耋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068764592076169216/ZMvexwBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "monstebkod",
+        "verified": false
+      }
+    ]
+  }
+}
