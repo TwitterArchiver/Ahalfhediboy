@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2085824617772470640",
+    "created_at": "2026-08-09T06:00:17.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086331712657596922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235200392637620225",
+          "start": 0,
+          "username": "Ggloria012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086331712657596922",
+    "in_reply_to_user_id": "1235200392637620225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085824617772470640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ggloria012 真分"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2085824613615898624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPJWb1ZXkAAjJIo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2085824617772470640",
+        "created_at": "2026-08-09T06:00:17.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086331712657596922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235200392637620225",
+              "start": 0,
+              "username": "Ggloria012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086331712657596922",
+        "in_reply_to_user_id": "1235200392637620225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085824617772470640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ggloria012 真分"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085824613615898624"
+          ]
+        },
+        "author_id": "1235200392637620225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085824617772470640",
+        "created_at": "2026-08-07T20:25:16.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085824617772470640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKuBZYJiAq",
+              "end": 29,
+              "expanded_url": "https://x.com/Ggloria012/status/2085824617772470640/photo/1",
+              "media_key": "3_2085824613615898624",
+              "start": 6,
+              "url": "https://t.co/bKuBZYJiAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085824617772470640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2085824613615898624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 758,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "对面已吓哭 https://t.co/bKuBZYJiAq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2086331712657596922",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2084501070512845153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 453,
+          "like_count": 6617,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1922
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-04T13:48:32.000Z",
+        "description": "纽约，记录我的火影手游、做饭和滑板。有🚪",
+        "id": "1235200392637620225",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086328872627265632",
+        "name": "NYC两百延迟大手子",
+        "pinned_tweet_id": "2083985077990568161",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1235200392637620225/1770666961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085824810978844672/59HT2xjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 144,
+          "like_count": 2674,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "Ggloria012",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

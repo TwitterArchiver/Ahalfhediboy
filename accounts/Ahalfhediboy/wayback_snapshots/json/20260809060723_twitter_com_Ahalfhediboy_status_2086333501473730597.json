@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2086238451460948227",
+    "created_at": "2026-08-09T06:07:23.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086333501473730597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753308935422091264",
+          "start": 0,
+          "username": "daidaihan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086333501473730597",
+    "in_reply_to_user_id": "1753308935422091264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086238451460948227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daidaihan_ 这期我好想在哪看过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2086238451460948227",
+        "created_at": "2026-08-09T06:07:23.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086333501473730597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753308935422091264",
+              "start": 0,
+              "username": "daidaihan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086333501473730597",
+        "in_reply_to_user_id": "1753308935422091264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086238451460948227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daidaihan_ 这期我好想在哪看过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753308935422091264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2086238451460948227",
+        "created_at": "2026-08-08T23:49:41.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T00:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086238451460948227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086238451460948227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纽约曼岛 低沉磁性嗓 普通话标准(。)  爱好众多 比如话剧(演&amp;看) 电影 读书 写作 发疯 搞抽象 身为直男吐槽直男 以及各种运动 如篮球 网球 攀岩 骑车 长跑 游泳 撸铁 所以身材好(六块腹肌明显) 技术佳 体力好 耐力久。会玩儿 爱玩儿 有趣儿 擅长提供情绪价值 有脑子 尊重女性 sophisticated"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2086333501473730597",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2084501070512845153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 453,
+          "like_count": 6623,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1926
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T06:46:51.000Z",
+        "description": "les",
+        "id": "1753308935422091264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086303843692818853",
+        "name": "季节",
+        "pinned_tweet_id": "2014692846935388336",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769147418023505921/pN_gKrDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5218,
+          "following_count": 59,
+          "like_count": 849,
+          "listed_count": 6,
+          "media_count": 20,
+          "tweet_count": 284
+        },
+        "url": "",
+        "username": "daidaihan_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

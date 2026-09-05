@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2085954361864167579",
+    "created_at": "2026-08-09T06:05:33.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086333039710195949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1893405496851222529",
+          "start": 0,
+          "username": "CvCilli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086333039710195949",
+    "in_reply_to_user_id": "1893405496851222529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085954361864167579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CvCilli 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085954355123949568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLMbyLXkAAsnDy.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2085954361864167579",
+        "created_at": "2026-08-09T06:05:33.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086333039710195949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893405496851222529",
+              "start": 0,
+              "username": "CvCilli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086333039710195949",
+        "in_reply_to_user_id": "1893405496851222529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085954361864167579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CvCilli 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085954355123949568"
+          ]
+        },
+        "author_id": "1893405496851222529",
+        "conversation_id": "2085954361864167579",
+        "created_at": "2026-08-08T05:00:49.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T06:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085954361864167579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8YVCH9zBw",
+              "end": 32,
+              "expanded_url": "https://x.com/CvCilli/status/2085954361864167579/photo/1",
+              "media_key": "3_2085954355123949568",
+              "start": 9,
+              "url": "https://t.co/B8YVCH9zBw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085954361864167579",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2085954355123949568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人机他妈滚行不。 https://t.co/B8YVCH9zBw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2086333039710195949",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2084501070512845153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 453,
+          "like_count": 6623,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1925
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-22T21:00:40.000Z",
+        "description": "",
+        "id": "1893405496851222529",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086325985033515071",
+        "name": "。，",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1893405496851222529/1776062133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074087608641024000/RxukjN5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "CvCilli",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

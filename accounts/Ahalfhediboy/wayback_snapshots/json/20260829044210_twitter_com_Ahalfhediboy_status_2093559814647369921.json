@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093559810981601280",
+        "3_2093559811040321536",
+        "3_2093559811015102464",
+        "3_2093559811010891776"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2093559814647369921",
+    "created_at": "2026-08-29T04:42:10.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T05:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093559814647369921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rW6zU53EdB",
+          "end": 28,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2093559814647369921/photo/1",
+          "media_key": "3_2093559810981601280",
+          "start": 5,
+          "url": "https://t.co/rW6zU53EdB"
+        },
+        {
+          "display_url": "pic.x.com/rW6zU53EdB",
+          "end": 28,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2093559814647369921/photo/1",
+          "media_key": "3_2093559811040321536",
+          "start": 5,
+          "url": "https://t.co/rW6zU53EdB"
+        },
+        {
+          "display_url": "pic.x.com/rW6zU53EdB",
+          "end": 28,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2093559814647369921/photo/1",
+          "media_key": "3_2093559811015102464",
+          "start": 5,
+          "url": "https://t.co/rW6zU53EdB"
+        },
+        {
+          "display_url": "pic.x.com/rW6zU53EdB",
+          "end": 28,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2093559814647369921/photo/1",
+          "media_key": "3_2093559811010891776",
+          "start": 5,
+          "url": "https://t.co/rW6zU53EdB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093559814647369921",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093559810981601280"
+      },
+      {
+        "media_key": "3_2093559811040321536"
+      },
+      {
+        "media_key": "3_2093559811015102464"
+      },
+      {
+        "media_key": "3_2093559811010891776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好爽啊 https://t.co/rW6zU53EdB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1613,
+        "media_key": "3_2093559810981601280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3RjlGXoAAgA0m.jpg",
+        "width": 1206
+      },
+      {
+        "height": 902,
+        "media_key": "3_2093559811040321536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3RjlUXoAADSN_.jpg",
+        "width": 1206
+      },
+      {
+        "height": 902,
+        "media_key": "3_2093559811015102464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3RjlOW0AAONKL.jpg",
+        "width": 1206
+      },
+      {
+        "height": 902,
+        "media_key": "3_2093559811010891776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3RjlNWkAAiSjf.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093559810981601280",
+            "3_2093559811040321536",
+            "3_2093559811015102464",
+            "3_2093559811010891776"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2093559814647369921",
+        "created_at": "2026-08-29T04:42:10.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093559814647369921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rW6zU53EdB",
+              "end": 28,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2093559814647369921/photo/1",
+              "media_key": "3_2093559810981601280",
+              "start": 5,
+              "url": "https://t.co/rW6zU53EdB"
+            },
+            {
+              "display_url": "pic.x.com/rW6zU53EdB",
+              "end": 28,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2093559814647369921/photo/1",
+              "media_key": "3_2093559811040321536",
+              "start": 5,
+              "url": "https://t.co/rW6zU53EdB"
+            },
+            {
+              "display_url": "pic.x.com/rW6zU53EdB",
+              "end": 28,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2093559814647369921/photo/1",
+              "media_key": "3_2093559811015102464",
+              "start": 5,
+              "url": "https://t.co/rW6zU53EdB"
+            },
+            {
+              "display_url": "pic.x.com/rW6zU53EdB",
+              "end": 28,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2093559814647369921/photo/1",
+              "media_key": "3_2093559811010891776",
+              "start": 5,
+              "url": "https://t.co/rW6zU53EdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093559814647369921",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093559810981601280"
+          },
+          {
+            "media_key": "3_2093559811040321536"
+          },
+          {
+            "media_key": "3_2093559811015102464"
+          },
+          {
+            "media_key": "3_2093559811010891776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好爽啊 https://t.co/rW6zU53EdB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2093559814647369921",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2086721290702901756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 430,
+          "like_count": 6707,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1973
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

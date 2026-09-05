@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2086147328386503064",
+    "created_at": "2026-08-09T05:50:08.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086329160977268821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3076708058",
+          "start": 0,
+          "username": "ZhsomeWm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086329160977268821",
+    "in_reply_to_user_id": "3076708058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086147328386503064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhsomeWm 骂到我了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2086147328386503064",
+        "created_at": "2026-08-09T05:50:08.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086329160977268821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3076708058",
+              "start": 0,
+              "username": "ZhsomeWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086329160977268821",
+        "in_reply_to_user_id": "3076708058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086147328386503064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhsomeWm 骂到我了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3076708058",
+        "conversation_id": "2086147328386503064",
+        "created_at": "2026-08-08T17:47:36.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T18:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086147328386503064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BrandiJens1216…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/BrandiJens12162/status/2046145380031816073",
+              "start": 58,
+              "url": "https://t.co/sHc0SkpU4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086147328386503064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046145380031816073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎 长发男亦有高低呀............一想到身材有点胖的地雷受到的恶意比丑逼长发男小很多就觉得世界真是完蛋了 https://t.co/sHc0SkpU4P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2086329160977268821",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2084501070512845153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 451,
+          "like_count": 6606,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1918
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-03-13T13:18:38.000Z",
+        "description": "独游制作人，叫我瓜就好/在成人之前 想先成为自己\n\n前红圈所小P，可咨询🚪600 一次，可以回复两轮，除了经济犯罪不接刑事咨询，互关免费🐦‍⬛\n\nじらいずき",
+        "id": "3076708058",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2086156270487421099",
+        "name": "瓜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3076708058/1577805239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/824126398323367937/wzLI-aXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 568,
+          "like_count": 2456,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 490
+        },
+        "url": "",
+        "username": "ZhsomeWm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

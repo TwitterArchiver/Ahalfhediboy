@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2084678642936791514",
+    "created_at": "2026-08-09T05:55:11.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086330428919554349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1168639184514506752",
+          "start": 0,
+          "username": "oooky12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086330428919554349",
+    "in_reply_to_user_id": "1168639184514506752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084678642936791514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oooky12138 刷推遇到前女友…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2084678642936791514",
+        "created_at": "2026-08-09T05:55:11.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086330428919554349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1168639184514506752",
+              "start": 0,
+              "username": "oooky12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086330428919554349",
+        "in_reply_to_user_id": "1168639184514506752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084678642936791514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oooky12138 刷推遇到前女友…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1168639184514506752",
+        "conversation_id": "2084678642936791514",
+        "created_at": "2026-08-04T16:31:34.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084678642936791514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084678642936791514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 82722,
+          "like_count": 213,
+          "quote_count": 0,
+          "reply_count": 116,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个纽约可以再小一点吗？💀💀\n我感觉我认识一个就会有共友啊啊啊\n可以不和共友或者朋友吃同一根🐔8吗？\n💀💀💀💀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2086330428919554349",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2084501070512845153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 452,
+          "like_count": 6614,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1920
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-02T21:38:02.000Z",
+        "description": "🇺🇸",
+        "id": "1168639184514506752",
+        "is_identity_verified": false,
+        "location": "NYC",
+        "most_recent_tweet_id": "2086197127848374432",
+        "name": "oooky",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168639184514506752/1692852531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694572046284365824/9vK8pOxY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4146,
+          "following_count": 801,
+          "like_count": 1806,
+          "listed_count": 17,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "oooky12138",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

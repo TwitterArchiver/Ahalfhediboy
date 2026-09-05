@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2087598012315185161",
+    "created_at": "2026-08-14T07:26:30.000Z",
+    "display_text_range": [
+      11,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088165352232399319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1563692479362215936",
+          "start": 0,
+          "username": "YiDiLei00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088165352232399319",
+    "in_reply_to_user_id": "1563692479362215936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087598012315185161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiDiLei00 像我这样天生不怎么好看的就很痛苦啦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2087598012315185161",
+        "created_at": "2026-08-14T07:26:30.000Z",
+        "display_text_range": [
+          11,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088165352232399319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1563692479362215936",
+              "start": 0,
+              "username": "YiDiLei00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088165352232399319",
+        "in_reply_to_user_id": "1563692479362215936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087598012315185161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiDiLei00 像我这样天生不怎么好看的就很痛苦啦…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563692479362215936",
+        "conversation_id": "2087598012315185161",
+        "created_at": "2026-08-12T17:52:06.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087598012315185161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087598012315185161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 104312,
+          "like_count": 1635,
+          "quote_count": 12,
+          "reply_count": 270,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "我对长得帅的长发男其实隐隐有一种恐惧，因为他们身边完全不缺女孩，尤其是漂亮的女孩，微信列表堪比女儿国，和这种人接触纯粹就是自讨苦吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2088165352232399319",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2084501070512845153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 442,
+          "like_count": 6704,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 1952
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-28T00:58:42.000Z",
+        "description": "一滴泪的重量",
+        "id": "1563692479362215936",
+        "is_identity_verified": false,
+        "location": "鹈鹕镇",
+        "most_recent_tweet_id": "2088150411526254613",
+        "name": "Evelynn",
+        "pinned_tweet_id": "1840226717874696632",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1563692479362215936/1750522523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085827428383948800/8x7_B6Fq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 46,
+          "like_count": 5175,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "YiDiLei00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

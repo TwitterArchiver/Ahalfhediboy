@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2089795676385509848",
+    "created_at": "2026-08-19T17:27:43.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090128593099649366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2081279575099924480",
+          "start": 0,
+          "username": "Kobeggdj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090128593099649366",
+    "in_reply_to_user_id": "2081279575099924480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089795676385509848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kobeggdj 你死妈了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14234,
+        "height": 1280,
+        "media_key": "13_2089795604402913280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089795604402913280/img/ab1R7JH-HF1UffrZ.jpg",
+        "public_metrics": {
+          "view_count": 468302
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089795604402913280/vid/avc1/320x698/c2kf7DqL5FvFZ54b.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089795604402913280/vid/avc1/480x1048/b0A2SLGOTLmt4zIq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089795604402913280/vid/avc1/586x1280/OsNyhBV7JZwu1BD2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089795604402913280/pl/kxntHWAiWrXXq16G.m3u8?v=cfc"
+          }
+        ],
+        "width": 586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2089795676385509848",
+        "created_at": "2026-08-19T17:27:43.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090128593099649366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2081279575099924480",
+              "start": 0,
+              "username": "Kobeggdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090128593099649366",
+        "in_reply_to_user_id": "2081279575099924480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089795676385509848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kobeggdj 你死妈了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089795604402913280"
+          ]
+        },
+        "author_id": "2081279575099924480",
+        "conversation_id": "2089795676385509848",
+        "created_at": "2026-08-18T19:24:50.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089795676385509848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFZtTKhqeW",
+              "end": 38,
+              "expanded_url": "https://x.com/Kobeggdj/status/2089795676385509848/video/1",
+              "media_key": "13_2089795604402913280",
+              "start": 15,
+              "url": "https://t.co/mFZtTKhqeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089795676385509848",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089795604402913280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 588,
+          "impression_count": 795801,
+          "like_count": 4054,
+          "quote_count": 20,
+          "reply_count": 581,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "打的就是你们这群臭婊子恋童癖 https://t.co/mFZtTKhqeW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2090128593099649366",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2084501070512845153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 431,
+          "like_count": 6687,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1959
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T07:25:44.000Z",
+        "description": "",
+        "id": "2081279575099924480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089799772005970236",
+        "name": "Kobe",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089797369546362880/Ym4XH9ZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 39,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "Kobeggdj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092489804994752512",
+        "3_2092489804986429441",
+        "3_2092489804994752513",
+        "3_2092489804994793472"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2092489808094375977",
+    "created_at": "2026-08-26T05:50:21.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T06:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092489808094375977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E78qhC5Heb",
+          "end": 62,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2092489808094375977/photo/1",
+          "media_key": "3_2092489804994752512",
+          "start": 39,
+          "url": "https://t.co/E78qhC5Heb"
+        },
+        {
+          "display_url": "pic.x.com/E78qhC5Heb",
+          "end": 62,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2092489808094375977/photo/1",
+          "media_key": "3_2092489804986429441",
+          "start": 39,
+          "url": "https://t.co/E78qhC5Heb"
+        },
+        {
+          "display_url": "pic.x.com/E78qhC5Heb",
+          "end": 62,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2092489808094375977/photo/1",
+          "media_key": "3_2092489804994752513",
+          "start": 39,
+          "url": "https://t.co/E78qhC5Heb"
+        },
+        {
+          "display_url": "pic.x.com/E78qhC5Heb",
+          "end": 62,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2092489808094375977/photo/1",
+          "media_key": "3_2092489804994793472",
+          "start": 39,
+          "url": "https://t.co/E78qhC5Heb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092489808094375977",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2092489804994752512"
+      },
+      {
+        "media_key": "3_2092489804986429441"
+      },
+      {
+        "media_key": "3_2092489804994752513"
+      },
+      {
+        "media_key": "3_2092489804994793472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Used to wish that we loved each other. https://t.co/E78qhC5Heb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2092489804994752512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoEZCLWsAA5A7U.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2092489804986429441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoEZCJXsAExipY.jpg",
+        "width": 960
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2092489804994752513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoEZCLWsAEN7kX.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2092489804994793472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoEZCLXUAA4egs.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092489804994752512",
+            "3_2092489804986429441",
+            "3_2092489804994752513",
+            "3_2092489804994793472"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2092489808094375977",
+        "created_at": "2026-08-26T05:50:21.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092489808094375977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E78qhC5Heb",
+              "end": 62,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2092489808094375977/photo/1",
+              "media_key": "3_2092489804994752512",
+              "start": 39,
+              "url": "https://t.co/E78qhC5Heb"
+            },
+            {
+              "display_url": "pic.x.com/E78qhC5Heb",
+              "end": 62,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2092489808094375977/photo/1",
+              "media_key": "3_2092489804986429441",
+              "start": 39,
+              "url": "https://t.co/E78qhC5Heb"
+            },
+            {
+              "display_url": "pic.x.com/E78qhC5Heb",
+              "end": 62,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2092489808094375977/photo/1",
+              "media_key": "3_2092489804994752513",
+              "start": 39,
+              "url": "https://t.co/E78qhC5Heb"
+            },
+            {
+              "display_url": "pic.x.com/E78qhC5Heb",
+              "end": 62,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2092489808094375977/photo/1",
+              "media_key": "3_2092489804994793472",
+              "start": 39,
+              "url": "https://t.co/E78qhC5Heb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092489808094375977",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092489804994752512"
+          },
+          {
+            "media_key": "3_2092489804986429441"
+          },
+          {
+            "media_key": "3_2092489804994752513"
+          },
+          {
+            "media_key": "3_2092489804994793472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Used to wish that we loved each other. https://t.co/E78qhC5Heb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2092489808094375977",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2086721290702901756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 434,
+          "like_count": 6706,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1971
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
