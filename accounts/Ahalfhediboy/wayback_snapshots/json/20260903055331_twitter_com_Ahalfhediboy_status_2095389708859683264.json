@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095389704359186435"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095389708859683264",
+    "created_at": "2026-09-03T05:53:31.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095389708859683264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X1MWtmkKjf",
+          "end": 23,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2095389708859683264/photo/1",
+          "media_key": "3_2095389704359186435",
+          "start": 0,
+          "url": "https://t.co/X1MWtmkKjf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095389708859683264",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095389704359186435"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/X1MWtmkKjf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095389704359186435",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRR1ZJXEAMvc8W.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095389704359186435"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095389708859683264",
+        "created_at": "2026-09-03T05:53:31.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095389708859683264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1MWtmkKjf",
+              "end": 23,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2095389708859683264/photo/1",
+              "media_key": "3_2095389704359186435",
+              "start": 0,
+              "url": "https://t.co/X1MWtmkKjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095389708859683264",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095389704359186435"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X1MWtmkKjf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2095389708859683264",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2086721290702901756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 422,
+          "like_count": 6696,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

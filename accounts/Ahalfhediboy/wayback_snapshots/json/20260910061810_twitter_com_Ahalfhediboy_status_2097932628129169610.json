@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097932615118696448"
+      ]
+    },
+    "author_id": "1853967550381445127",
+    "conversation_id": "2097932628129169610",
+    "created_at": "2026-09-10T06:18:10.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T07:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097932628129169610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l3wlEvxJPO",
+          "end": 30,
+          "expanded_url": "https://x.com/Ahalfhediboy/status/2097932628129169610/video/1",
+          "media_key": "13_2097932615118696448",
+          "start": 7,
+          "url": "https://t.co/l3wlEvxJPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097932628129169610",
+    "lang": "fr",
+    "media_metadata": [
+      {
+        "media_key": "13_2097932615118696448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "maimai https://t.co/l3wlEvxJPO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7197,
+        "height": 640,
+        "media_key": "13_2097932615118696448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097932615118696448/img/yTybBTMtJQMaM9y7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097932615118696448/vid/avc1/320x568/VlHSMfG7AZ7jA6Zk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097932615118696448/vid/avc1/360x640/1REd5XZNChWrUILH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097932615118696448/pl/bXlcxBxLSyiYgJ0_.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097932615118696448"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2097932628129169610",
+        "created_at": "2026-09-10T06:18:10.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T07:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097932628129169610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3wlEvxJPO",
+              "end": 30,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2097932628129169610/video/1",
+              "media_key": "13_2097932615118696448",
+              "start": 7,
+              "url": "https://t.co/l3wlEvxJPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097932628129169610",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2097932615118696448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "maimai https://t.co/l3wlEvxJPO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2097932628129169610",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2086721290702901756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 423,
+          "like_count": 6744,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 1979
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

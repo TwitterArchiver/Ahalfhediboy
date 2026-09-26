@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2097100305704042963",
+    "created_at": "2026-09-08T04:18:01.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097177615547187382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1664634628995444737",
+          "start": 0,
+          "username": "tuite8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097177615547187382",
+    "in_reply_to_user_id": "1664634628995444737",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097100305704042963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuite8964 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2097100305704042963",
+        "created_at": "2026-09-08T04:18:01.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097177615547187382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1664634628995444737",
+              "start": 0,
+              "username": "tuite8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097177615547187382",
+        "in_reply_to_user_id": "1664634628995444737",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097100305704042963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuite8964 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664634628995444737",
+        "conversation_id": "2097100305704042963",
+        "created_at": "2026-09-07T23:10:49.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T00:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097100305704042963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097100305704042963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我在推特上没有看见黑人要自杀的，有抑郁症的，割手od的？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2097177615547187382",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2086721290702901756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 423,
+          "like_count": 6711,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1979
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-02T14:06:52.000Z",
+        "description": "1989年6月4日出生|支持西方欧美日|兴趣🐬：Ai|反出生|海边|山里|右翼|一些新奇想法|支持od毒品枪支|不支持暴力|Lain|梁山宋江|\n【七彩电波飞舞的蝴蝶🦋，是残破圣经中的秘密】",
+        "id": "1664634628995444737",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097171424884765013",
+        "name": "岩倉玲音",
+        "pinned_tweet_id": "2096383527776592347",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1664634628995444737/1785246331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089832228817678336/qndrH38k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 126,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2191
+        },
+        "url": "",
+        "username": "tuite8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1853967550381445127",
+    "conversation_id": "2100252566936539205",
+    "created_at": "2026-09-17T01:03:53.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T02:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100390251248120236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1446135978658123779",
+          "start": 0,
+          "username": "T0X1C_R3B0Rn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100390251248120236",
+    "in_reply_to_user_id": "1446135978658123779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100252566936539205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T0X1C_R3B0Rn 滚男"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100252555955896320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWYknBbgAAN7pM.jpg",
+        "width": 2730
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100252555976790016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWYknGaUAAtRzc.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2100252566936539205",
+        "created_at": "2026-09-17T01:03:53.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100390251248120236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1446135978658123779",
+              "start": 0,
+              "username": "T0X1C_R3B0Rn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100390251248120236",
+        "in_reply_to_user_id": "1446135978658123779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100252566936539205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T0X1C_R3B0Rn 滚男"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100252555955896320",
+            "3_2100252555976790016"
+          ]
+        },
+        "author_id": "1446135978658123779",
+        "conversation_id": "2100252566936539205",
+        "created_at": "2026-09-16T15:56:47.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100252566936539205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VnS9ZE8nrN",
+              "end": 99,
+              "expanded_url": "https://x.com/T0X1C_R3B0Rn/status/2100252566936539205/photo/1",
+              "media_key": "3_2100252555955896320",
+              "start": 76,
+              "url": "https://t.co/VnS9ZE8nrN"
+            },
+            {
+              "display_url": "pic.x.com/VnS9ZE8nrN",
+              "end": 99,
+              "expanded_url": "https://x.com/T0X1C_R3B0Rn/status/2100252566936539205/photo/1",
+              "media_key": "3_2100252555976790016",
+              "start": 76,
+              "url": "https://t.co/VnS9ZE8nrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100252566936539205",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100252555955896320"
+          },
+          {
+            "media_key": "3_2100252555976790016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "當時我不明白你吸菸為什麼總盯著一個地方發呆 後來我也因為你而學會了吸菸 \n有一次我坐在路邊吸菸 我突然想起了你 想了好久突然反應過來 你當時是在想別人 https://t.co/VnS9ZE8nrN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "is_identity_verified": false,
+        "location": "184/108",
+        "most_recent_tweet_id": "2100390251248120236",
+        "name": "本宝宝",
+        "pinned_tweet_id": "2086721290702901756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853967550381445127/1776055300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052963054111895558/LKlRrjdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 419,
+          "like_count": 6727,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1980
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-07T15:31:07.000Z",
+        "description": "ftx🏳️‍⚧️ | depressive disorder | ADHD | nihilism | ビジュアル系大好き | X JAPAN大好き | Yoshiki has followed me from 2025.06.17",
+        "id": "1446135978658123779",
+        "is_identity_verified": false,
+        "location": "Paradise",
+        "most_recent_tweet_id": "2100290303026762233",
+        "name": "𝕱𝖚𝖐𝖚𝖗𝖔",
+        "pinned_tweet_id": "2088768308023865627",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1446135978658123779/1784322849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078226726640078848/SOkaRVT5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 586,
+          "like_count": 21240,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 3918
+        },
+        "url": "",
+        "username": "T0X1C_R3B0Rn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
